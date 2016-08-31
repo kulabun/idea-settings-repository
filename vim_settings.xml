@@ -67,11 +67,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472678679257">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472680262279">
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
       </file>
       <file name="/Dummy.scala" timestamp="1471693304408">
         <mark key="[" line="0" column="0" />
@@ -198,11 +198,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9iamVjdCBvID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>of</text>
       </register>
       <register name="-" type="4">
-        <text>() s;</text>
+        <text>of</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
