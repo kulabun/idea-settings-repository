@@ -1,0 +1,391 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1471713400785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" timestamp="1472670406577">
+        <mark key="'" line="819" column="16" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1472665317897">
+        <mark key="'" line="850" column="31" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1472666218180">
+        <mark key="'" line="579" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1471848001499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="/Dummy.jql" timestamp="1472624679304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/niofilesync/src/main/java/ru/labun/learning/filesync/server/Server.java" timestamp="1457352969294">
+        <mark key="[" line="90" column="30" />
+        <mark key="]" line="90" column="26" />
+        <mark key="^" line="90" column="26" />
+        <mark key="." line="90" column="26" />
+        <mark key="n" line="89" column="45" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/logs/application.log" timestamp="1471706056165">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" timestamp="1471766707824">
+        <mark key="'" line="20" column="0" />
+        <mark key="g" line="38" column="6" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472672265025">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="21" column="98" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1471693304408">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" timestamp="1471708354514">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Mail.java" timestamp="1471847938949">
+        <mark key="[" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/build.sbt" timestamp="1471675756371">
+        <mark key="a" line="14" column="0" />
+        <mark key="r" line="8" column="2" />
+        <mark key="s" line="16" column="0" />
+        <mark key="t" line="6" column="2" />
+        <mark key="'" line="3" column="0" />
+        <mark key="g" line="7" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1472670673606">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="3" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="17" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="13" column="1" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="10" column="45" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="9" column="1" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="12" column="7" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="13" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="15" column="71" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="14" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="17" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="16" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="10" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="8" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="7" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="6" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="11" column="3" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="9" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="5" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="3" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
+      <jump line="11" column="39" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="15" column="33" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="19" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="20" column="11" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="14" column="40" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="18" column="34" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="22" column="6" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="23" column="15" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="25" column="27" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="3" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
+      <jump line="7" column="8" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="273" column="22" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="274" column="82" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="353" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="320" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="271" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="314" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="321" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="292" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
+      <jump line="30" column="15" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="19" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="25" column="13" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="33" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="35" column="32" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="29" column="3" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="37" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="43" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="21" column="30" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="32" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="40" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="38" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="39" column="40" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
+      <jump line="8" column="12" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="11" column="15" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="19" column="42" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="18" column="36" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="25" column="22" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
+      <jump line="30" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="26" column="26" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="28" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="34" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="32" column="40" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="37" column="27" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="22" column="23" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>k</text>
+      </register>
+      <register name="/" type="4">
+        <text>count</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmICAgCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKE9iamVjdCBvIDogcG9qb3MpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzdgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiPGZkZnNmPiIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>action HideSideWindows</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>count</last-search>
+      <last-offset />
+      <last-pattern>count</last-pattern>
+      <last-replace>\U\1</last-replace>
+      <last-substitute>\(l..\)</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>sca</entry>
+        <entry>\(lib\)</entry>
+        <entry>\(l..\)</entry>
+        <entry>count</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action JumpToLastChange</entry>
+        <entry>w</entry>
+        <entry>action ChooseDebugConfiguration</entry>
+        <entry>action ChooseRunConfiguration</entry>
+        <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>actionlist surr</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SurroundWith</entry>
+        <entry>action GotoAction</entry>
+        <entry>actionlist live</entry>
+        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action InsertLiveTemplate</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action ExternalJavaDocs</entry>
+        <entry>action ExternalJavaDoc</entry>
+        <entry>action GotoFile</entry>
+        <entry>action HideSideWindows</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed F12</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
