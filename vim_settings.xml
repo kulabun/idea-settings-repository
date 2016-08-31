@@ -67,12 +67,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472672265025">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="21" column="98" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
+      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472676746571">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="10" />
       </file>
       <file name="/Dummy.scala" timestamp="1471693304408">
         <mark key="[" line="0" column="0" />
@@ -99,7 +98,7 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1472670673606">
+      <file name="/fragment.java" timestamp="1472676458628">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -175,71 +174,71 @@
       <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="19" column="42" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="18" column="36" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="25" column="22" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
       <jump line="30" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="26" column="26" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="28" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="34" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="32" column="40" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="27" column="22" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="37" column="27" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="46" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="22" column="23" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="25" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="27" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="37" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="22" column="31" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMC4wMGQpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMC4wMGQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3VyY2Ugfi8uaWRlYXZpbXJjICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKE9iamVjdCBvIDogcG9qb3MpIHsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIEhhc2hNYXA8T2JqZWN0LCBPYmplY3Q+IG1hcGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwYS5wdXQoIjIxMzEyNGRzZHNmIGZkIGQgc2YgcyBmcyBmc2Qgc3Mgc3Nzc3Nzc2ZkICIsICIiKTsKICAgICAgICBtYXBhLnB1dCgiIiwgIiIpCiAgICAgICAgTGlzdDxQb2pvPiBwb2pvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDIwLjAwZCkpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDEwLjAwZCkpOwogICAgICAgIHBvam9MaXNnZy5hZGQobmV3IFBvam8oIkIiLCAyMy4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMS4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkMiLCAzOC4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkIiLCAyMzMuMDBkKSk7CmRkZGRkCiAgICAgICAgICJkc2YgZHNmIGRzZiBkcyBmZHNmIHNkIiAKICAgICAgICAgImZzZCIgImZzZGtmIiAianNka2xmIiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiAoc2pkZmpzKWRmaiAic2pkZmoiICJza2FkZmprYXMiIGtoc2Rzc2QiIlBgW3NrIGhmanNrZGggc2FrZGpmaGRzIGYgYXNkZiBqc2FkaGZqayBhZGhzZmprIGFzZiBhc2RqZmsgc2FkaGYgamthaHNkamtmYXMgZGhmamsgc2RhaGZqayBoc2prZiBhcwogICAgICAgIE1hcDxTdHJpbmcsIE9wdGlvbmFsPFBvam8+PiBtYXAgPSBwb2pvTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5ncm91cGluZ0J5KFBvam86OmdldFR5cGUsIENvbGxlY3RvcnMubWF4QnkoQ29tcGFyYXRvci5jb21wYXJpbmcoUG9qbzo6Z2V0TW9uZXkpKSkpOwogICAgICAgIExpc3Q8UG9qbz4gcG9qb3MgPSBtYXAudmFsdWVzKCkuc3RyZWFtKCkubWFwKG9wIC0+IG9wLmdldCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2pvcyk7CiAgICAgICAgaWYgKHBvam9zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZm9yIChTdHJpbmdUb2tlbml6ZXIgc3RyaW5nVG9rZW5pemVyID0gbmV3IFN0cmluZ1Rva2VuaXplcigiICIpOyBzdHJpbmdUb2tlbml6ZXIuaGFzTW9yZVRva2VucygpOyApIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHN0cmluZ1Rva2VuaXplci5uZXh0VG9rZW4oKTsKICAgICAgICAgICAgICAgICAgICBpZiAocyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzIGluc3RhbmNlb2YgT2JqZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IChPYmplY3QpIHM7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbyA9IG5ldyBPYmplY3QoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzdgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiPGZkZnNmPiIiCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIEhhc2hNYXA8T2JqZWN0LCBPYmplY3Q+IG1hcGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwYS5wdXQoIjIxMzEyNGRzZHNmIGZkIGQgc2YgcyBmcyBmc2Qgc3Mgc3Nzc3Nzc2ZkICIsICIiKTsKICAgICAgICBtYXBhLnB1dCgiIiwgIiIpCiAgICAgICAgTGlzdDxQb2pvPiBwb2pvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDIwLjAwZCkpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDEwLjAwZCkpOwogICAgICAgIHBvam9MaXNnZy5hZGQobmV3IFBvam8oIkIiLCAyMy4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMS4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkMiLCAzOC4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkIiLCAyMzMuMDBkKSk7CmRkZGRkCiAgICAgICAgICJkc2YgZHNmIGRzZiBkcyBmZHNmIHNkIiAKICAgICAgICAgImZzZCIgImZzZGtmIiAianNka2xmIiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiAoc2pkZmpzKWRmaiAic2pkZmoiICJza2FkZmprYXMiIGtoc2Rzc2QiIlBgW3NrIGhmanNrZGggc2FrZGpmaGRzIGYgYXNkZiBqc2FkaGZqayBhZGhzZmprIGFzZiBhc2RqZmsgc2FkaGYgamthaHNkamtmYXMgZGhmamsgc2RhaGZqayBoc2prZiBhcwogICAgICAgIE1hcDxTdHJpbmcsIE9wdGlvbmFsPFBvam8+PiBtYXAgPSBwb2pvTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5ncm91cGluZ0J5KFBvam86OmdldFR5cGUsIENvbGxlY3RvcnMubWF4QnkoQ29tcGFyYXRvci5jb21wYXJpbmcoUG9qbzo6Z2V0TW9uZXkpKSkpOwogICAgICAgIExpc3Q8UG9qbz4gcG9qb3MgPSBtYXAudmFsdWVzKCkuc3RyZWFtKCkubWFwKG9wIC0+IG9wLmdldCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2pvcyk7CiAgICAgICAgaWYgKHBvam9zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZm9yIChTdHJpbmdUb2tlbml6ZXIgc3RyaW5nVG9rZW5pemVyID0gbmV3IFN0cmluZ1Rva2VuaXplcigiICIpOyBzdHJpbmdUb2tlbml6ZXIuaGFzTW9yZVRva2VucygpOyApIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHN0cmluZ1Rva2VuaXplci5uZXh0VG9rZW4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">CiAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ZnNkIGZzZGtmIGpzZGtsZiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiBzamRmanNkZmogc2pkZmogc2thZGZqa2FzIGtoc2RqayBoZmpza2RoIHNha2RqZmhkcyBmIGFzZGYganNhZGhmamsgYWRoc2ZqayBhc2YgYXNkamZrIHNhZGhmIGprYWhzZGprZmFzIGRoZmprIHNkYWhmamsgaHNqa2YgYXMKICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShQb2pvOjpnZXRUeXBlLCBDb2xsZWN0b3JzLm1heEJ5KENvbXBhcmF0b3IuY29tcGFyaW5nKFBvam86OmdldE1vbmV5KSkpKTsKICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9qb3MpOwogICAgICAgIGlmIChwb2pvcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nVG9rZW5pemVyIHN0cmluZ1Rva2VuaXplciA9IG5ldyBTdHJpbmdUb2tlbml6ZXIoIiAiKTsgc3RyaW5nVG9rZW5pemVyLmhhc01vcmVUb2tlbnMoKTsgKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzdHJpbmdUb2tlbml6ZXIubmV4dFRva2VuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkK</text>
+        <text encoding="base64">CiAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkK</text>
+        <text encoding="base64">ZnNkIGZzZGtmIGpzZGtsZiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiBzamRmanNkZmogc2pkZmogc2thZGZqa2FzIGtoc2RqayBoZmpza2RoIHNha2RqZmhkcyBmIGFzZGYganNhZGhmamsgYWRoc2ZqayBhc2YgYXNkamZrIHNhZGhmIGprYWhzZGprZmFzIGRoZmprIHNkYWhmamsgaHNqa2YgYXMKICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShQb2pvOjpnZXRUeXBlLCBDb2xsZWN0b3JzLm1heEJ5KENvbXBhcmF0b3IuY29tcGFyaW5nKFBvam86OmdldE1vbmV5KSkpKTsKICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9qb3MpOwogICAgICAgIGlmIChwb2pvcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nVG9rZW5pemVyIHN0cmluZ1Rva2VuaXplciA9IG5ldyBTdHJpbmdUb2tlbml6ZXIoIiAiKTsgc3RyaW5nVG9rZW5pemVyLmhhc01vcmVUb2tlbnMoKTsgKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzdHJpbmdUb2tlbml6ZXIubmV4dFRva2VuKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -262,25 +261,25 @@
         <entry>count</entry>
       </history-search>
       <history-cmd>
+        <entry>set vimsurround on</entry>
+        <entry>set vimsurround</entry>
+        <entry>set surround</entry>
+        <entry>action InsertLiveTemplate</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>action $Up</entry>
+        <entry>actionlist</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>w</entry>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry>action ChooseRunConfiguration</entry>
-        <entry>action Back</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>actionlist surr</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action SurroundWith</entry>
         <entry>action GotoAction</entry>
-        <entry>actionlist live</entry>
-        <entry>action Find</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
-        <entry>action InsertLiveTemplate</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action ExternalJavaDocs</entry>
-        <entry>action ExternalJavaDoc</entry>
-        <entry>action GotoFile</entry>
+        <entry>action EditorSelectWord</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action SurroundWith</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
@@ -385,6 +384,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
