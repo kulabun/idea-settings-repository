@@ -241,7 +241,7 @@
         <text encoding="base64">CiAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist Ace</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -279,8 +279,8 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action SurroundWith</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>actionlist Ace</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
