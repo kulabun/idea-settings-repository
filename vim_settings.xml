@@ -70,9 +70,9 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472754102324">
+      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472754983560">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="26" />
+        <mark key="[" line="107" column="31" />
         <mark key="]" line="106" column="25" />
         <mark key="." line="106" column="25" />
         <mark key="^" line="106" column="25" />
@@ -652,7 +652,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIEhhc2hNYXA8T2JqZWN0LCBPYmplY3Q+IG1hcGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwYS5wdXQoIjIxMzEyNGRzZHNmIGZkIGQgc2YgcyBmcyBmc2Qgc3Mgc3Nzc3Nzc2ZkICIsICIiKTsKICAgICAgICBtYXBhLnB1dCgiIiwgIiIpCiAgICAgICAgTGlzdDxQb2pvPiBwb2pvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDIwLjAwZCkpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDEwLjAwZCkpOwogICAgICAgIHBvam9MaXNnZy5hZGQobmV3IFBvam8oIkIiLCAyMy4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMS4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkMiLCAzOC4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkIiLCAyMzMuMDBkKSk7CmRkZGRkCiAgICAgICAgICJkc2YgZHNmIGRzZiBkcyBmZHNmIHNkIiAKICAgICAgICAgImZzZCIgImZzZGtmIiAianNka2xmIiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiAoc2pkZmpzKWRmaiAic2pkZmoiICJza2FkZmprYXMiIGtoc2Rzc2QiIlBgW3NrIGhmanNrZGggc2FrZGpmaGRzIGYgYXNkZiBqc2FkaGZqayBhZGhzZmprIGFzZiBhc2RqZmsgc2FkaGYgamthaHNkamtmYXMgZGhmamsgc2RhaGZqayBoc2prZiBhcwogICAgICAgIE1hcDxTdHJpbmcsIE9wdGlvbmFsPFBvam8+PiBtYXAgPSBwb2pvTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5ncm91cGluZ0J5KFBvam86OmdldFR5cGUsIENvbGxlY3RvcnMubWF4QnkoQ29tcGFyYXRvci5jb21wYXJpbmcoUG9qbzo6Z2V0TW9uZXkpKSkpOwogICAgICAgIExpc3Q8UG9qbz4gcG9qb3MgPSBtYXAudmFsdWVzKCkuc3RyZWFtKCkubWFwKG9wIC0+IG9wLmdldCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2pvcyk7CiAgICAgICAgaWYgKHBvam9zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZm9yIChTdHJpbmdUb2tlbml6ZXIgc3RyaW5nVG9rZW5pemVyID0gbmV3IFN0cmluZ1Rva2VuaXplcigiICIpOyBzdHJpbmdUb2tlbml6ZXIuaGFzTW9yZVRva2VucygpOyApIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHN0cmluZ1Rva2VuaXplci5uZXh0VG9rZW4oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>set showmode</text>
       </register>
     </registers>
     <search>
@@ -674,7 +674,6 @@
         <entry>.</entry>
       </history-search>
       <history-cmd>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Find</entry>
         <entry>actionlist Ace</entry>
         <entry>action SurroundWith</entry>
@@ -694,6 +693,7 @@
         <entry>promptfind</entry>
         <entry>bro</entry>
         <entry>action HideSideWindows</entry>
+        <entry>set showmode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
