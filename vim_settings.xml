@@ -3,42 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1471713400785">
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/EmployeePositionRolesResolverTest.java" timestamp="1472643163162">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/service/bucket/ContainerBucketProvider.java" timestamp="1472718585139">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="89" column="13" />
+      </file>
+      <file name="/a.dummy" timestamp="1472717422685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" timestamp="1472670406577">
-        <mark key="'" line="819" column="16" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" timestamp="1472645315711">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="112" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="82" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1472681324818">
-        <mark key="'" line="103" column="19" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1472666218180">
-        <mark key="'" line="579" column="22" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1472720943483">
+        <mark key="[" line="35" column="88" />
+        <mark key="]" line="33" column="68" />
+        <mark key="." line="33" column="68" />
+        <mark key="^" line="33" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1471848001499">
+      <file name="/Dummy.jql" timestamp="1472651703308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-      </file>
-      <file name="/Dummy.jql" timestamp="1472624679304">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/niofilesync/src/main/java/ru/labun/learning/filesync/server/Server.java" timestamp="1457352969294">
-        <mark key="[" line="90" column="30" />
-        <mark key="]" line="90" column="26" />
-        <mark key="^" line="90" column="26" />
-        <mark key="." line="90" column="26" />
-        <mark key="n" line="89" column="45" />
-      </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/meta/ApplicantMetaListener.java" timestamp="1472638521737">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
@@ -46,60 +47,137 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/AbstractSecurityTest.java" timestamp="1472645278865">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Mail.java" timestamp="1471847938949">
+        <mark key="[" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1472648157264">
+        <mark key="'" line="780" column="0" />
+        <mark key="[" line="1219" column="150" />
+        <mark key="]" line="1219" column="150" />
+        <mark key="^" line="1219" column="150" />
+        <mark key="." line="1219" column="150" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1471693304408">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/meta/ApplicantPositionMetaResolver.java" timestamp="1472638549761">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/StaffingAppAutoConfiguration.java" timestamp="1472645176137">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="59" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/HistoricalEmployeePositionRolesResolverTest.java" timestamp="1472643128571">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/repository/ApplicantProposalRepository.java" timestamp="1472644898033">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/IntelliJ Default" timestamp="1472638096871">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
+        <mark key="[" line="42" column="79" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupRepository.java" timestamp="1472653443480">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472717359244">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" timestamp="1472655585063">
+        <mark key="'" line="17" column="166" />
+        <mark key="[" line="17" column="166" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" timestamp="1472638103670">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472649609153">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="76" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/ApplicantConfiguration.java" timestamp="1472645158289">
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/HistoricalApplicantPositionRolesResolverTest.java" timestamp="1472645323404">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="113" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/repository/ProposalRepository.java" timestamp="1472644886695">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_201__applicant_attachment_permissions.sql" timestamp="1472654764448">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="246" />
+        <mark key="^" line="6" column="246" />
+        <mark key="." line="6" column="246" />
+      </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/logs/application.log" timestamp="1471706056165">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/AbstractRolesResolverTest.java" timestamp="1472635955775">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" timestamp="1471766707824">
-        <mark key="'" line="20" column="0" />
-        <mark key="g" line="38" column="6" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/Main.java" timestamp="1472681394964">
-        <mark key="'" line="9" column="37" />
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1471693304408">
+      <file name="/NewGen" timestamp="1472638096879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" timestamp="1471708354514">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
+      <file name="/fragment.java" timestamp="1472720780533">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Mail.java" timestamp="1471847938949">
-        <mark key="[" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/build.sbt" timestamp="1471675756371">
-        <mark key="a" line="14" column="0" />
-        <mark key="r" line="8" column="2" />
-        <mark key="s" line="16" column="0" />
-        <mark key="t" line="6" column="2" />
-        <mark key="'" line="3" column="0" />
-        <mark key="g" line="7" column="2" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1472676458628">
+      <file name="/Builder" timestamp="1472638096873">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -174,86 +252,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="28" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="34" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="32" column="40" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="46" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="25" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="18" column="8" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="27" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="37" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="22" column="31" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="14" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="47" column="27" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="103" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="9" column="37" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" />
+      <jump line="151" column="38" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/HistoricalApplicantPositionRolesResolverTest.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/HistoricalApplicantPositionRolesResolverTest.java" />
+      <jump line="780" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" />
+      <jump line="17" column="166" filename="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>$ARRAYS$</text>
       </register>
       <register name="-" type="4">
-        <text>of</text>
+        <text>$ARRAYS$</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>, &quot;APPLICANT_STATUS:Available&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdyb3Vwc0J5Q2F0ZWdvcnkuc3RyZWFtKCkuZmlsdGVyKGcgLT4gZ3JvdXBzU2VlQWxsQ29udGFpbmVycy5jb250YWlucyhnLmdldElkKCkpKS5maW5kQW55KCkuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9IGVsc2UgaWYgKCFncm91cHNCeUNhdGVnb3J5LmlzRW1wdHkoKSkgeyAvLyBmaWx0ZXIgYnkgcG9zaXRpb24gbG9jYXRpb24gYWdncmVnYXRpb24KICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBncm91cElkcyA9IGdyb3Vwc0J5Q2F0ZWdvcnkuc3RyZWFtKCkubWFwKEdyb3VwOjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IGxvY2F0aW9uTWV0YSA9IGdyb3VwTG9jYXRpb25SZXBvc2l0b3J5LmZpbmRCeUdyb3VwSWRJbihncm91cElkcykuc3RyZWFtKCkubWFwKEdyb3VwTG9jYXRpb246OmdldExvY2F0aW9uSWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKICAgICAgICAgICAgICAgIGxvY2F0aW9uTWV0YS5hZGQoVXBzYUNvbnN0YW50cy5BTllfTE9DQVRJT05fSUQpOwogICAgICAgICAgICAgICAgc2IuYXBwZW5kKCIgb3IgcG9zaXRpb25Mb2NhdGlvbnNBZ2dyZWdhdGlvbj1vdmw9KCIpLmFwcGVuZChTdHJpbmcuam9pbigiLCIsIGxvY2F0aW9uTWV0YSkpLmFwcGVuZCgiKSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9iamVjdCBvID0gCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3VyY2Ugfi8uaWRlYXZpbXJjICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JvdXBSZXBvc2l0b3J5LmZpbmRCeUdyb3VwQ2F0ZWdvcnlJbkFuZE1lbWJlcnNJZChncm91cENhdGVnb3JpZXMsIGVtcGxveWVlSWQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxHcm91cD4gZ2V0R3JvdXBzQnlDYXRlZ29yeUFuZFVzZXJJZChTdHJpbmcgZW1wbG95ZWVJZCwgTGlzdDxTdHJpbmc+IGdyb3VwQ2F0ZWdvcmllcykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIEhhc2hNYXA8T2JqZWN0LCBPYmplY3Q+IG1hcGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwYS5wdXQoIjIxMzEyNGRzZHNmIGZkIGQgc2YgcyBmcyBmc2Qgc3Mgc3Nzc3Nzc2ZkICIsICIiKTsKICAgICAgICBtYXBhLnB1dCgiIiwgIiIpCiAgICAgICAgTGlzdDxQb2pvPiBwb2pvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDIwLjAwZCkpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDEwLjAwZCkpOwogICAgICAgIHBvam9MaXNnZy5hZGQobmV3IFBvam8oIkIiLCAyMy4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMS4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkMiLCAzOC4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkIiLCAyMzMuMDBkKSk7CmRkZGRkCiAgICAgICAgICJkc2YgZHNmIGRzZiBkcyBmZHNmIHNkIiAKICAgICAgICAgImZzZCIgImZzZGtmIiAianNka2xmIiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiAoc2pkZmpzKWRmaiAic2pkZmoiICJza2FkZmprYXMiIGtoc2Rzc2QiIlBgW3NrIGhmanNrZGggc2FrZGpmaGRzIGYgYXNkZiBqc2FkaGZqayBhZGhzZmprIGFzZiBhc2RqZmsgc2FkaGYgamthaHNkamtmYXMgZGhmamsgc2RhaGZqayBoc2prZiBhcwogICAgICAgIE1hcDxTdHJpbmcsIE9wdGlvbmFsPFBvam8+PiBtYXAgPSBwb2pvTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5ncm91cGluZ0J5KFBvam86OmdldFR5cGUsIENvbGxlY3RvcnMubWF4QnkoQ29tcGFyYXRvci5jb21wYXJpbmcoUG9qbzo6Z2V0TW9uZXkpKSkpOwogICAgICAgIExpc3Q8UG9qbz4gcG9qb3MgPSBtYXAudmFsdWVzKCkuc3RyZWFtKCkubWFwKG9wIC0+IG9wLmdldCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2pvcyk7CiAgICAgICAgaWYgKHBvam9zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZm9yIChTdHJpbmdUb2tlbml6ZXIgc3RyaW5nVG9rZW5pemVyID0gbmV3IFN0cmluZ1Rva2VuaXplcigiICIpOyBzdHJpbmdUb2tlbml6ZXIuaGFzTW9yZVRva2VucygpOyApIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHN0cmluZ1Rva2VuaXplci5uZXh0VG9rZW4oKTsKICAgICAgICAgICAgICAgICAgICBpZiAocyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzIGluc3RhbmNlb2YgT2JqZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IChPYmplY3QpIHM7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbyA9IG5ldyBPYmplY3QoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc01lbWJlck9mR2xvYmFsVmlld0NhdGVnb3JpZXMoU3RyaW5nIHVzZXJJZCkgewogICAgICAgIHJldHVybiAhZ2V0R3JvdXBzQnlDYXRlZ29yeUFuZFVzZXJJZCh1c2VySWQsIEdMT0JBTF9WSUVXX0dST1VQX0NBVEVHT1JJRVMpLmlzRW1wdHkoKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIEhhc2hNYXA8T2JqZWN0LCBPYmplY3Q+IG1hcGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwYS5wdXQoIjIxMzEyNGRzZHNmIGZkIGQgc2YgcyBmcyBmc2Qgc3Mgc3Nzc3Nzc2ZkICIsICIiKTsKICAgICAgICBtYXBhLnB1dCgiIiwgIiIpCiAgICAgICAgTGlzdDxQb2pvPiBwb2pvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDIwLjAwZCkpOwogICAgICAgIHBvam9MaXN0LmFkZChuZXcgUG9qbygiQSIsIDEwLjAwZCkpOwogICAgICAgIHBvam9MaXNnZy5hZGQobmV3IFBvam8oIkIiLCAyMy4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkEiLCAxMS4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkMiLCAzOC4wMGQpKTsKICAgICAgICBwb2pvTGlzdC5hZGQobmV3IFBvam8oIkIiLCAyMzMuMDBkKSk7CmRkZGRkCiAgICAgICAgICJkc2YgZHNmIGRzZiBkcyBmZHNmIHNkIiAKICAgICAgICAgImZzZCIgImZzZGtmIiAianNka2xmIiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiAoc2pkZmpzKWRmaiAic2pkZmoiICJza2FkZmprYXMiIGtoc2Rzc2QiIlBgW3NrIGhmanNrZGggc2FrZGpmaGRzIGYgYXNkZiBqc2FkaGZqayBhZGhzZmprIGFzZiBhc2RqZmsgc2FkaGYgamthaHNkamtmYXMgZGhmamsgc2RhaGZqayBoc2prZiBhcwogICAgICAgIE1hcDxTdHJpbmcsIE9wdGlvbmFsPFBvam8+PiBtYXAgPSBwb2pvTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5ncm91cGluZ0J5KFBvam86OmdldFR5cGUsIENvbGxlY3RvcnMubWF4QnkoQ29tcGFyYXRvci5jb21wYXJpbmcoUG9qbzo6Z2V0TW9uZXkpKSkpOwogICAgICAgIExpc3Q8UG9qbz4gcG9qb3MgPSBtYXAudmFsdWVzKCkuc3RyZWFtKCkubWFwKG9wIC0+IG9wLmdldCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2pvcyk7CiAgICAgICAgaWYgKHBvam9zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZm9yIChTdHJpbmdUb2tlbml6ZXIgc3RyaW5nVG9rZW5pemVyID0gbmV3IFN0cmluZ1Rva2VuaXplcigiICIpOyBzdHJpbmdUb2tlbml6ZXIuaGFzTW9yZVRva2VucygpOyApIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHN0cmluZ1Rva2VuaXplci5uZXh0VG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKHJvb3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnNkIGZzZGtmIGpzZGtsZiBqc2RrbGZqIGFzZGYgYXNkZmogaHNkamtmIGprc2RoZmprIGRoc2Fqa2ZzIGRrZmhqIGthc2hkZmprIGRoc2tmaGFqa3MgZmggamthc2hkZmprIGFoc2RqZmsgaGRqa2FoZmprIGFkaHNqa2YgamtoZmoga3NhZGhmamsgaHNkYWprZiBzamRmanNkZmogc2pkZmogc2thZGZqa2FzIGtoc2RqayBoZmpza2RoIHNha2RqZmhkcyBmIGFzZGYganNhZGhmamsgYWRoc2ZqayBhc2YgYXNkamZrIHNhZGhmIGprYWhzZGprZmFzIGRoZmprIHNkYWhmamsgaHNqa2YgYXMKICAgICAgICBNYXA8U3RyaW5nLCBPcHRpb25hbDxQb2pvPj4gbWFwID0gcG9qb0xpc3Quc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShQb2pvOjpnZXRUeXBlLCBDb2xsZWN0b3JzLm1heEJ5KENvbXBhcmF0b3IuY29tcGFyaW5nKFBvam86OmdldE1vbmV5KSkpKTsKICAgICAgICBMaXN0PFBvam8+IHBvam9zID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChvcCAtPiBvcC5nZXQoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9qb3MpOwogICAgICAgIGlmIChwb2pvcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nVG9rZW5pemVyIHN0cmluZ1Rva2VuaXplciA9IG5ldyBTdHJpbmdUb2tlbml6ZXIoIiAiKTsgc3RyaW5nVG9rZW5pemVyLmhhc01vcmVUb2tlbnMoKTsgKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzdHJpbmdUb2tlbml6ZXIubmV4dFRva2VuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm9vdC5nZXQoR3JvdXBfLmVtYWlsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action ShowIntentionActions</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>, &quot;APPLICANT_STATUS:Available&quot;</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
-      <last-replace>\U\1</last-replace>
-      <last-substitute>\(l..\)</last-substitute>
+      <last-pattern>, &quot;APPLICANT_STATUS:Available&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>, &quot;APPLICANT_STATUS:Available&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -263,28 +324,30 @@
         <entry>\(lib\)</entry>
         <entry>\(l..\)</entry>
         <entry>count</entry>
+        <entry>&quot;COMMENT_VISIBILITY&quot;</entry>
+        <entry>, &quot;APPLICANT_STATUS:Available&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action InsertLiveTemplate</entry>
         <entry>action GotoSymbol</entry>
-        <entry>action $Up</entry>
-        <entry>actionlist</entry>
         <entry>action RecentFiles</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action JumpToLastChange</entry>
+        <entry>actionlist hide</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>q</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ExternalJavaDoc</entry>
+        <entry>action CheckinProject</entry>
+        <entry>action Vcs.UpdateProject</entry>
+        <entry>action Git.Branches</entry>
+        <entry>actionlist diff</entry>
+        <entry>actionlist Branch</entry>
+        <entry>action Annotate</entry>
+        <entry>action GotoFile</entry>
+        <entry>%s/, &quot;APPLICANT_STATUS:Available&quot;//g</entry>
+        <entry>wq</entry>
+        <entry>action HideSideWindows</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action GotoAction</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU2VsZWN0V29yZA==</entry>
-        <entry>action EditorSelectWord</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Find</entry>
-        <entry>actionlist Ace</entry>
-        <entry>action SurroundWith</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action AceJumpAction</entry>
-        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -390,7 +453,10 @@
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
+        <text>pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
