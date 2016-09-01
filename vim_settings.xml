@@ -133,8 +133,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472732709283">
+      <file name="/Dummy.txt" timestamp="1472733084351">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1472681324818">
         <mark key="'" line="103" column="19" />
@@ -149,12 +151,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" timestamp="1472732724367">
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" timestamp="1472733064647">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="7" column="94" />
-        <mark key="]" line="7" column="129" />
-        <mark key="^" line="7" column="129" />
-        <mark key="." line="7" column="129" />
+        <mark key="[" line="26" column="110" />
+        <mark key="]" line="26" column="126" />
+        <mark key="^" line="26" column="126" />
+        <mark key="." line="26" column="126" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" timestamp="1472638103670">
         <mark key="[" line="11" column="1" />
@@ -332,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>07f1918e-6945-11e6-9255-c4346b4ea88a</text>
+        <text>a7fciw4</text>
       </register>
       <register name="-" type="4">
-        <text>07f1918e-6945-11e6-9255-c4346b4ea88a</text>
+        <text>a7fciw4</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -374,7 +376,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -407,15 +409,15 @@
         <entry>actionlist Branch</entry>
         <entry>action GotoFile</entry>
         <entry>%s/, &quot;APPLICANT_STATUS:Available&quot;//g</entry>
-        <entry>wq</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Find</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action ReformatCode</entry>
         <entry>action Annotate</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
