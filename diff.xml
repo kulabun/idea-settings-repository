@@ -1,5 +1,5 @@
 <application>
-  <component name="DiffManager">
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <filesTool value="vimdiff" newValue="vimdiff" />
     <mergeToolParameters value="%1 %2 %3 %4" />
   </component>
