@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472802204446">
+      <file name="/Dummy.txt" timestamp="1472802584899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -158,7 +158,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/application.yml" timestamp="1472746165426">
         <mark key="[" line="3" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1472802204438">
+      <file name="/fragment.java" timestamp="1472802843315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -314,7 +314,7 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -353,9 +353,9 @@
         <entry>unbind F10</entry>
         <entry encoding="base64">dW5iaW5kIDxGMTA+</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
