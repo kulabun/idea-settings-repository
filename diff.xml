@@ -1,11 +1,14 @@
 <application>
-  <component name="DiffManager">
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <filesTool value="vimdiff" newValue="vimdiff" />
     <mergeToolParameters value="%1 %2 %3 %4" />
   </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
+      <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
       <entry key="Default">
