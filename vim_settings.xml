@@ -30,13 +30,6 @@
       <file name="/Dummy.jql" timestamp="1472624679304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/niofilesync/src/main/java/ru/labun/learning/filesync/server/Server.java" timestamp="1457352969294">
-        <mark key="[" line="90" column="30" />
-        <mark key="]" line="90" column="26" />
-        <mark key="^" line="90" column="26" />
-        <mark key="." line="90" column="26" />
-        <mark key="n" line="89" column="45" />
-      </file>
       <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="0" />
@@ -61,6 +54,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1472842191577">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" timestamp="1471766707824">
         <mark key="'" line="20" column="0" />
