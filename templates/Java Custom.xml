@@ -1,7 +1,0 @@
-<templateSet group="Java Custom">
-  <template name="arli" value="java.util.Arrays.asList($END$);" description="Arrays.asList(...)" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-</templateSet>
