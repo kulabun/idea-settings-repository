@@ -208,10 +208,10 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473078332305">
+      <file name="/Dummy.txt" timestamp="1473084796756">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1473083087079">
         <mark key="'" line="176" column="19" />
@@ -394,11 +394,11 @@
       <jump line="179" column="19" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5maW5kT25lKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpLmdldElkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>EPMSTAF-12267 - Create default hiring container buckets</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList</text>
+        <text>EPMSTAF-12267 - Create default hiring container buckets</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -437,7 +437,7 @@
         <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwogICAgICAgIGNvbnRhaW5lci5zZXRDb250YWluZXJPd25lcih0ZXN0VXNlckVtcGxveWVlLnRvU2ltcGxlRW50aXR5KCkpOwogICAgICAgIGhpcmluZ0NvbnRhaW5lclJlcG9zaXRvcnkuc2F2ZUVudGl0eShjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -476,7 +476,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
         <entry>action Annotate</entry>
         <entry>action Find</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action Git.Branches</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>%s/private/protected/g</entry>
@@ -486,6 +485,7 @@
         <entry>action ShowIntentionActions</entry>
         <entry>%s/protected/private/g</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
