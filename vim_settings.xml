@@ -9,7 +9,7 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
-      <file name="/a.dummy" timestamp="1472831019182">
+      <file name="/a.dummy" timestamp="1473096245168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
@@ -65,8 +65,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/service/CompilerService.java" timestamp="1473095400195">
-        <mark key="[" line="6" column="3" />
+      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/service/CompilerService.java" timestamp="1473096038480">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1472753875890">
         <mark key="'" line="110" column="19" />
@@ -232,8 +234,11 @@
         <mark key="[" line="52" column="43" />
         <mark key="]" line="75" column="4" />
       </file>
-      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/controller/CompilerController.java" timestamp="1473095048428">
-        <mark key="[" line="13" column="32" />
+      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/controller/CompilerController.java" timestamp="1473096497692">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
@@ -374,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBZG1pblVzZXIoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -386,37 +391,37 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW1wbG95ZWVHZW5lcmF0b3IgZW1wbG95ZWVHZW5lcmF0b3I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBZG1pblVzZXIoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2xhc3NMb2FkZXIgY2xhc3NMb2FkZXI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3ByaW5nIGRlZmF1bHQgdXNlcigpIGltcGxlbWVudGF0aW9uIHdyYXBzIG91ciBVc2VyRGV0YWlscyB3aGljaCBjYXVzZSBpbGxlZ2FsIGJlaGF2aW91ciBvbiBpbnN0YW5jZW9mIGNoZWNrLgogICAgICogU28gdG8gYXZvaWQgaXQsIGRyb3AgdGhpcyB3cmFwcGluZyBsYXllciBhbmQgcHV0IGJ5IG91ciBzZWxmIGF1dGhlbnRpY2F0aW9uIG9iamVjdC4KICAgICAqLwovLyAgICBwcm90ZWN0ZWQgUmVxdWVzdFBvc3RQcm9jZXNzb3IgdXNlckRldGFpbHMoU3RyaW5nIHVzZXJOYW1lKSB7Ci8vICAgICAgICByZXR1cm4gcmVxdWVzdCAtPiB7Ci8vICAgICAgICAgICAgVXNlckRldGFpbHMgcHJpbmNpcGFsID0gdXNlckRldGFpbHNTZXJ2aWNlLmxvYWRVc2VyQnlVc2VybmFtZSh1c2VyTmFtZSk7Ci8vICAgICAgICAgICAgTGlzdDxHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IG5ldyBBcnJheUxpc3Q8PihwcmluY2lwYWwuZ2V0QXV0aG9yaXRpZXMoKSk7Ci8vICAgICAgICAgICAgU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKQovLyAgICAgICAgICAgICAgICAgICAgLnNldEF1dGhlbnRpY2F0aW9uKG5ldyBUZXN0aW5nQXV0aGVudGljYXRpb25Ub2tlbihwcmluY2lwYWwsIG51bGwsIGF1dGhvcml0aWVzKSk7Ci8vICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3Q7Ci8vICAgICAgICB9OwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2xhc3NMb2FkZXIgY2xhc3NMb2FkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNwcmluZyBkZWZhdWx0IHVzZXIoKSBpbXBsZW1lbnRhdGlvbiB3cmFwcyBvdXIgVXNlckRldGFpbHMgd2hpY2ggY2F1c2UgaWxsZWdhbCBiZWhhdmlvdXIgb24gaW5zdGFuY2VvZiBjaGVjay4KICAgICAqIFNvIHRvIGF2b2lkIGl0LCBkcm9wIHRoaXMgd3JhcHBpbmcgbGF5ZXIgYW5kIHB1dCBieSBvdXIgc2VsZiBhdXRoZW50aWNhdGlvbiBvYmplY3QuCiAgICAgKi8KLy8gICAgcHJvdGVjdGVkIFJlcXVlc3RQb3N0UHJvY2Vzc29yIHVzZXJEZXRhaWxzKFN0cmluZyB1c2VyTmFtZSkgewovLyAgICAgICAgcmV0dXJuIHJlcXVlc3QgLT4gewovLyAgICAgICAgICAgIFVzZXJEZXRhaWxzIHByaW5jaXBhbCA9IHVzZXJEZXRhaWxzU2VydmljZS5sb2FkVXNlckJ5VXNlcm5hbWUodXNlck5hbWUpOwovLyAgICAgICAgICAgIExpc3Q8R3JhbnRlZEF1dGhvcml0eT4gYXV0aG9yaXRpZXMgPSBuZXcgQXJyYXlMaXN0PD4ocHJpbmNpcGFsLmdldEF1dGhvcml0aWVzKCkpOwovLyAgICAgICAgICAgIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkKLy8gICAgICAgICAgICAgICAgICAgIC5zZXRBdXRoZW50aWNhdGlvbihuZXcgVGVzdGluZ0F1dGhlbnRpY2F0aW9uVG9rZW4ocHJpbmNpcGFsLCBudWxsLCBhdXRob3JpdGllcykpOwovLyAgICAgICAgICAgIHJldHVybiByZXF1ZXN0OwovLyAgICAgICAgfTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVBZG1pblVzZXIoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY3JlYXRlVGVzdERhdGEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3ByaW5nIGRlZmF1bHQgdXNlcigpIGltcGxlbWVudGF0aW9uIHdyYXBzIG91ciBVc2VyRGV0YWlscyB3aGljaCBjYXVzZSBpbGxlZ2FsIGJlaGF2aW91ciBvbiBpbnN0YW5jZW9mIGNoZWNrLgogICAgICogU28gdG8gYXZvaWQgaXQsIGRyb3AgdGhpcyB3cmFwcGluZyBsYXllciBhbmQgcHV0IGJ5IG91ciBzZWxmIGF1dGhlbnRpY2F0aW9uIG9iamVjdC4KICAgICAqLwovLyAgICBwcm90ZWN0ZWQgUmVxdWVzdFBvc3RQcm9jZXNzb3IgdXNlckRldGFpbHMoU3RyaW5nIHVzZXJOYW1lKSB7Ci8vICAgICAgICByZXR1cm4gcmVxdWVzdCAtPiB7Ci8vICAgICAgICAgICAgVXNlckRldGFpbHMgcHJpbmNpcGFsID0gdXNlckRldGFpbHNTZXJ2aWNlLmxvYWRVc2VyQnlVc2VybmFtZSh1c2VyTmFtZSk7Ci8vICAgICAgICAgICAgTGlzdDxHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IG5ldyBBcnJheUxpc3Q8PihwcmluY2lwYWwuZ2V0QXV0aG9yaXRpZXMoKSk7Ci8vICAgICAgICAgICAgU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKQovLyAgICAgICAgICAgICAgICAgICAgLnNldEF1dGhlbnRpY2F0aW9uKG5ldyBUZXN0aW5nQXV0aGVudGljYXRpb25Ub2tlbihwcmluY2lwYWwsIG51bGwsIGF1dGhvcml0aWVzKSk7Ci8vICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3Q7Ci8vICAgICAgICB9OwovLyAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFNwcmluZyBkZWZhdWx0IHVzZXIoKSBpbXBsZW1lbnRhdGlvbiB3cmFwcyBvdXIgVXNlckRldGFpbHMgd2hpY2ggY2F1c2UgaWxsZWdhbCBiZWhhdmlvdXIgb24gaW5zdGFuY2VvZiBjaGVjay4KICAgICAqIFNvIHRvIGF2b2lkIGl0LCBkcm9wIHRoaXMgd3JhcHBpbmcgbGF5ZXIgYW5kIHB1dCBieSBvdXIgc2VsZiBhdXRoZW50aWNhdGlvbiBvYmplY3QuCiAgICAgKi8KLy8gICAgcHJvdGVjdGVkIFJlcXVlc3RQb3N0UHJvY2Vzc29yIHVzZXJEZXRhaWxzKFN0cmluZyB1c2VyTmFtZSkgewovLyAgICAgICAgcmV0dXJuIHJlcXVlc3QgLT4gewovLyAgICAgICAgICAgIFVzZXJEZXRhaWxzIHByaW5jaXBhbCA9IHVzZXJEZXRhaWxzU2VydmljZS5sb2FkVXNlckJ5VXNlcm5hbWUodXNlck5hbWUpOwovLyAgICAgICAgICAgIExpc3Q8R3JhbnRlZEF1dGhvcml0eT4gYXV0aG9yaXRpZXMgPSBuZXcgQXJyYXlMaXN0PD4ocHJpbmNpcGFsLmdldEF1dGhvcml0aWVzKCkpOwovLyAgICAgICAgICAgIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkKLy8gICAgICAgICAgICAgICAgICAgIC5zZXRBdXRoZW50aWNhdGlvbihuZXcgVGVzdGluZ0F1dGhlbnRpY2F0aW9uVG9rZW4ocHJpbmNpcGFsLCBudWxsLCBhdXRob3JpdGllcykpOwovLyAgICAgICAgICAgIHJldHVybiByZXF1ZXN0OwovLyAgICAgICAgfTsKLy8gICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -456,8 +461,8 @@
         <entry>bro</entry>
         <entry>set showmode</entry>
         <entry>.,.+25action AceJumpAction</entry>
-        <entry>action HideSideWindows</entry>
         <entry>q</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
