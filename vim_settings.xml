@@ -58,9 +58,9 @@
         <mark key="^" line="305" column="21" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/integration/RequisitionIntegrationTest.java" timestamp="1473075020372">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="/IntelliJ Default" timestamp="1472638096871">
         <mark key="[" line="0" column="0" />
@@ -143,11 +143,11 @@
         <mark key="." line="6" column="124" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1473082558609">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="191" column="65" />
-        <mark key="." line="175" column="48" />
-        <mark key="^" line="175" column="48" />
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="245" column="65" />
+        <mark key="." line="229" column="48" />
+        <mark key="^" line="229" column="48" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
         <mark key="[" line="26" column="20" />
@@ -208,7 +208,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473084796756">
+      <file name="/Dummy.txt" timestamp="1473084833773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -437,7 +437,7 @@
         <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwogICAgICAgIGNvbnRhaW5lci5zZXRDb250YWluZXJPd25lcih0ZXN0VXNlckVtcGxveWVlLnRvU2ltcGxlRW50aXR5KCkpOwogICAgICAgIGhpcmluZ0NvbnRhaW5lclJlcG9zaXRvcnkuc2F2ZUVudGl0eShjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -484,8 +484,8 @@
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>%s/protected/private/g</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
