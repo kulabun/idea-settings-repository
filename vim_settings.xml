@@ -131,6 +131,12 @@
       <file name="/NewGen" timestamp="1472638096879">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1473068242438">
+        <mark key="k" line="303" column="28" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="0" />
+        <mark key="." line="368" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/application.yml" timestamp="1472746165426">
         <mark key="[" line="3" column="18" />
       </file>
@@ -218,7 +224,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1473063246597">
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1473065158740">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="189" column="4" />
         <mark key="]" line="201" column="7" />
@@ -354,46 +360,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNpbXBsZUVudGl0eShwcm9qZWN0LmdldElkKCksIHByb2plY3QuZ2V0Q29kZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>EmploymentStatus</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW1wbG95ZWVHZW5lcmF0b3IgZW1wbG95ZWVHZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZWRFbXBsb3ltZW50U3RhdHVzZXMuYWRkKGVudGl0eSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNpbXBsZUVudGl0eShwcm9qZWN0LmdldElkKCksIHByb2plY3QuZ2V0Q29kZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXNpdGlvblJlcG9zaXRvcnkuZGVsZXRlQWxsKCk7Cg==</text>
+        <text encoding="base64">VQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpYnVSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmltYXJ5U2tpbGxSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbXBsb3llZUdlbmVyYXRvclJlcG9zaXRvcnkuZGVsZXRlQWxsKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxFbXBsb3llZT4gZ2VuZXJhdGVkQ3VzdG9tZXIgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxFbXBsb3llZT4gZ2VuZXJhdGVkRW1wbG95ZWUgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbXBsb3llZUdlbmVyYXRvclJlcG9zaXRvcnkuZGVsZXRlQWxsKCk7CiAgICAgICAgcHJpbWFyeVNraWxsUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsKICAgICAgICBpYnVSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwogICAgICAgIHJlcXVpc2l0aW9uUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsKICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGVtcGxveWVlUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXNpdGlvblJlcG9zaXRvcnkuZGVsZXRlQWxsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGlyaW5nQ29udGFpbmVyUmVwCg==</text>
+        <text encoding="base64">ICAgICAgICBpYnVSZXBvc2l0b3J5LmRlbGV0ZUFsbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -432,12 +438,12 @@
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action Annotate</entry>
         <entry>w</entry>
-        <entry>action FindNext</entry>
         <entry>action ReformatCode</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>%s/private/protected/g</entry>
         <entry>action Find</entry>
+        <entry>action FindNext</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
