@@ -45,8 +45,8 @@
       <file name="/Dummy.scala" timestamp="1471693304408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473082072479">
-        <mark key="[" line="44" column="79" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473083474781">
+        <mark key="[" line="43" column="97" />
         <mark key="]" line="44" column="79" />
         <mark key="." line="44" column="79" />
         <mark key="^" line="43" column="50" />
@@ -142,6 +142,13 @@
         <mark key="^" line="6" column="124" />
         <mark key="." line="6" column="124" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1473082558609">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="191" column="65" />
+        <mark key="." line="175" column="48" />
+        <mark key="^" line="175" column="48" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="33" column="21" />
@@ -206,6 +213,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1473083087079">
+        <mark key="'" line="176" column="19" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/ProductionCategoryRepository.java" timestamp="1473074794321">
         <mark key="[" line="6" column="105" />
         <mark key="]" line="6" column="106" />
@@ -234,6 +247,13 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1473082406046">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="143" column="3" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
         <mark key="[" line="63" column="56" />
         <mark key="]" line="59" column="56" />
@@ -257,6 +277,13 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupCategoryRepository.java" timestamp="1472813964942">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1473082116838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -265,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
-      <jump line="5" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
       <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
       <jump line="3" column="0" filename="$USER_HOME$/project/TradeAnalytics/build.sbt" />
       <jump line="11" column="39" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
@@ -365,60 +390,62 @@
       <jump line="62" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
       <jump line="273" column="36" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" />
       <jump line="37" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" />
+      <jump line="55" column="55" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" />
+      <jump line="179" column="19" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5maW5kT25lKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpLmdldElkKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ArrayList</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>protected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXF1YWxzUXVlcnkoUmVxdWlzaXRpb25fLmhpcmluZ0NvbnRhaW5lci5nZXROYW1lKCkgKyAKICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8uaGlyaW5nQ29udGFpbmVyT3duZXIuZ2V0TmFtZSgpICsgIi5pZCIsIHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1aXNpdGlvbiByZXF1aXNpdGlvbiA9IHJlcXVpc2l0b25HZW5lcmF0b3IubmV4dCgpOwogICAgICAgIHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpLnNldEhpcmluZ0NvbnRhaW5lck93bmVyKHN1Ym9yZGluYXRlLnRvU2ltcGxlRW50aXR5KCkpOwogICAgICAgIHJlcXVpc2l0aW9uUmVwb3NpdG9yeS5zYXZlRW50aXR5KHJlcXVpc2l0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRzLmlzRW1wdHkoKSA/IG51bGwgOiBTdHJpbmcuZm9ybWF0KCIlcz1pbj0oJXMpIiwgSGlyaW5nQ29udGFpbmVyXy5pZC5nZXROYW1lKCksIFN0cmluZy5qb2luKCIsIiwgaWRzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5maW5kT25lKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpLmdldElkKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKS5tYXAoU3RyaW5nOjp2YWx1ZU9mKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwogICAgICAgIGNvbnRhaW5lci5zZXRDb250YWluZXJPd25lcihzdWJvcmRpbmF0ZS50b1NpbXBsZUVudGl0eSgpKTsKICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gaWRzID0gcmVxdWlzaXRpb25SZXBvc2l0b3J5LmZpbmRIaXJpbmdDb250YWluZXJzQnlSZXF1aXNpdGlvbkhpcmluZ01hbmFnZXIodXNlcklkKQo=</text>
+        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5SWRFcXVhbHNRdWVyeShIaXJpbmdDb250YWluZXJfLmhpcmluZ0FwcHJvdmVyLCB1c2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc2V0SGlyaW5nQXBwcm92ZXIodGVzdFVzZXJFbXBsb3llZS50b1NpbXBsZUVudGl0eSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFN0cmluZyBidWlsZFF1ZXJ5KFN0cmluZyB1c2VySWQsIExpc3Q8R3JvdXA+IHVzZXJHcm91cHMpIHsKICAgICAgICByZXR1cm4gcXVlcnlPcigKICAgICAgICAgICAgICAgIAogICAgICAgICk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRRdWVyeShTdHJpbmcgdXNlcklkKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc2V0Q29udGFpbmVyT3duZXIodGVzdFVzZXJFbXBsb3llZS50b1NpbXBsZUVudGl0eSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwogICAgICAgIGNvbnRhaW5lci5zZXRDb250YWluZXJPd25lcih0ZXN0VXNlckVtcGxveWVlLnRvU2ltcGxlRW50aXR5KCkpOwogICAgICAgIGhpcmluZ0NvbnRhaW5lclJlcG9zaXRvcnkuc2F2ZUVudGl0eShjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>protected</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
-      <last-replace>protected</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>protected</last-pattern>
+      <last-replace>private</last-replace>
+      <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -435,10 +462,10 @@
         <entry>forEach(</entry>
         <entry>)));</entry>
         <entry>private</entry>
+        <entry>containers</entry>
+        <entry>protected</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dW5iaW5kIDxGMTA+</entry>
-        <entry>W</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
@@ -453,9 +480,11 @@
         <entry>action Git.Branches</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>%s/private/protected/g</entry>
+        <entry>%s/containers/requisitions/g</entry>
         <entry>w</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>%s/protected/private/g</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
