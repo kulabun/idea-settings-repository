@@ -65,6 +65,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/service/CompilerService.java" timestamp="1473095400195">
+        <mark key="[" line="6" column="3" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1472753875890">
         <mark key="'" line="110" column="19" />
       </file>
@@ -228,6 +231,9 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerDashboardTest.java" timestamp="1472827248856">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="75" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/DynamicClassCompilation/src/main/java/pw/konstantin/example/controller/CompilerController.java" timestamp="1473095048428">
+        <mark key="[" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
