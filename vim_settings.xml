@@ -279,6 +279,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/epam/staf/nm-core-app/1.0.6/nm-core-app-1.0.6-sources.jar!/com/epam/notifications/template/RythmTemplateEngine.java" timestamp="1473169716649" />
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/ProductionCategoryRepository.java" timestamp="1473074794321">
         <mark key="[" line="6" column="105" />
         <mark key="]" line="6" column="106" />
@@ -510,7 +511,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gZ2V0QWN0aW9uQXR0cmlidXRlcyhNZXNzYWdlPD8+IG0pIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -540,16 +541,9 @@
         <entry>\n</entry>
       </history-search>
       <history-cmd>
-        <entry>274,341s/)));/))));/g</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
-        <entry>action Git.Branches</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>%s/private/protected/g</entry>
         <entry>%s/containers/requisitions/g</entry>
         <entry>w</entry>
         <entry>%s/protected/private/g</entry>
-        <entry>action Annotate</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlVwZGF0ZVByb2plY3Q=</entry>
@@ -558,8 +552,15 @@
         <entry>action Find</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action Git.Branches</entry>
         <entry>action Git.CompareWithBranch</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR2l0LkNvbXBhcmVXaXRoQnJhbmNo</entry>
+        <entry>action Git.Compare</entry>
+        <entry>actionlist Git.Compare</entry>
+        <entry>actionlist Compare</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Annotate</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
