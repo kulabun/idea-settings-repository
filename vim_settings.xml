@@ -140,6 +140,9 @@
         <mark key="^" line="6" column="124" />
         <mark key="." line="6" column="124" />
       </file>
+      <file name="vim_settings.xml" timestamp="1473148092612">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1473082558609">
         <mark key="'" line="148" column="0" />
         <mark key="[" line="185" column="0" />
