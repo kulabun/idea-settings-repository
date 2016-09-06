@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1473080757750">
+      <file name="/a.dummy" timestamp="1473086418279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -70,7 +70,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/TransactionExecutor.java" timestamp="1473075715412" />
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="74" column="38" />
@@ -88,7 +87,6 @@
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/BpmHiringContainerControllerTest.java" timestamp="1473070187445" />
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
         <mark key="]" line="39" column="19" />
@@ -437,7 +435,7 @@
         <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXIgY29udGFpbmVyID0gY3JlYXRlQW5kU2F2ZUhpcmluZ0NvbnRhaW5lcigpOwogICAgICAgIGNvbnRhaW5lci5zZXRDb250YWluZXJPd25lcih0ZXN0VXNlckVtcGxveWVlLnRvU2ltcGxlRW50aXR5KCkpOwogICAgICAgIGhpcmluZ0NvbnRhaW5lclJlcG9zaXRvcnkuc2F2ZUVudGl0eShjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -474,8 +472,6 @@
         <entry>%s/forEach(/forEach(noInteruptOnExceptionWrapper(/g</entry>
         <entry>274,341s/)));/))));/g</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
-        <entry>action Annotate</entry>
-        <entry>action Find</entry>
         <entry>action Git.Branches</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>%s/private/protected/g</entry>
@@ -484,8 +480,10 @@
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>%s/protected/private/g</entry>
-        <entry>action Vcs.UpdateProject</entry>
+        <entry>action Find</entry>
+        <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
