@@ -273,10 +273,11 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473084856906">
+      <file name="/Dummy.txt" timestamp="1473168588672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/ProductionCategoryRepository.java" timestamp="1473074794321">
         <mark key="[" line="6" column="105" />
@@ -466,11 +467,11 @@
       <jump line="235" column="30" filename="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/WorkflowScriptUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQcm9wb3NhbEZlZWRiYWNrKHR5cGUsIHRleHQsIHByb3Bvc2FsLCByZWplY3RSZWFzb24sIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>EPMSTAF-12420 - Create default Requisition buckets</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>EPMSTAF-12420 - Create default Requisition buckets</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
