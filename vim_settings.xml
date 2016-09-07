@@ -76,11 +76,11 @@
       <file name="/Dummy.scala" timestamp="1471693304408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473083474781">
-        <mark key="[" line="43" column="97" />
-        <mark key="]" line="44" column="79" />
-        <mark key="." line="44" column="79" />
-        <mark key="^" line="43" column="50" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473258882334">
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1472829360343">
         <mark key="[" line="307" column="0" />
@@ -305,7 +305,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473258464424">
+      <file name="/Dummy.txt" timestamp="1473258539508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -481,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7CgpBTFRFUiBUQUJMRSBtX3JlcXVpc2l0aW9uX2F1ZAogIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>EnglishLevel</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -493,34 +493,34 @@
         <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7CgpBTFRFUiBUQUJMRSBtX3JlcXVpc2l0aW9uX2F1ZAogIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7CgpBTFRFUiBUQUJMRSBtX3JlcXVpc2l0aW9uX2F1ZAogIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxSZXF1aXNpdGlvblN0YXR1cz4gZ2V0QWN0aXZlU3RhdHVzZXMoKSB7CiAgICAgICAgcmV0dXJuIGFjdGl2ZVN0YXR1c2VzOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxSZXF1aXNpdGlvblN0YXR1cz4gZ2V0QWN0aXZlU3RhdHVzZXMoKSB7CiAgICAgICAgcmV0dXJuIGFjdGl2ZVN0YXR1c2VzOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlcXVpc2l0aW9uU3RhdHVzKFN0cmluZyByZXF1aXNpdGlvblN0YXR1c0lkKSB7CiAgICAgICAgdGhpcy5yZXF1aXNpdGlvblN0YXR1c0lkID0gcmVxdWlzaXRpb25TdGF0dXNJZDsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFJlcXVpc2l0aW9uU3RhdHVzKFN0cmluZyByZXF1aXNpdGlvblN0YXR1c0lkKSB7CiAgICAgICAgdGhpcy5yZXF1aXNpdGlvblN0YXR1c0lkID0gcmVxdWlzaXRpb25TdGF0dXNJZDsKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlcXVpc2l0aW9uU3RhdHVzSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
