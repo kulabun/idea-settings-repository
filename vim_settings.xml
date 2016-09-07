@@ -115,7 +115,6 @@
         <mark key="^" line="27" column="60" />
         <mark key="." line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa2staf/employee/employee_transform.groovy" timestamp="1473251234621" />
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
         <mark key="]" line="39" column="19" />
@@ -140,6 +139,12 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="81" column="41" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_201__applicant_attachment_permissions.sql" timestamp="1472654764448">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="6" column="246" />
@@ -151,11 +156,6 @@
       </file>
       <file name="/NewGen" timestamp="1473170380468">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/persistence.xml" timestamp="1473235221193">
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1473079508340">
         <mark key="[" line="469" column="17" />
@@ -181,13 +181,6 @@
       </file>
       <file name="vim_settings.xml" timestamp="1473148092612">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1473236865174">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="182" column="4" />
-        <mark key="." line="175" column="48" />
-        <mark key="^" line="175" column="48" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473254251980">
         <mark key="[" line="67" column="0" />
@@ -277,7 +270,6 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/BpmCleanupHelper.java" timestamp="1473164448828">
         <mark key="[" line="148" column="118" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/rest/RecruiterController.java" timestamp="1473234912500" />
       <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473069206889">
         <mark key="[" line="23" column="4" />
       </file>
@@ -302,7 +294,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473168588672">
+      <file name="/Dummy.txt" timestamp="1473257074082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,7 +323,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" timestamp="1473256554979">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" timestamp="1473256813642">
         <mark key="[" line="155" column="13" />
         <mark key="]" line="139" column="6" />
         <mark key="^" line="139" column="6" />
