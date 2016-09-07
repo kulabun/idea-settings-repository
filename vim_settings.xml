@@ -7,7 +7,7 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="56" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1473253837592">
+      <file name="/a.dummy" timestamp="1473255980267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -160,8 +160,9 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1473079508340">
         <mark key="[" line="469" column="17" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/application.yml" timestamp="1472746165426">
-        <mark key="[" line="3" column="18" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/application.yml" timestamp="1473255749375">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="29" column="36" />
       </file>
       <file name="/Builder" timestamp="1472638096873">
         <mark key="[" line="0" column="0" />
@@ -248,6 +249,11 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473255999455">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="101" />
@@ -302,6 +308,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/ProductionCategoryRepository.java" timestamp="1473074794321">
         <mark key="[" line="6" column="105" />
         <mark key="]" line="6" column="106" />
@@ -319,6 +330,12 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" timestamp="1473256554979">
+        <mark key="[" line="155" column="13" />
+        <mark key="]" line="139" column="6" />
+        <mark key="^" line="139" column="6" />
+        <mark key="." line="139" column="6" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473238772766">
         <mark key="[" line="429" column="0" />
@@ -459,7 +476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZSIsIHZhbHVlID0gIlBhZ2UgbnVtYmVyIiwgZGVmYXVsdFZhbHVlID0gIjAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCiAgICBAQXBpUmVzcG9uc2VzKEBBcGlSZXNwb25zZShjb2RlID0gNDAwLCBtZXNzYWdlID0gIkludmFsaWQgJ3NvcnQnIHBhcmFtZXRlciBzdXBwbGllZCIpKQo=</text>
+        <text encoding="base64">ICBjb25maWc6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>EnglishLevel</text>
@@ -468,37 +485,37 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZSIsIHZhbHVlID0gIlBhZ2UgbnVtYmVyIiwgZGVmYXVsdFZhbHVlID0gIjAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCiAgICBAQXBpUmVzcG9uc2VzKEBBcGlSZXNwb25zZShjb2RlID0gNDAwLCBtZXNzYWdlID0gIkludmFsaWQgJ3NvcnQnIHBhcmFtZXRlciBzdXBwbGllZCIpKQo=</text>
+        <text encoding="base64">c3RhZi5mdHM6CiAgY29uZmlnOgogICAgcmVxdWlzaXRpb25Db25maWc6CiAgICAgIGRlZmF1bHRTb3J0OiB0aXRsZS5yYXcKICAgICAgZmllbGRzOgogICAgICAgIC0ge25hbWU6IHRpdGxlLCB3ZWlnaHQ6IDE2fQogICAgICAgIC0ge25hbWU6IGhpcmluZ0NvbnRhaW5lckNvZGUsIHdlaWdodDogOH0KICAgICAgICAtIHtuYW1lOiBoaXJpbmdDb250YWluZXJPd25lciwgd2VpZ2h0OiA0fQogICAgICAgIC0ge25hbWU6IHByaW1hcnlTa2lsbCwgd2VpZ2h0OiAyfQogICAgICAgIC0ge25hbWU6IGxvY2F0aW9uLCB3ZWlnaHQ6IDF9CiAgICBoaXJpbmdDb250YWluZXJDb25maWc6CiAgICAgIGRlZmF1bHRTb3J0OiBjb2RlLnJhdwogICAgICBmaWVsZHM6CiAgICAgICAgLSB7bmFtZTogY29kZSwgd2VpZ2h0OiA0fQogICAgICAgIC0ge25hbWU6IGNvbnRhaW5lck93bmVyLCB3ZWlnaHQ6IDJ9CiAgICAgICAgLSB7bmFtZTogbG9jYXRpb24sIHdlaWdodDogMX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJuYW1lIiwgdmFsdWUgPSAiTmFtZSBmaWx0ZXIgKCVsaWtlJSkiLCBkZWZhdWx0VmFsdWUgPSAiIiwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCg==</text>
+        <text encoding="base64">ICBjb25maWc6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhZi5mdHM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZWNfdXBzYV9wcm9kdWN0aW9uX2NhdGVnb3J5IChwcm9kdWN0aW9uX2NhdGVnb3J5X2lkLCBwcm9kdWN0aW9uX2NhdGVnb3J5X25hbWUpIFZBTFVFUwogICgnMScsICdQcm9kdWN0aW9uJyksIAogICgnMicsICdQcmUtUHJvZHVjdGlvbicpLCAKICAoJzMnLCAnTm9uLVByb2R1Y3Rpb24nKSwgCiAgKCc0JywgJ05vbi1FbXBsb3llZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIHtuYW1lOiBzdGF0dXMsIHdlaWdodDogMzJ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgZWNfdXBzYV91bml0X2F1ZAogIEFERCBDT0xVTU4gbWFuYWdlcl9pZCBURVhULAogIEFERCBDT0xVTU4gbWFuYWdlcl9uYW1lIFRFWFQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHtuYW1lOiBjb2RlLCB3ZWlnaHQ6IDY0fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZmllbGRzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBFbnRpdHlFeGlzdHMoRW1wbG95ZWUuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdFNvcnQ6IGNvZGUucmF3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhpcmluZ0NvbnRhaW5lckNvbmZpZzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcmVxdWVzdG9ycygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGFzc2VydEdyb3Vwc01lbWJlcnNSZXR1cm5zKEdyb3VwQ29uc3RhbnRzLlRBTEVOVF9BQ1FVSVNJVElPTik7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJlY3J1aXRlcnMoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBhc3NlcnRHcm91cHNNZW1iZXJzUmV0dXJucyhHcm91cENvbnN0YW50cy5UQUxFTlRfQUNRVUlTSVRJT04pOwogICAgfQo=</text>
+        <text encoding="base64">c3RhZi5mdHM6CiAgY29uZmlnOgogICAgcmVxdWlzaXRpb25Db25maWc6CiAgICAgIGRlZmF1bHRTb3J0OiB0aXRsZS5yYXcKICAgICAgZmllbGRzOgogICAgICAgIC0ge25hbWU6IHRpdGxlLCB3ZWlnaHQ6IDE2fQogICAgICAgIC0ge25hbWU6IGhpcmluZ0NvbnRhaW5lckNvZGUsIHdlaWdodDogOH0KICAgICAgICAtIHtuYW1lOiBoaXJpbmdDb250YWluZXJPd25lciwgd2VpZ2h0OiA0fQogICAgICAgIC0ge25hbWU6IHByaW1hcnlTa2lsbCwgd2VpZ2h0OiAyfQogICAgICAgIC0ge25hbWU6IGxvY2F0aW9uLCB3ZWlnaHQ6IDF9CiAgICBoaXJpbmdDb250YWluZXJDb25maWc6CiAgICAgIGRlZmF1bHRTb3J0OiBjb2RlLnJhdwogICAgICBmaWVsZHM6CiAgICAgICAgLSB7bmFtZTogY29kZSwgd2VpZ2h0OiA0fQogICAgICAgIC0ge25hbWU6IGNvbnRhaW5lck93bmVyLCB3ZWlnaHQ6IDJ9CiAgICAgICAgLSB7bmFtZTogbG9jYXRpb24sIHdlaWdodDogMX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJuYW1lIiwgdmFsdWUgPSAiTmFtZSBmaWx0ZXIgKCVsaWtlJSkiLCBkZWZhdWx0VmFsdWUgPSAiIiwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
