@@ -103,8 +103,8 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473171306761">
-        <mark key="[" line="31" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473253001530">
+        <mark key="[" line="34" column="78" />
         <mark key="]" line="27" column="60" />
         <mark key="^" line="27" column="60" />
         <mark key="." line="27" column="60" />
@@ -545,9 +545,9 @@
         <entry>action Git.Branches</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
-        <entry>action Annotate</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Find</entry>
+        <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
