@@ -7,7 +7,7 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="56" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1473258288841">
+      <file name="/a.dummy" timestamp="1473321185764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -253,9 +253,9 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473255999455">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473321918992">
+        <mark key="[" line="1237" column="0" />
+        <mark key="]" line="1237" column="197" />
         <mark key="." line="41" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
@@ -481,7 +481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTZWN1cmVkKFJlcXVpc2l0aW9uU2VjdXJpdHlDb25zdGFudHMuVklFV19SRVFVSVNJVElPTikK</text>
+        <text encoding="base64">ICBsb2NhdGlvbnM6IGNsYXNzcGF0aCo6ZGljdGlvbmFyeVBvcHVsYXRvci8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkaWN0aW9uYXJ5UG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yLyouanNvbixjbGFzc3BhdGgqOmRhdGFTZXQvKi5qc29uCg==</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -490,7 +490,7 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTZWN1cmVkKFJlcXVpc2l0aW9uU2VjdXJpdHlDb25zdGFudHMuVklFV19SRVFVSVNJVElPTikK</text>
+        <text encoding="base64">ICBsb2NhdGlvbnM6IGNsYXNzcGF0aCo6ZGljdGlvbmFyeVBvcHVsYXRvci8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkaWN0aW9uYXJ5UG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yLyouanNvbixjbGFzc3BhdGgqOmRhdGFTZXQvKi5qc29uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
@@ -523,7 +523,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -571,8 +571,8 @@
         <entry>action FindNext</entry>
         <entry>action Annotate</entry>
         <entry>action GenerateGetterAndSetter</entry>
-        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
