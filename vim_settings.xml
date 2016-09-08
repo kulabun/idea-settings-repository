@@ -98,6 +98,12 @@
       <file name="/IntelliJ Default" timestamp="1473170380462">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="37" column="126" />
+        <mark key="." line="37" column="112" />
+        <mark key="^" line="37" column="111" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_259__add_manager_to_unit.sql" timestamp="1473258500645">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -198,11 +204,11 @@
       <file name="vim_settings.xml" timestamp="1473148092612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473320431101">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="59" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="51" column="57" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473327627788">
+        <mark key="[" line="107" column="65" />
+        <mark key="]" line="91" column="59" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="52" column="57" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1473170572932">
         <mark key="[" line="63" column="85" />
@@ -486,8 +492,8 @@
       <jump line="364" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHdoZXJlIHVzZXJfaWQgPSAoc2VsZWN0IHVzZXJfaWQgZnJvbSBtX3VzZXJzIHdoZXJlIHVzZXJfbmFtZSA9ICdFbGVuYSBOZWtyYXNoJyk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpKS5pZlByZXNlbnQoaGMgLT4gZnRzUmVxdWlzaXRpb24uc2V0SGlyaW5nQ29udGFpbmVySWQoaGMuZ2V0SWQoKSkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHdoZXJlIHVzZXJfaWQgPSAoc2VsZWN0IHVzZXJfaWQgZnJvbSBtX3VzZXJzIHdoZXJlIHVzZXJfbmFtZSA9ICdFbGVuYSBOZWtyYXNoJyk=</text>
@@ -496,40 +502,40 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gbV9idWNrZXQgd2hlcmUgb3duZXJfbmFtZSA9ICdFbGVuYSBOZWtyYXNoJzsK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpKS5pZlByZXNlbnQoaGMgLT4gZnRzUmVxdWlzaXRpb24uc2V0SGlyaW5nQ29udGFpbmVySWQoaGMuZ2V0SWQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEhpcmluZ0NvbnRhaW5lcmlkKCkgewogICAgICAgIHJldHVybiBoaXJpbmdDb250YWluZXJpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIaXJpbmdDb250YWluZXJpZChTdHJpbmcgaGlyaW5nQ29udGFpbmVyaWQpIHsKICAgICAgICB0aGlzLmhpcmluZ0NvbnRhaW5lcmlkID0gaGlyaW5nQ29udGFpbmVyaWQ7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7CgpBTFRFUiBUQUJMRSBtX3JlcXVpc2l0aW9uX2F1ZAogIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdHNSZXF1aXNpdGlvbi5zZXRIaXJpbmdDb250YWluZXJpZChyZXF1aXNpdGlvbi5nZXRIaXJpbmdDb250YWluZXIoKS5nZXRJZCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxSZXF1aXNpdGlvblN0YXR1cz4gZ2V0QWN0aXZlU3RhdHVzZXMoKSB7CiAgICAgICAgcmV0dXJuIGFjdGl2ZVN0YXR1c2VzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEZpZWxkKHR5cGUgPSBGaWVsZFR5cGUuU3RyaW5nLCBpbmRleCA9IEZpZWxkSW5kZXgubm90X2FuYWx5emVkKQogICAgcHJpdmF0ZSBTdHJpbmcgaGlyaW5nQ29udGFpbmVyaWQ7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlcXVpc2l0aW9uU3RhdHVzKFN0cmluZyByZXF1aXNpdGlvblN0YXR1c0lkKSB7CiAgICAgICAgdGhpcy5yZXF1aXNpdGlvblN0YXR1c0lkID0gcmVxdWlzaXRpb25TdGF0dXNJZDsKICAgIH0K</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7CgpBTFRFUiBUQUJMRSBtX3JlcXVpc2l0aW9uX2F1ZAogIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.QuickListPopupAction</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -575,10 +581,10 @@
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
         <entry>action Annotate</entry>
-        <entry>action GenerateGetterAndSetter</entry>
-        <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action Find</entry>
+        <entry>action GenerateGetterAndSetter</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
