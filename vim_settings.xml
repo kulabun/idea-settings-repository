@@ -16,7 +16,8 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" timestamp="1472645315711">
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" timestamp="1473343075416">
+        <mark key="'" line="128" column="36" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="112" />
         <mark key="." line="33" column="0" />
@@ -167,8 +168,11 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473337037732">
-        <mark key="[" line="92" column="56" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473343723659">
+        <mark key="[" line="68" column="75" />
+        <mark key="]" line="46" column="15" />
+        <mark key="^" line="46" column="15" />
+        <mark key="." line="46" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/rest/BpmProposalController.java" timestamp="1473164407276">
         <mark key="[" line="116" column="142" />
@@ -218,13 +222,6 @@
         <mark key="]" line="29" column="3" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionariesControllerTest.java" timestamp="1473257725790">
-        <mark key="i" line="59" column="16" />
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="61" column="5" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
         <mark key="[" line="0" column="0" />
@@ -323,7 +320,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473341357762">
+      <file name="/Dummy.txt" timestamp="1473342274430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -402,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
       <jump line="14" column="40" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
       <jump line="18" column="34" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/CountController.scala" />
@@ -502,6 +498,7 @@
       <jump line="376" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
       <jump line="368" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
       <jump line="364" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
+      <jump line="128" column="36" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -577,7 +574,6 @@
         <entry>\n</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlVwZGF0ZVByb2plY3Q=</entry>
         <entry>%s/\n//g</entry>
         <entry>wq</entry>
         <entry>action GotoNextError</entry>
@@ -590,12 +586,13 @@
         <entry>action Git.Branches</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
-        <entry>action Annotate</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action Compare.SameVersion</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
+        <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
