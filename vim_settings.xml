@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/EnglishLevelController.java" timestamp="1473253956764">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="56" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1473339279012">
+      <file name="/a.dummy" timestamp="1473344314783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -23,11 +19,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="82" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1473081469953">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="88" column="3" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1473345871777">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="214" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/Dummy.jql" timestamp="1472624679304">
         <mark key="[" line="0" column="0" />
@@ -41,6 +37,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d022ac4-ed8a-4987-8ba2-4149ced72ee3/console.sql" timestamp="1472738399476">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/HiringContainerFtsIntegration.java" timestamp="1473346480232" />
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="7" />
@@ -77,21 +74,17 @@
       <file name="/Dummy.scala" timestamp="1471693304408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473323641304">
-        <mark key="[" line="53" column="45" />
-        <mark key="]" line="53" column="45" />
-        <mark key="." line="53" column="45" />
-        <mark key="^" line="53" column="45" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="213" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
         <mark key="[" line="206" column="166" />
         <mark key="]" line="206" column="131" />
         <mark key="." line="206" column="131" />
         <mark key="^" line="206" column="152" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionController.java" timestamp="1473238164155">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="119" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_88.json" timestamp="1473159926749">
         <mark key="[" line="0" column="0" />
@@ -122,15 +115,11 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473341876589">
-        <mark key="[" line="44" column="88" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473344924719">
+        <mark key="[" line="46" column="23" />
         <mark key="]" line="44" column="124" />
         <mark key="^" line="44" column="86" />
         <mark key="." line="44" column="88" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/RequisitionStatus.java" timestamp="1473258162621">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
@@ -183,15 +172,14 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="13" column="80" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
+        <mark key="[" line="28" column="42" />
+      </file>
       <file name="/NewGen" timestamp="1473170380468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1473079508340">
         <mark key="[" line="469" column="17" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/application.yml" timestamp="1473255749375">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="29" column="36" />
       </file>
       <file name="/Builder" timestamp="1472638096873">
         <mark key="[" line="0" column="0" />
@@ -211,11 +199,10 @@
       <file name="vim_settings.xml" timestamp="1473148092612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473327627788">
-        <mark key="[" line="107" column="65" />
-        <mark key="]" line="91" column="59" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="52" column="57" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473346614187">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1473170572932">
         <mark key="[" line="63" column="85" />
@@ -311,16 +298,16 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/resources/processes/ApplicantProcess.bpmn20.xml" timestamp="1473164377333">
         <mark key="[" line="213" column="188" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473235100232">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473346042496">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473342274430">
+      <file name="/Dummy.txt" timestamp="1473343759412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -336,6 +323,11 @@
         <mark key="]" line="6" column="106" />
         <mark key="^" line="6" column="106" />
         <mark key="." line="6" column="106" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringApproverRepository.java" timestamp="1473344535202">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/security/HiringContainerSecurityTest.java" timestamp="1473069677725">
         <mark key="[" line="222" column="60" />
@@ -354,6 +346,10 @@
         <mark key="]" line="139" column="6" />
         <mark key="^" line="139" column="6" />
         <mark key="." line="139" column="6" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/repository/es/EmployeeFtsRepository.java" timestamp="1473345969432">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
         <mark key="[" line="457" column="7" />
@@ -501,8 +497,8 @@
       <jump line="128" column="36" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z3JvdXAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZSIsIHZhbHVlID0gIlBhZ2UgbnVtYmVyIiwgZGVmYXVsdFZhbHVlID0gIjAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Z3JvdXAg</text>
@@ -510,41 +506,41 @@
       <register name="/" type="4">
         <text>\n</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNvbnRhaW5lcl9zdGF0dXMgIT0gJ0Nsb3NlZCcg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5GdWxsVmlldy5jbGFzcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXJTdGF0dXMK</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZSIsIHZhbHVlID0gIlBhZ2UgbnVtYmVyIiwgZGVmYXVsdFZhbHVlID0gIjAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEhpcmluZ0NvbnRhaW5lclN0YXR1cy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEhpcmluZ0NvbnRhaW5lcmlkKCkgewogICAgICAgIHJldHVybiBoaXJpbmdDb250YWluZXJpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIaXJpbmdDb250YWluZXJpZChTdHJpbmcgaGlyaW5nQ29udGFpbmVyaWQpIHsKICAgICAgICB0aGlzLmhpcmluZ0NvbnRhaW5lcmlkID0gaGlyaW5nQ29udGFpbmVyaWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJwYWdlIiwgdmFsdWUgPSAiUGFnZSBudW1iZXIiLCBkZWZhdWx0VmFsdWUgPSAiMCIsIGRhdGFUeXBlID0gImludCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdHNSZXF1aXNpdGlvbi5zZXRIaXJpbmdDb250YWluZXJpZChyZXF1aXNpdGlvbi5nZXRIaXJpbmdDb250YWluZXIoKS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZSIsIHZhbHVlID0gIlBhZ2UgbnVtYmVyIiwgZGVmYXVsdFZhbHVlID0gIjAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzb3J0IiwgdmFsdWUgPSAiRmllbGQgdG8gc29ydCIsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEZpZWxkKHR5cGUgPSBGaWVsZFR5cGUuU3RyaW5nLCBpbmRleCA9IEZpZWxkSW5kZXgubm90X2FuYWx5emVkKQogICAgcHJpdmF0ZSBTdHJpbmcgaGlyaW5nQ29udGFpbmVyaWQ7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJzaXplIiwgdmFsdWUgPSAiSXRlbXMgcGVyIHBhZ2UiLCBkZWZhdWx0VmFsdWUgPSAiMTAiLCBkYXRhVHlwZSA9ICJpbnQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJwYWdlIiwgdmFsdWUgPSAiUGFnZSBudW1iZXIiLCBkZWZhdWx0VmFsdWUgPSAiMCIsIGRhdGFUeXBlID0gImludCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -588,12 +584,12 @@
         <entry>action FindNext</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action GenerateGetterAndSetter</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action Compare.SameVersion</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
         <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
