@@ -287,7 +287,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/BpmCleanupHelper.java" timestamp="1473164448828">
         <mark key="[" line="148" column="118" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473323719287">
+      <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473324882818">
         <mark key="[" line="23" column="4" />
       </file>
       <file name="/dummy.sql" timestamp="1473167245660">
@@ -376,7 +376,7 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="/fragment.java" timestamp="1473171989169">
+      <file name="/fragment.java" timestamp="1473324921714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -529,7 +529,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
@@ -571,7 +571,6 @@
         <entry>actionlist Git.Compare</entry>
         <entry>actionlist Compare</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Git.Branches</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
@@ -579,6 +578,7 @@
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
