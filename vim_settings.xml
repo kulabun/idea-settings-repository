@@ -82,11 +82,11 @@
         <mark key="." line="53" column="45" />
         <mark key="^" line="53" column="45" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1472829360343">
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
-        <mark key="^" line="305" column="21" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
+        <mark key="[" line="206" column="166" />
+        <mark key="]" line="206" column="131" />
+        <mark key="." line="206" column="131" />
+        <mark key="^" line="206" column="152" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionController.java" timestamp="1473238164155">
         <mark key="[" line="118" column="0" />
@@ -121,11 +121,11 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473322644126">
-        <mark key="[" line="25" column="50" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="25" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473341876589">
+        <mark key="[" line="44" column="88" />
+        <mark key="]" line="44" column="124" />
+        <mark key="^" line="44" column="86" />
+        <mark key="." line="44" column="88" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/RequisitionStatus.java" timestamp="1473258162621">
         <mark key="[" line="20" column="0" />
@@ -323,7 +323,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473329056942">
+      <file name="/Dummy.txt" timestamp="1473341357762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -388,12 +388,13 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/HiringContainerSpecifications.java" timestamp="1473339811997">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/HiringContainerSpecifications.java" timestamp="1473341282898">
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="75" column="85" />
+        <mark key="^" line="75" column="85" />
+        <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1473324921714">
+      <file name="/fragment.java" timestamp="1473342044335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -503,17 +504,17 @@
       <jump line="364" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXJTdGF0dXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVpc2l0aW9uLmdldEhpcmluZ0NvbnRhaW5lcigpKS5pZlByZXNlbnQoaGMgLT4gZnRzUmVxdWlzaXRpb24uc2V0SGlyaW5nQ29udGFpbmVySWQoaGMuZ2V0SWQoKSkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNvbnRhaW5lcl9zdGF0dXMgIT0gJ0Nsb3NlZCcg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBIaXJpbmdDb250YWluZXJTdGF0dXMK</text>
@@ -576,7 +577,6 @@
         <entry>\n</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmNzLlVwZGF0ZVByb2plY3Q=</entry>
         <entry>%s/\n//g</entry>
         <entry>wq</entry>
@@ -595,6 +595,7 @@
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
+        <entry>action Compare.SameVersion</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
