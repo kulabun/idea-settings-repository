@@ -192,11 +192,11 @@
       <file name="vim_settings.xml" timestamp="1473148092612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473257761493">
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="88" column="5" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="3" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473320431101">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="59" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="51" column="57" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1473170572932">
         <mark key="[" line="63" column="85" />
@@ -305,7 +305,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473258539508">
+      <file name="/Dummy.txt" timestamp="1473320661878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -481,7 +481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgIEBTZWN1cmVkKFJlcXVpc2l0aW9uU2VjdXJpdHlDb25zdGFudHMuVklFV19SRVFVSVNJVElPTikK</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -490,7 +490,7 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICAgIEFERCBDT0xVTU4gYXNzaWduZWVfb3JpZ2luIFRFWFQ7Cg==</text>
+        <text encoding="base64">ICAgIEBTZWN1cmVkKFJlcXVpc2l0aW9uU2VjdXJpdHlDb25zdGFudHMuVklFV19SRVFVSVNJVElPTikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEhpcmluZ0NvbnRhaW5lclNpbXBsZUVudGl0eV8ub250YWluZXJPd25lci5nZXROYW1lKCkgKyAiLmlkIiwgdXNlcklkKTsK</text>
