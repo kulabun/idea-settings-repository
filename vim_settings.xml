@@ -317,7 +317,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1472649388087">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473322971057">
+      <file name="/Dummy.txt" timestamp="1473328778517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -535,7 +535,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -576,7 +576,6 @@
         <entry>action Git.Compare</entry>
         <entry>actionlist Git.Compare</entry>
         <entry>actionlist Compare</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action Git.Branches</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindNext</entry>
@@ -585,6 +584,7 @@
         <entry>action Find</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
