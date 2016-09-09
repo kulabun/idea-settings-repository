@@ -534,7 +534,7 @@
         <text encoding="base64">c2VsZWN0IGUuKiBmcm9tIG1fZW1wbG95ZWVzIGUgIiArCiAgICAgICAgICAgICAgICAgICAgImpvaW4gbF9ncm91cF9tZW1iZXJzIGdtIG9uIGUuZW1wbG95ZWVfaWQgPSBnbS51c2VyX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJqb2luIG1fZ3JvdXBzIGcgb24gZ20uZ3JvdXBfaWQgPSBnLmdyb3VwX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJ3aGVyZSAoZy5ncm91cGNhdGVnb3J5IGluICg6Z3JvdXBDYXRlZ29yaWVzKSkgYW5kICIgKwogICAgICAgICAgICAgICAgICAgICIobG93ZXIoZS5maXJzdF9uYW1lKSBsaWtlIGxvd2VyKGNvbmNhdCg6bmFtZSwgJyUnKSkgb3IgbG93ZXIoZS5sYXN0X25hbWUpIGxpa2UgbG93ZXIoY29uY2F0KDpuYW1lLCAnJScpKSkg</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Annotate</text>
       </register>
     </registers>
     <search>
@@ -570,7 +570,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>52,$s/[-0-9]*/&quot;\1&quot;/g</entry>
         <entry>52,$s/[-0-9]*/&quot;\1&quot;/i</entry>
         <entry>%s/([-0-9]*),\n/&quot;\1&quot;,/g</entry>
         <entry>%s/([-0-9]*)/&quot;\1&quot;/g</entry>
@@ -587,9 +586,10 @@
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Find</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
