@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1473414656085">
+      <file name="/a.dummy" timestamp="1473427264808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -377,6 +377,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_onboarding.sql" timestamp="1473427328482" />
       <file name="/fragment.java" timestamp="1473342044335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -534,7 +535,7 @@
         <text encoding="base64">c2VsZWN0IGUuKiBmcm9tIG1fZW1wbG95ZWVzIGUgIiArCiAgICAgICAgICAgICAgICAgICAgImpvaW4gbF9ncm91cF9tZW1iZXJzIGdtIG9uIGUuZW1wbG95ZWVfaWQgPSBnbS51c2VyX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJqb2luIG1fZ3JvdXBzIGcgb24gZ20uZ3JvdXBfaWQgPSBnLmdyb3VwX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJ3aGVyZSAoZy5ncm91cGNhdGVnb3J5IGluICg6Z3JvdXBDYXRlZ29yaWVzKSkgYW5kICIgKwogICAgICAgICAgICAgICAgICAgICIobG93ZXIoZS5maXJzdF9uYW1lKSBsaWtlIGxvd2VyKGNvbmNhdCg6bmFtZSwgJyUnKSkgb3IgbG93ZXIoZS5sYXN0X25hbWUpIGxpa2UgbG93ZXIoY29uY2F0KDpuYW1lLCAnJScpKSkg</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -586,16 +587,16 @@
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Annotate</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -625,7 +626,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -649,7 +650,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -661,7 +662,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -697,7 +698,7 @@
       <shortcut-conflict owner="vim">
         <text>pressed F9</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
