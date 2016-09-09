@@ -36,6 +36,13 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/index.txt" timestamp="1473444849879">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="34" />
+        <mark key="." line="50" column="34" />
+        <mark key="^" line="50" column="34" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/StaffingAppAutoConfiguration.java" timestamp="1472645176137">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="59" />
@@ -381,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="320" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="271" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="314" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
@@ -481,13 +487,14 @@
       <jump line="3611" column="505" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
       <jump line="3224" column="282" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
       <jump line="3230" column="95" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/ideavim/index.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{&quot;id&quot;: &quot;4060741400005363219&quot;, &quot;name&quot;: &quot;Alena Lebiadzeva&quot;, &quot;_class&quot;: &quot;com.epam.staf.data.EmployeeSimpleEntity&quot;}</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -495,42 +502,42 @@
       <register name="0" type="4">
         <text encoding="base64">IGUuaXNfYWN0aXZlID0gdHJ1ZSBhbmQg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkcHVibGljIHZvaWQgc2VhcmNoQWxsRW1wbG95ZWVzCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGZkZmRmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlYXJjaEFsbEVtcGxveWVlcwo=</text>
+        <text encoding="base64">ICAgIGRkcHVibGljIHZvaWQgc2VhcmNoQWxsRW1wbG95ZWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFBhcmFtKCJtYW5hZ2VyTmFtZSIpIFN0cmluZyBtYW5hZ2VyTmFtZSwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlYXJjaEFsbEVtcGxveWVlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKS5tYXAoRW1wbG95ZWU6OnRvU2ltcGxlRW50aXR5KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFBhcmFtKCJtYW5hZ2VyTmFtZSIpIFN0cmluZyBtYW5hZ2VyTmFtZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoR3JvdXBDb25zdGFudHMuVEFfQllfTE9DQVRJT05fQ0FURUdPUlksIEdyb3VwQ29uc3RhbnRzLlRBX0NBVEVHT1JZKSwgcmVzdWx0U2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKS5tYXAoRW1wbG95ZWU6OnRvU2ltcGxlRW50aXR5KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoR3JvdXBDb25zdGFudHMuVEFfQllfTE9DQVRJT05fQ0FURUdPUlksIEdyb3VwQ29uc3RhbnRzLlRBX0NBVEVHT1JZKSwgcmVzdWx0U2l6ZSkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5GdWxsVmlldy5jbGFzcykK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>select e.* from m_employees e &quot; +
                     &quot;join l_group_members gm on e.employee_id = gm.user_id &quot; +
                     &quot;join m_groups g on gm.group_id = g.group_id &quot; +
                     &quot;where (g.groupcategory in (:groupCategories)) and &quot; +
                     &quot;(lower(e.first_name) like lower(concat(:name, '%')) or lower(e.last_name) like lower(concat(:name, '%')))</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c2VsZWN0IGUuKiBmcm9tIG1fZW1wbG95ZWVzIGUgIiArCiAgICAgICAgICAgICAgICAgICAgImpvaW4gbF9ncm91cF9tZW1iZXJzIGdtIG9uIGUuZW1wbG95ZWVfaWQgPSBnbS51c2VyX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJqb2luIG1fZ3JvdXBzIGcgb24gZ20uZ3JvdXBfaWQgPSBnLmdyb3VwX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJ3aGVyZSAoZy5ncm91cGNhdGVnb3J5IGluICg6Z3JvdXBDYXRlZ29yaWVzKSkgYW5kICIgKwogICAgICAgICAgICAgICAgICAgICIobG93ZXIoZS5maXJzdF9uYW1lKSBsaWtlIGxvd2VyKGNvbmNhdCg6bmFtZSwgJyUnKSkgb3IgbG93ZXIoZS5sYXN0X25hbWUpIGxpa2UgbG93ZXIoY29uY2F0KDpuYW1lLCAnJScpKSkg</text>
-      </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -566,10 +573,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>52,$s/[-0-9]*/&quot;\1&quot;/i</entry>
-        <entry>%s/([-0-9]*),\n/&quot;\1&quot;,/g</entry>
-        <entry>%s/([-0-9]*)/&quot;\1&quot;/g</entry>
-        <entry>%s/\([-0-9]*\)/&quot;\1&quot;/g</entry>
         <entry>%s/.*\([-0-9]*\)/&quot;\1&quot;/g</entry>
         <entry>%s/\(\[-0-9\]*\)/&quot;\1&quot;/g</entry>
         <entry>%s/\([0-9]*\)/&quot;\1&quot;/g</entry>
@@ -584,8 +587,12 @@
         <entry>action RecentFiles</entry>
         <entry>action Find</entry>
         <entry>action Annotate</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>regist</entry>
+        <entry encoding="base64">Z2l0IA==</entry>
+        <entry>w</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
