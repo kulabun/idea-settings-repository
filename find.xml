@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'TradeAnalytics'" />
     <option name="defaultScopeName" value="Project 'TradeAnalytics'" />
     <option name="SEARCH_SCOPE" value="Project 'TradeAnalytics'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
