@@ -781,7 +781,7 @@
                     &quot;(lower(e.first_name) like lower(concat(:name, '%')) or lower(e.last_name) like lower(concat(:name, '%')))</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
@@ -817,7 +817,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\([0-9]\+\)/&quot;\1&quot;/g</entry>
         <entry>%s/\n//g</entry>
         <entry>%/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
@@ -837,6 +836,7 @@
         <entry>di</entry>
         <entry>reg</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
