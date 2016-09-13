@@ -606,7 +606,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlcz4K</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action ChooseDebugConfiguration</text>
       </register>
     </registers>
     <search>
@@ -660,8 +660,8 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
-        <entry>action ChooseDebugConfiguration</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action ChooseDebugConfiguration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
