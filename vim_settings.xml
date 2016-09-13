@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473767599702">
+      <file name="/a.dummy" timestamp="1473769690613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
@@ -79,6 +79,12 @@
         <mark key="." line="206" column="131" />
         <mark key="^" line="206" column="152" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/ProfileTestConfiguration.java" timestamp="1473693911493">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -123,6 +129,12 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/target/test-classes/config/application.yml" timestamp="1473693266243">
         <mark key="[" line="237" column="0" />
         <mark key="]" line="240" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473769113539">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="84" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
         <mark key="[" line="3" column="31" />
@@ -308,6 +320,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473324882818">
         <mark key="[" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/db/prodDataUpdates/V1_0_163__create_notification_service_account.sql" timestamp="1473768275356" />
       <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="0" />
@@ -429,11 +442,11 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473760148440">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473769690230">
         <mark key="[" line="296" column="32" />
         <mark key="]" line="296" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1473692962808">
+      <file name="/fragment.java" timestamp="1473768813063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
@@ -544,49 +557,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>staffingCommittees</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFN0YWZFc0NvbmZpZy5jbGFzcykK</text>
+      <register name="0" type="4">
+        <text>select full_name from m_employees where employee_id in (</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihleGNsdWRlID0ge1JlcG9zaXRvcnlSZXN0TXZjQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsIFNlY3VyaXR5QXV0b0NvbmZpZ3VyYXRpb24uY2xhc3N9KQpARW5hYmxlRGljdGlvbmFyeQpARW5hYmxlQ29tbWVudHNTZXJ2ZXIKQEVuYWJsZUJ1Y2tldFNlcnZlcgpARW5hYmxlQXR0YWNobWVudHNBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlU2V0dGluZ3NBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlU2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlSGlyaW5nQ29udGFpbmVyQXV0b0NvbmZpZ3VyYXRpb24KQEltcG9ydChBcHBsaWNhbnRDb25maWd1cmF0aW9uLmNsYXNzKQpARW50aXR5U2Nhbih7CiAgICAgICAgImNvbS5lcGFtLnN0YWYuYXVkaXQiLAogICAgICAgICJjb20uZXBhbXguc3RhZi5kYXRhIiwKICAgICAgICAiY29tLmVwYW14LnN0YWYuYnBtLmludGVncmF0aW9uLmRhdGEiLAogICAgICAgICJjb20uZXBhbXguc3RhZi5icG0uZGF0YSIsCiAgICAgICAgImNvbS5lcGFtLnN0YWYuaGlyaW5nY29udGFpbmVyLmRhdGEiCn0pCg==</text>
+        <text encoding="base64">NDA2MDc0MTQwMDAzNjQwMzkyOAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOnBvc3RncmVzcWw6Ly9FQ1NDMDAxMDNERjguZXBhbS5jb206NTQzMi9wb3N0Z3JlcwogICAgdXNlcm5hbWU6IHBvc3RncmVzCiAgICBwYXNzd29yZDoK</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihleGNsdWRlID0ge1JlcG9zaXRvcnlSZXN0TXZjQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsIFNlY3VyaXR5QXV0b0NvbmZpZ3VyYXRpb24uY2xhc3N9KQpARW5hYmxlRGljdGlvbmFyeQpARW5hYmxlQ29tbWVudHNTZXJ2ZXIKQEVuYWJsZUJ1Y2tldFNlcnZlcgpARW5hYmxlQXR0YWNobWVudHNBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlU2V0dGluZ3NBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlU2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbgpARW5hYmxlSGlyaW5nQ29udGFpbmVyQXV0b0NvbmZpZ3VyYXRpb24KQEltcG9ydChBcHBsaWNhbnRDb25maWd1cmF0aW9uLmNsYXNzKQpARW50aXR5U2Nhbih7CiAgICAgICAgImNvbS5lcGFtLnN0YWYuYXVkaXQiLAogICAgICAgICJjb20uZXBhbXguc3RhZi5kYXRhIiwKICAgICAgICAiY29tLmVwYW14LnN0YWYuYnBtLmludGVncmF0aW9uLmRhdGEiLAogICAgICAgICJjb20uZXBhbXguc3RhZi5icG0uZGF0YSIsCiAgICAgICAgImNvbS5lcGFtLnN0YWYuaGlyaW5nY29udGFpbmVyLmRhdGEiCn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9maWxlczogZGV2LXN0YWZmaW5nLW92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOnBvc3RncmVzcWw6Ly9FQ1NDMDAxMDNERjguZXBhbS5jb206NTQzMi9wb3N0Z3JlcwogICAgdXNlcm5hbWU6IHBvc3RncmVzCiAgICBwYXNzd29yZDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YXJnZXRQYXRoPjwvdGFyZ2V0UGF0aD4K</text>
+        <text encoding="base64">ICBwcm9maWxlczogZGV2LXN0YWZmaW5nLW92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRlc3RSZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Rlc3RSZXNvdXJjZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YXJnZXRQYXRoPjwvdGFyZ2V0UGF0aD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhjbHVkZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRlc3RSZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Rlc3RSZXNvdXJjZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi8qLmphdmE8L2V4Y2x1ZGU+Cg==</text>
+        <text encoding="base64">ZXhjbHVkZXM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi8qLmphdmE8L2V4Y2x1ZGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L2phdmE8L2RpcmVjdG9yeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlcz4K</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action ChooseDebugConfiguration</text>
       </register>
     </registers>
     <search>
@@ -622,8 +635,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\([0-9]*\)/&quot;\1&quot;/g</entry>
-        <entry>%s/\([0-9]\+\)/&quot;\1&quot;/g</entry>
         <entry>%s/\n//g</entry>
         <entry>%/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
@@ -642,6 +653,8 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
+        <entry>action ChooseDebugConfiguration</entry>
       </history-cmd>
       <history-expr />
       <history-input />

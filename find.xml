@@ -13,8 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
-      <mask>*.sql</mask>
       <mask>*.xml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
