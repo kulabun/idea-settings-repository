@@ -97,6 +97,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5709a018-8c75-44a4-be5e-2d67e0aec848/console.sql" timestamp="1473774053817">
+        <mark key="[" line="3" column="31" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
         <mark key="[" line="246" column="113" />
       </file>
@@ -137,8 +140,8 @@
         <mark key="[" line="237" column="0" />
         <mark key="]" line="240" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473769113539">
-        <mark key="[" line="86" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473774266259">
+        <mark key="[" line="86" column="210" />
         <mark key="]" line="86" column="0" />
         <mark key="^" line="84" column="0" />
         <mark key="." line="86" column="0" />
@@ -340,7 +343,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473760301781">
+      <file name="/Dummy.txt" timestamp="1473774081474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -606,7 +609,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlcz4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ChooseDebugConfiguration</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -660,8 +663,8 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action ChooseDebugConfiguration</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
