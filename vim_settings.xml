@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-core/nm-core-app/src/main/java/com/epam/notifications/app/EventProcessor.java" timestamp="1473776192631" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473770666996">
+      <file name="/a.dummy" timestamp="1473776975152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -80,12 +81,14 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-upsa/src/main/java/com/epam/notifications/services/upsa/UpsaClientImpl.java" timestamp="1473775942188" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
         <mark key="[" line="206" column="166" />
         <mark key="]" line="206" column="131" />
         <mark key="." line="206" column="131" />
         <mark key="^" line="206" column="152" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/epam/staf/nm-services-elp-facade/1.0.7/nm-services-elp-facade-1.0.7-sources.jar!/com/epam/notifications/services/FacadePlugin.java" timestamp="1473776684160" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="192" column="0" />
@@ -136,10 +139,6 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/target/test-classes/config/application.yml" timestamp="1473693266243">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="240" column="21" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1473774266259">
         <mark key="[" line="86" column="210" />
         <mark key="]" line="86" column="0" />
@@ -164,6 +163,7 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-core/nm-core-app/src/main/java/com/epam/notifications/listener/JmsQueueListener.java" timestamp="1473776202825" />
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/ApplicantConfiguration.java" timestamp="1472645158289">
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="0" />
@@ -256,6 +256,7 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-bpm-common/src/main/java/com/epam/staf/bpm/service/BpmSecurityServiceImpl.java" timestamp="1473776512531" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4632" column="15" />
@@ -290,10 +291,6 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/util/StaffingAppUITestConfiguration.java" timestamp="1473694103935">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
         <mark key="[" line="0" column="0" />
@@ -397,6 +394,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1473777085445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
         <mark key="[" line="457" column="7" />
         <mark key="]" line="457" column="6" />
@@ -456,12 +456,13 @@
         <mark key="[" line="296" column="32" />
         <mark key="]" line="296" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1473768813063">
+      <file name="/fragment.java" timestamp="1473776686998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473777099539" />
     </filemarks>
     <jumps>
       <jump line="321" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
