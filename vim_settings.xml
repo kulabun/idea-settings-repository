@@ -413,8 +413,11 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867272242">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
         <mark key="[" line="219" column="45" />
+        <mark key="]" line="225" column="2" />
+        <mark key="^" line="225" column="2" />
+        <mark key="." line="225" column="2" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
@@ -473,7 +476,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473867685770">
+      <file name="/Dummy.txt" timestamp="1473867721193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
         <mark key="^" line="0" column="47" />
@@ -511,9 +514,6 @@
         <mark key="]" line="457" column="6" />
         <mark key="." line="457" column="6" />
         <mark key="^" line="457" column="6" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_rejected.sql" timestamp="1473857961292">
-        <mark key="[" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
@@ -702,7 +702,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5DTE9TRUQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -755,9 +755,9 @@
         <entry>mapleader &quot; &quot;</entry>
         <entry>!git log</entry>
         <entry>!git lg</entry>
-        <entry>action Vcs.UpdateProject</entry>
-        <entry>action HideSideWindows</entry>
         <entry>w</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
