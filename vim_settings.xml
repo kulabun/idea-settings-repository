@@ -15,6 +15,11 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/EnumCreatorTest929.java" timestamp="1473827482211">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1473819649584">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,7 +29,6 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/util/TokenBuffer.java" timestamp="1473747428848" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
         <mark key="[" line="67" column="39" />
         <mark key="]" line="67" column="38" />
@@ -75,7 +79,11 @@
         <mark key="^" line="6" column="106" />
         <mark key="." line="6" column="106" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473826751310" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473828797676">
+        <mark key="[" line="96" column="24" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="12" column="0" />
@@ -156,7 +164,6 @@
         <mark key="." line="59" column="56" />
         <mark key="^" line="59" column="56" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/EnumDeserializer.java" timestamp="1473826143283" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="213" />
@@ -237,7 +244,7 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473820625110">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473827942005">
         <mark key="g" line="1255" column="19" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1257" column="0" />
@@ -314,6 +321,11 @@
         <mark key="]" line="17" column="68" />
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473827604460">
+        <mark key="[" line="291" column="68" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473679608002">
         <mark key="'" line="1275" column="0" />
@@ -416,7 +428,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473826703695">
+      <file name="/fragment.java" timestamp="1473827972229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
@@ -530,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI6KCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ICYmICghX2hhc0FyZ3MgfHwgX2NyZWF0b3JQcm9wcy5sZW5ndGggPCAyKSkgew==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -542,37 +554,37 @@
         <text encoding="base64">Q2xhc3M8Pz4gcmV0dXJuVHlwZSA9IGZhY3RvcnkuZ2V0UmF3UmV0dXJuVHlwZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB1c3VhbGx5IHNob3VsZCBiZSBjbGFzcywgYnV0IG1heSBiZSBqdXN0IHBsYWluIEVudW08Pz4gKGZvciBFbnVtLnZhbHVlT2YoKT8pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXR1cm5UeXBlLmlzQXNzaWduYWJsZUZyb20oZW51bUNsYXNzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzZXIgPSBFbnVtRGVzZXJpYWxpemVyLmRlc2VyaWFsaXplckZvckNyZWF0b3IoY29uZmlnLCBlbnVtQ2xhc3MsIGZhY3RvcnksIHZhbHVlSW5zdGFudGlhdG9yLCBjcmVhdG9yUHJvcHMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI6KCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJVbnN1aXRhYmxlIG1ldGhvZCAoIitmYWN0b3J5KyIpIGRlY29yYXRlZCB3aXRoIEBKc29uQ3JlYXRvciAoZm9yIEVudW0gdHlwZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArZW51bUNsYXNzLmdldE5hbWUoKSsiKSIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVzZXIgPSBFbnVtRGVzZXJpYWxpemVyLmRlc2VyaWFsaXplckZvckNyZWF0b3IoY29uZmlnLCBlbnVtQ2xhc3MsIGZhY3RvcnksIHZhbHVlSW5zdGFudGlhdG9yLCBjcmVhdG9yUHJvcHMpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIGZvciBbZGF0YWJpbmQjOTI5XQogICAgcHVibGljIHZvaWQgdGVzdE11bHRpQXJnRW51bUNyZWF0b3IoKSB0aHJvd3MgRXhjZXB0aW9uCiAgICB7CiAgICAgICAgTXlFbnVtIHYgPSBNQVBQRVIucmVhZFZhbHVlKCJ7XCJpZFwiOjMsXCJuYW1lXCI6XCJCXCJ9IiwgTXlFbnVtLmNsYXNzKTsKICAgICAgICBhc3NlcnRFcXVhbHMoTXlFbnVtLkIsIHYpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXJnQ291bnQgPT0gMSkgewogICAgICAgICAgICAgICAgICAgICAgICBDbGFzczw/PiByZXR1cm5UeXBlID0gZmFjdG9yeS5nZXRSYXdSZXR1cm5UeXBlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHVzdWFsbHkgc2hvdWxkIGJlIGNsYXNzLCBidXQgbWF5IGJlIGp1c3QgcGxhaW4gRW51bTw/PiAoZm9yIEVudW0udmFsdWVPZigpPykKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJldHVyblR5cGUuaXNBc3NpZ25hYmxlRnJvbShlbnVtQ2xhc3MpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNlciA9IEVudW1EZXNlcmlhbGl6ZXIuZGVzZXJpYWxpemVyRm9yQ3JlYXRvcihjb25maWcsIGVudW1DbGFzcywgZmFjdG9yeSwgdmFsdWVJbnN0YW50aWF0b3IsIGNyZWF0b3JQcm9wcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYXJnQ291bnQgPT0gMCkgeyAvLyBbZGF0YWJpbmQjOTYwXQogICAgICAgICAgICAgICAgICAgICAgICBkZXNlciA9IEVudW1EZXNlcmlhbGl6ZXIuZGVzZXJpYWxpemVyRm9yTm9BcmdzQ3JlYXRvcihjb25maWcsIGVudW1DbGFzcywgZmFjdG9yeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIE1BUFBFUiA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBlbnVtIE15RW51bQogICAgewogICAgICAgIEEsIEIsIEM7CiAgICAgICAgCiAgICAgICAgQEpzb25DcmVhdG9yKG1vZGUgPSBKc29uQ3JlYXRvci5Nb2RlLlBST1BFUlRJRVMpCiAgICAgICAgc3RhdGljIE15RW51bSBmb3JWYWx1ZXMoQEpzb25Qcm9wZXJ0eSgiaWQiKSBpbnQgaW50UHJvcCwKICAgICAgICAgICAgICAgIEBKc29uUHJvcGVydHkoIm5hbWUiKSBTdHJpbmcgbmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBNeUVudW0udmFsdWVPZihuYW1lKTsKICAgICAgICB9CiAgICB9CiAgICAKICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIE1BUFBFUiA9IG5ldyBPYmplY3RNYXBwZXIoKTsKCiAgICAvLyBmb3IgW2RhdGFiaW5kIzkyOV0KICAgIHB1YmxpYyB2b2lkIHRlc3RNdWx0aUFyZ0VudW1DcmVhdG9yKCkgdGhyb3dzIEV4Y2VwdGlvbgogICAgewogICAgICAgIE15RW51bSB2ID0gTUFQUEVSLnJlYWRWYWx1ZSgie1wiaWRcIjozLFwibmFtZVwiOlwiQlwifSIsIE15RW51bS5jbGFzcyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKE15RW51bS5CLCB2KTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFlhbWxQcm9maWxlTG9hZGVyIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJVbnN1aXRhYmxlIG1ldGhvZCAoIitmYWN0b3J5KyIpIGRlY29yYXRlZCB3aXRoIEBKc29uQ3JlYXRvciAoZm9yIEVudW0gdHlwZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArZW51bUNsYXNzLmdldE5hbWUoKSsiKSIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ChooseDebugConfiguration</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -619,15 +631,15 @@
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action FindNext</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action ChooseDebugConfiguration</entry>
+        <entry>action Annotate</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
