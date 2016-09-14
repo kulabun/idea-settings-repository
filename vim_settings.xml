@@ -69,6 +69,12 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/test/java/com/epam/staf/applicant/AbstractApplicantTest.java" timestamp="1473863138504">
+        <mark key="[" line="63" column="77" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473857745818">
         <mark key="[" line="252" column="144" />
         <mark key="]" line="252" column="143" />
@@ -396,7 +402,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473862364849">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473863637252">
         <mark key="[" line="219" column="45" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
@@ -676,7 +682,7 @@
         <text encoding="base64">ICAgICAgICBzd2l0Y2ggKAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>!git lg</text>
       </register>
     </registers>
     <search>
@@ -712,10 +718,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\n//g</entry>
-        <entry>%/&quot;/'/g</entry>
-        <entry>%s/&quot;/'/g</entry>
-        <entry>3231s/&quot;&quot;/&quot;/g</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
@@ -731,7 +733,11 @@
         <entry>action Annotate</entry>
         <entry>w</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
+        <entry>mapleader &quot; &quot;</entry>
         <entry>action HideSideWindows</entry>
+        <entry>!git log</entry>
+        <entry>!git lg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
