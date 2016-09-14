@@ -86,6 +86,12 @@
         <mark key="]" line="41" column="53" />
         <mark key="." line="41" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_96.json" timestamp="1473861613772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26321" />
+        <mark key="^" line="0" column="26321" />
+        <mark key="." line="0" column="26321" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1473419724192">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -102,11 +108,10 @@
         <mark key="^" line="74" column="38" />
         <mark key="." line="74" column="38" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_rejected.sql" timestamp="1473846239816">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_rejected.sql" timestamp="1473860259210">
         <mark key="[" line="287" column="0" />
-        <mark key="]" line="288" column="89" />
-        <mark key="." line="288" column="90" />
-        <mark key="^" line="287" column="62" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
         <mark key="[" line="3" column="31" />
@@ -215,10 +220,10 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_cancelled.sql" timestamp="1473846293567">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_cancelled.sql" timestamp="1473860243368">
         <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="89" />
-        <mark key="." line="285" column="90" />
+        <mark key="]" line="287" column="86" />
+        <mark key="." line="286" column="0" />
         <mark key="^" line="285" column="90" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa2staf/dictionary/unit-load.groovy" timestamp="1473252115536">
@@ -261,10 +266,10 @@
         <mark key="^" line="6" column="106" />
         <mark key="." line="6" column="106" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_booked.sql" timestamp="1473846380477">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_booked.sql" timestamp="1473860229064">
         <mark key="[" line="285" column="0" />
-        <mark key="]" line="286" column="89" />
-        <mark key="." line="284" column="90" />
+        <mark key="]" line="286" column="86" />
+        <mark key="." line="285" column="0" />
         <mark key="^" line="284" column="90" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/security/HiringContainerSecurityTest.java" timestamp="1473069677725">
@@ -308,11 +313,17 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473846419349">
-        <mark key="[" line="285" column="79" />
-        <mark key="]" line="285" column="79" />
-        <mark key="." line="285" column="79" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473860248696">
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="287" column="86" />
+        <mark key="." line="286" column="0" />
         <mark key="^" line="285" column="79" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
+        <mark key="[" line="310" column="8" />
+        <mark key="]" line="310" column="105" />
+        <mark key="." line="310" column="8" />
+        <mark key="^" line="310" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
         <mark key="[" line="0" column="0" />
@@ -337,12 +348,10 @@
         <mark key="^" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473848498362">
-        <mark key="'" line="286" column="87" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="86" />
-        <mark key="." line="287" column="86" />
-        <mark key="^" line="287" column="86" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473860707973">
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="57" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/ProfileTestConfiguration.java" timestamp="1473693911493">
         <mark key="[" line="5" column="0" />
@@ -387,6 +396,9 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473862364849">
+        <mark key="[" line="219" column="45" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
         <mark key="]" line="6" column="124" />
@@ -398,6 +410,11 @@
         <mark key="]" line="802" column="99" />
         <mark key="^" line="802" column="1" />
         <mark key="." line="802" column="38" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="57" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
         <mark key="[" line="26" column="20" />
@@ -423,6 +440,12 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1473861380560">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="^" line="315" column="0" />
+        <mark key="." line="307" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/db/prodDataUpdates/V1_0_163__create_notification_service_account.sql" timestamp="1473853934564" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
@@ -430,7 +453,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473855695723">
+      <file name="/Dummy.txt" timestamp="1473860538953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -454,8 +477,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
         <mark key="[" line="3" column="107" />
       </file>
-      <file name="/a.regexp" timestamp="1473857802277">
+      <file name="/a.regexp" timestamp="1473862144059">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" timestamp="1473860737631">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
         <mark key="[" line="457" column="7" />
@@ -494,15 +523,14 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473846407860">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473860219816">
         <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="89" />
-        <mark key="." line="285" column="79" />
-        <mark key="^" line="285" column="79" />
+        <mark key="]" line="287" column="86" />
+        <mark key="." line="288" column="0" />
+        <mark key="^" line="286" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="30" column="15" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="19" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
@@ -602,52 +630,53 @@
       <jump line="10" column="28" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
       <jump line="12" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
       <jump line="286" column="87" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdoZXJlIGNsaWVudF9pZCA9ICdTRFRfTk9USUZJQ0FUSU9OX0NMSUVOVCc=</text>
+        <text>map.put(&quot;proposedEmployeesIds&quot;, notificationAttributesHelper.getProposedEmployeesIds(container));</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdoZXJlIGNsaWVudF9pZCA9ICdTRFRfTk9USUZJQ0FUSU9OX0NMSUVOVCc=</text>
+        <text>staffingStatus) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2RlbGl2ZXJ5TWFuYWdlcicnKT8uZ2V0KCcnaWQnJykpLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnYWNjb3VudE1hbmFnZXInJyk/LmdldCgnJ2lkJycpKQo=</text>
+        <text encoding="base64">CQkJCSAgJydXRlRDZW50cmFsaXplZFN0YWZmaW5nX1B1YmxpY0ZvbGRlckBlcGFtLmNvbScnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUG9zaXRpb25TdGF0dXMuQ0xPU0VELmVxdWFscyhzdGFmZmluZ1N0YXR1cykpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZihBcnJheXMuYXNMaXN0KFBvc2l0aW9uU3RhdHVzLkNMT1NFRCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5PTl9IT0xEOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5URVJNSU5BVEVEOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5DTE9TRUQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -701,8 +730,8 @@
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action Annotate</entry>
         <entry>w</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
