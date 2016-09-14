@@ -252,6 +252,12 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/StaffActiveProfileResolver.java" timestamp="1473686540285">
         <mark key="[" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
+        <mark key="[" line="411" column="33" />
+        <mark key="]" line="411" column="58" />
+        <mark key="^" line="411" column="58" />
+        <mark key="." line="411" column="58" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473324882818">
         <mark key="[" line="23" column="4" />
       </file>
@@ -324,6 +330,10 @@
         <mark key="]" line="287" column="86" />
         <mark key="." line="286" column="0" />
         <mark key="^" line="285" column="79" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/config/StaffingGateway.java" timestamp="1473865258834">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
         <mark key="[" line="310" column="8" />
@@ -402,7 +412,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473863637252">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473864963794">
         <mark key="[" line="219" column="45" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
@@ -459,11 +469,11 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473860538953">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1473864768844">
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="0" column="72" />
         <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="72" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
         <mark key="[" line="225" column="7" />
@@ -639,8 +649,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map.put(&quot;proposedEmployeesIds&quot;, notificationAttributesHelper.getProposedEmployeesIds(container));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBHYXRld2F5KHJlcGx5Q2hhbm5lbCA9IFN0YWZDb25zdGFudHMuREVGQVVMVF9QUk9KRUNUSU9OX0NIQU5ORUwpCiAgICB2b2lkIHNlbmRQcm9qZWN0aW9uKEBQYXlsb2FkIE9iamVjdCBwYXlsb2FkLCBASGVhZGVyKEVWRU5UX1RZUEUpIFN0cmluZyBldmVudCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>staffingStatus) {</text>
@@ -651,38 +661,38 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCSAgJydXRlRDZW50cmFsaXplZFN0YWZmaW5nX1B1YmxpY0ZvbGRlckBlcGFtLmNvbScnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUG9zaXRpb25TdGF0dXMuQ0xPU0VELmVxdWFscyhzdGFmZmluZ1N0YXR1cykpIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihBcnJheXMuYXNMaXN0KFBvc2l0aW9uU3RhdHVzLkNMT1NFRCkpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoUG9zaXRpb25TdGF0dXMuQ0xPU0VELmVxdWFscyhzdGFmZmluZ1N0YXR1cykpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZihBcnJheXMuYXNMaXN0KFBvc2l0aW9uU3RhdHVzLkNMT1NFRCkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5PTl9IT0xEOgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5URVJNSU5BVEVEOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5PTl9IT0xEOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5DTE9TRUQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5URVJNSU5BVEVEOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5DTE9TRUQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>!git lg</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -722,7 +732,6 @@
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action FindNext</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoNextError</entry>
@@ -735,9 +744,10 @@
         <entry>action Find</entry>
         <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
         <entry>mapleader &quot; &quot;</entry>
-        <entry>action HideSideWindows</entry>
         <entry>!git log</entry>
         <entry>!git lg</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
