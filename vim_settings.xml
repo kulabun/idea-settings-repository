@@ -69,8 +69,8 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473855579879">
-        <mark key="[" line="252" column="99" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473857745818">
+        <mark key="[" line="252" column="144" />
         <mark key="]" line="252" column="143" />
         <mark key="^" line="252" column="59" />
         <mark key="." line="252" column="99" />
@@ -382,7 +382,8 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1473854421939" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_94.json" timestamp="1473858084729" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1473857801247" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
@@ -392,8 +393,8 @@
         <mark key="^" line="6" column="124" />
         <mark key="." line="6" column="124" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473854880464">
-        <mark key="[" line="808" column="42" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473857739044">
+        <mark key="[" line="811" column="53" />
         <mark key="]" line="802" column="99" />
         <mark key="^" line="802" column="1" />
         <mark key="." line="802" column="38" />
@@ -453,7 +454,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
         <mark key="[" line="3" column="107" />
       </file>
-      <file name="/a.regexp" timestamp="1473855184292">
+      <file name="/a.regexp" timestamp="1473857802277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
@@ -462,7 +463,7 @@
         <mark key="." line="457" column="6" />
         <mark key="^" line="457" column="6" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_rejected.sql" timestamp="1473409570118">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_rejected.sql" timestamp="1473857961292">
         <mark key="[" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
@@ -646,7 +647,7 @@
         <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -698,10 +699,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
-        <entry>action Find</entry>
         <entry>action Annotate</entry>
         <entry>w</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
