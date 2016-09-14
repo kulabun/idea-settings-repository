@@ -92,11 +92,12 @@
         <mark key="^" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473846260883">
-        <mark key="[" line="285" column="90" />
-        <mark key="]" line="287" column="89" />
-        <mark key="." line="287" column="89" />
-        <mark key="^" line="287" column="89" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473848498362">
+        <mark key="'" line="286" column="87" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="287" column="86" />
+        <mark key="." line="287" column="86" />
+        <mark key="^" line="287" column="86" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/ProfileTestConfiguration.java" timestamp="1473693911493">
         <mark key="[" line="5" column="0" />
@@ -488,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="292" column="4" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/logs/application.log" />
       <jump line="30" column="15" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
@@ -588,19 +588,20 @@
       <jump line="1275" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" />
       <jump line="10" column="28" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
       <jump line="12" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
+      <jump line="286" column="87" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2RlbGl2ZXJ5TWFuYWdlcicnKT8uIVtnZXQoJydpZCcnKV0pLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnYWNjb3VudE1hbmFnZXInJyk/LiFbZ2V0KCcnaWQnJyldKQo=</text>
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2RlbGl2ZXJ5TWFuYWdlcicnKT8uZ2V0KCcnaWQnJykpLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnYWNjb3VudE1hbmFnZXInJyk/LmdldCgnJ2lkJycpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2RlbGl2ZXJ5TWFuYWdlcicnKT8uIVtnZXQoJydpZCcnKV0pLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnYWNjb3VudE1hbmFnZXInJyk/LiFbZ2V0KCcnaWQnJyldKQo=</text>
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2RlbGl2ZXJ5TWFuYWdlcicnKT8uZ2V0KCcnaWQnJykpLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnYWNjb3VudE1hbmFnZXInJyk/LmdldCgnJ2lkJycpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJyk/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
@@ -633,7 +634,7 @@
         <text encoding="base64">CQkJCQlAZmFjYWRlLmdldEFNc1BNc0RNc0Nvb3JkcygjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXVsnJ2V4dGVybmFsSWQnJ10pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -687,8 +688,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>w</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
