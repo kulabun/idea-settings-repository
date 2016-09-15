@@ -213,6 +213,9 @@
         <mark key="^" line="6" column="112" />
         <mark key="." line="6" column="112" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRequesterToFtsSimpleEntityTransformer.java" timestamp="1473928919641">
+        <mark key="[" line="25" column="115" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="101" />
@@ -452,6 +455,9 @@
         <mark key="." line="119" column="105" />
         <mark key="^" line="119" column="105" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/HiringContainerConstant.java" timestamp="1473928872283">
+        <mark key="[" line="7" column="78" />
+      </file>
       <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="28" />
@@ -537,7 +543,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1473866139913">
+      <file name="/fragment.java" timestamp="1473928784732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
@@ -696,7 +702,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -749,9 +755,9 @@
         <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>w</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Annotate</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
