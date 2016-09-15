@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473944078746">
+      <file name="/a.dummy" timestamp="1473946746918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -187,10 +187,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/AbstractMessageSelector.java" timestamp="1473944775145">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/AbstractMessageSelector.java" timestamp="1473946230467">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
         <mark key="[" line="67" column="39" />
@@ -361,6 +361,9 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/MessageSelectionHelper.java" timestamp="1473946793517">
+        <mark key="[" line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
         <mark key="[" line="57" column="3" />
         <mark key="]" line="58" column="14" />
@@ -484,8 +487,8 @@
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1473944130734">
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1473946489020">
+        <mark key="[" line="64" column="96" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
@@ -521,6 +524,12 @@
         <mark key="]" line="307" column="0" />
         <mark key="^" line="315" column="0" />
         <mark key="." line="307" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/MessageSelectionHelper.java" timestamp="1473946265578">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
@@ -707,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2F0ZWdvcmllcy5jb250YWlucyhncm91cC5nZXRHcm91cENhdGVnb3J5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -719,34 +728,34 @@
         <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2F0ZWdvcmllcy5jb250YWlucyhncm91cC5nZXRHcm91cENhdGVnb3J5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHcm91cCBncm91cCA9IHZhbGlkYXRlQW5kR2V0UGF5bG9hZChtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IEdyb3VwQnlDYXRlZ29yeVNlbGVjdG9yKEdyb3VwQ29uc3RhbnRzLlRBX0NBVEVHT1JZLCBHcm91cENvbnN0YW50cy5UQV9CWV9MT0NBVElPTl9DQVRFR09SWSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzKEFycmF5cy5hc0xpc3QoY2F0ZWdvcmllcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IFBheWxvYWRUeXBlU2VsZWN0b3IoR3JvdXAuY2xhc3MpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWNhdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUeXBlU3VwcG9ydGVkKG1lc3NhZ2UuZ2V0UGF5bG9hZCgpKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhc3NlcnRUeXBlU3VwcG9ydGVkKE9iamVjdCBwYXlsb2FkKSB7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhdGVnb3JpZXMgPSBjYXRlZ29yaWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCJQYXlsb2FkIG9mIHR5cGUgR3JvdXAgZXhwZWN0ZWQuICVzIHJlY2VpdmVkLiIsIHBheWxvYWQuZ2V0Q2xhc3MoKS5nZXRDYW5vbmljYWxOYW1lKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBYnN0cmFjdE1lc3NhZ2VTZWxlY3RvcihMaXN0PFN0cmluZz4gY2F0ZWdvcmllcykgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIShwYXlsb2FkIGluc3RhbmNlb2YgR3JvdXApKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
