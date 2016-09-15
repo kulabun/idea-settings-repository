@@ -149,6 +149,9 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
+      <file name="/a.txt" timestamp="1473931823475">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473343723659">
         <mark key="[" line="68" column="75" />
         <mark key="]" line="46" column="15" />
@@ -341,10 +344,6 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/config/StaffingGateway.java" timestamp="1473865258834">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="82" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
         <mark key="[" line="310" column="8" />
         <mark key="]" line="310" column="105" />
@@ -393,7 +392,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/repository/transform/AbstractFtsSimpleEntityTransformer.java" timestamp="1473930764421">
-        <mark key="[" line="30" column="4" />
+        <mark key="[" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/WorkflowScriptUtil.java" timestamp="1473167433828">
         <mark key="[" line="239" column="112" />
@@ -517,7 +516,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
         <mark key="[" line="3" column="107" />
       </file>
-      <file name="/a.regexp" timestamp="1473926347566">
+      <file name="/a.regexp" timestamp="1473931818339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473927161154">
