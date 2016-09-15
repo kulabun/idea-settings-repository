@@ -361,8 +361,11 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/MessageSelectionHelper.java" timestamp="1473946793517">
-        <mark key="[" line="17" column="18" />
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/MessageSelectionHelper.java" timestamp="1473947292716">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="26" column="37" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
         <mark key="[" line="57" column="3" />
@@ -487,10 +490,11 @@
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1473946489020">
-        <mark key="[" line="64" column="96" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1473947945802">
+        <mark key="[" line="99" column="116" />
+        <mark key="]" line="99" column="54" />
+        <mark key="." line="99" column="35" />
+        <mark key="^" line="99" column="54" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
         <mark key="[" line="26" column="20" />
@@ -716,46 +720,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoc2VsZWN0b3IoR3JvdXAuY2xhc3MsIHRoaXM6OmlzVGFsZW50QWNxdWlzaXRpb24pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoc2VsZWN0b3IoR3JvdXAuY2xhc3MsIHRoaXM6OmlzVGFsZW50QWNxdWlzaXRpb24pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IEdyb3VwQnlDYXRlZ29yeVNlbGVjdG9yKEdyb3VwQ29uc3RhbnRzLlRBX0NBVEVHT1JZLCBHcm91cENvbnN0YW50cy5UQV9CWV9MT0NBVElPTl9DQVRFR09SWSkpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IFBheWxvYWRUeXBlU2VsZWN0b3IoR3JvdXAuY2xhc3MpKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGVzCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUeXBlU3VwcG9ydGVkKG1lc3NhZ2UuZ2V0UGF5bG9hZCgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IE1lc3NhZ2VTZWxlY3RvciBzZWxlY3RvcihDbGFzczxUPiBjbGF6eiwgTGlzdDxQcmVkaWNhdGU8VD4+IHByZWRpY2F0ZXMpIHsKICAgICAgICByZXR1cm4gbmV3IEFic3RyYWN0TWVzc2FnZVNlbGVjdG9yPD4oY2xhenosIGFsbE9mKHByZWRpY2F0ZXMpKTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhc3NlcnRUeXBlU3VwcG9ydGVkKE9iamVjdCBwYXlsb2FkKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IEdyb3VwQnlDYXRlZ29yeVNlbGVjdG9yKEdyb3VwQ29uc3RhbnRzLlRBX0NBVEVHT1JZLCBHcm91cENvbnN0YW50cy5UQV9CWV9MT0NBVElPTl9DQVRFR09SWSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCJQYXlsb2FkIG9mIHR5cGUgR3JvdXAgZXhwZWN0ZWQuICVzIHJlY2VpdmVkLiIsIHBheWxvYWQuZ2V0Q2xhc3MoKS5nZXRDYW5vbmljYWxOYW1lKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IFBheWxvYWRUeXBlU2VsZWN0b3IoR3JvdXAuY2xhc3MpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIShwYXlsb2FkIGluc3RhbmNlb2YgR3JvdXApKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUeXBlU3VwcG9ydGVkKG1lc3NhZ2UuZ2V0UGF5bG9hZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
