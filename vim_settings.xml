@@ -696,7 +696,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -743,15 +743,15 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
-        <entry>action Annotate</entry>
         <entry>action Find</entry>
         <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
         <entry>mapleader &quot; &quot;</entry>
         <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>w</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Annotate</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
