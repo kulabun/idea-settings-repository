@@ -280,6 +280,12 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1473419724192">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
