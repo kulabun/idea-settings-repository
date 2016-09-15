@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473934641406">
+      <file name="/a.dummy" timestamp="1473935282890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -347,11 +347,11 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473934752241">
-        <mark key="[" line="50" column="64" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="49" column="3" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
+        <mark key="[" line="57" column="3" />
+        <mark key="]" line="58" column="14" />
+        <mark key="^" line="58" column="14" />
+        <mark key="." line="58" column="14" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
         <mark key="[" line="310" column="8" />
@@ -433,9 +433,10 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473933385446">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="66" column="4" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473935724337">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
         <mark key="[" line="219" column="45" />
@@ -458,10 +459,10 @@
         <mark key="^" line="802" column="1" />
         <mark key="." line="802" column="38" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473934710659">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473935712091">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
         <mark key="[" line="225" column="0" />
@@ -568,7 +569,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1473933620046">
+      <file name="/fragment.java" timestamp="1473935371290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
@@ -685,16 +686,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiUmV0dXJucyBsaXN0IG9mIGhpcmluZyBhcHByb3ZlcnMiKQogICAgQEFwaVJlc3BvbnNlcyhAQXBpUmVzcG9uc2UoY29kZSA9IDQwMCwgbWVzc2FnZSA9ICJJbnZhbGlkICdzb3J0JyBwYXJhbWV0ZXIgc3VwcGxpZWQiKSkKICAgIEBSZXF1ZXN0TWFwcGluZyhtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIHB1YmxpYyBGYWNldGVkUGFnZTxIaWdobGlnaHRlZFJlc3VsdDxGdHNTaW1wbGVFbnRpdHk+PiBnZXRBcHByb3ZlcnMoCiAgICAgICAgICAgIEBBcGlQYXJhbShuYW1lID0gInEiLCB2YWx1ZSA9ICJTZWFyY2ggcXVlcnkiLCBkZWZhdWx0VmFsdWUgPSAiIikgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJxIiwgcmVxdWlyZWQgPSBmYWxzZSkgU3RyaW5nIHF1ZXJ5LAogICAgICAgICAgICBAQXBpUGFyYW0oIlt7XCJuYW1lXCI6IFwiXCIsIFwid2VpZ2h0XCI6IDEuMH1dIikgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgZmllbGRzLCBQYWdlYWJsZSBwYWdlYWJsZSkgewoKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhxdWVyeSkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBGYWNldGVkUGFnZUltcGw8PihDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7CiAgICAgICAgfQoKICAgICAgICBFc0VudGl0eUNvbmZpZyBjb25maWcgPSBlc0NvbmZpZy5nZXQoInNpbXBsZUVudGl0eUNvbmZpZyIpOwogICAgICAgIGlmIChmaWVsZHMgIT0gbnVsbCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgY29uZmlnID0gbmV3IEVzRW50aXR5Q29uZmlnKG1hcHBlci5yZWFkVmFsdWUoZmllbGRzLCBuZXcgVHlwZVJlZmVyZW5jZTxMaXN0PEVzRmllbGQ+PigpIHt9KSwgY29uZmlnLmdldERlZmF1bHRTb3J0KCkpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJDYW5ub3QgcGFyc2UgJ2ZpZWxkcycgYXJndW1lbnQuIiwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBmdHNTaW1wbGVFbnRpdHlSZXBvc2l0b3J5LnNlYXJjaFdpdGhUeXBlKHF1ZXJ5LCBISVJJTkdfQVBQUk9WRVJfRU5USVRZX1RZUEUsIGNvbmZpZywgcGFnZWFibGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -703,19 +704,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBFc0VudGl0eUNvbmZpZyBnZXRFc0VudGl0eUNvbmZpZyhTdHJpbmcgZmllbGRzSnNvbikgewogICAgICAgIHJldHVybiBmaWVsZHNKc29uID09IG51bGwgPyBkZWZhdWx0RXNFbnRpdHlDb25maWcoKSA6IGNyZWF0ZUVzRW50aXR5Q29uZmlnRnJvbUpzb24oZmllbGRzSnNvbik7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiU2VhcmNoIFJlcXVpc2l0aW9uIEludGVydmlld2VycyBieSBuYW1lIikKICAgIEBBcGlSZXNwb25zZXMoQEFwaVJlc3BvbnNlKGNvZGUgPSA0MDAsIG1lc3NhZ2UgPSAiSW52YWxpZCAnc29ydCcgcGFyYW1ldGVyIHN1cHBsaWVkIikpCiAgICBASnNvblZpZXcoVmlld3MuRnVsbFZpZXcuY2xhc3MpCiAgICBAUmVxdWVzdE1hcHBpbmcocGF0aCA9ICIvaW50ZXJ2aWV3ZXJzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAU2VjdXJlZChEaWN0aW9uYXJ5QXV0aG9yaXRpZXMuVklFV19ESUNUSU9OQVJZKQogICAgcHVibGljIExpc3Q8RW1wbG95ZWVTaW1wbGVFbnRpdHk+IGludGVydmlld2VycyhAUmVxdWVzdFBhcmFtKHZhbHVlID0gIm5hbWUiKSBTdHJpbmcgbmFtZSwgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzaXplIiwgZGVmYXVsdFZhbHVlID0gIjIwIikgaW50IHJlc3VsdFNpemUpIHsKICAgICAgICByZXR1cm4gZW1wbG95ZWVSZXBvc2l0b3J5LmZpbmRCeUVtcGxveWVlQnlOYW1lKG5hbWUsIHJlc3VsdFNpemUpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKEVtcGxveWVlOjp0b1NpbXBsZUVudGl0eSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIkdldCBSZXF1aXNpdGlvbiBSZXF1ZXN0ZXJzIGJ5IG5hbWUiKQogICAgQEFwaVJlc3BvbnNlcyhAQXBpUmVzcG9uc2UoY29kZSA9IDQwMCwgbWVzc2FnZSA9ICJJbnZhbGlkICdzb3J0JyBwYXJhbWV0ZXIgc3VwcGxpZWQiKSkKICAgIEBKc29uVmlldyhWaWV3cy5GdWxsVmlldy5jbGFzcykKICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9yZXF1ZXN0ZXJzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAU2VjdXJlZChEaWN0aW9uYXJ5QXV0aG9yaXRpZXMuVklFV19ESUNUSU9OQVJZKQogICAgcHVibGljIExpc3Q8RW1wbG95ZWVTaW1wbGVFbnRpdHk+IHJlcXVlc3RlcnMoQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJuYW1lIikgU3RyaW5nIG5hbWUsIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic2l6ZSIsIGRlZmF1bHRWYWx1ZSA9ICIyMCIpIGludCByZXN1bHRTaXplKSB7CiAgICAgICAgcmV0dXJuIGVtcGxveWVlUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUJ5TmFtZShuYW1lLCByZXN1bHRTaXplKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChFbXBsb3llZTo6dG9TaW1wbGVFbnRpdHkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICB9CgogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJTZWFyY2ggUmVxdWlzaXRpb24gSGlyaW5nIE1hbmFnZXJzIGJ5IG5hbWUiKQogICAgQEpzb25WaWV3KFZpZXdzLkZ1bGxWaWV3LmNsYXNzKQogICAgQEFwaVJlc3BvbnNlcyhAQXBpUmVzcG9uc2UoY29kZSA9IDQwMCwgbWVzc2FnZSA9ICJJbnZhbGlkICdzb3J0JyBwYXJhbWV0ZXIgc3VwcGxpZWQiKSkKICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9oaXJpbmctbWFuYWdlcnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCiAgICBwdWJsaWMgTGlzdDxFbXBsb3llZVNpbXBsZUVudGl0eT4gaGlyaW5nTWFuYWdlcnMoQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJuYW1lIikgU3RyaW5nIG5hbWUsIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic2l6ZSIsIGRlZmF1bHRWYWx1ZSA9ICIyMCIpIGludCByZXN1bHRTaXplKSB7CiAgICAgICAgcmV0dXJuIGVtcGxveWVlUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUJ5TmFtZShuYW1lLCByZXN1bHRTaXplKS5zdHJlYW0oKS5tYXAoRW1wbG95ZWU6OnRvU2ltcGxlRW50aXR5KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEVNUFRZX1JFU1VMVFM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0c1JlcG9zaXRvcnkoKS5zZWFyY2hXaXRoVHlwZShxdWVyeSwgSElSSU5HX0FQUFJPVkVSX0VOVElUWV9UWVBFLCBnZXRFc0VudGl0eUNvbmZpZ0Zyb21Kc29uT3JEZWZhdWx0KGZpZWxkcyksIHBhZ2VhYmxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhxdWVyeSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nVXRpbHMuaXNCbGFuayhxdWVyeSkgPyBFTVBUWV9SRVNVTFRTIDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmFjZXRlZFBhZ2U8SGlnaGxpZ2h0ZWRSZXN1bHQ8RnRzU2ltcGxlRW50aXR5Pj4gc2VhcmNoKFN0cmluZyBxdWVyeSwgU3RyaW5nIHR5cGUsIFN0cmluZyBmaWVsZHMsIFBhZ2VhYmxlIHBhZ2VhYmxlKSB7CiAgICAgICAgcmV0dXJuIFN0cmluZ1V0aWxzLmlzQmxhbmsocXVlcnkpID8gRU1QVFlfUkVTVUxUUyA6CiAgICAgICAgICAgICAgICBmdHNSZXBvc2l0b3J5KCkuc2VhcmNoV2l0aFR5cGUocXVlcnksIHR5cGUsIGdldEVzRW50aXR5Q29uZmlnRnJvbUpzb25PckRlZmF1bHQoZmllbGRzKSwgcGFnZWFibGUpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -724,7 +725,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsocXVlcnkpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgRmFjZXRlZFBhZ2VJbXBsPD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgICAgIH0KCiAgICAgICAgRXNFbnRpdHlDb25maWcgY29uZmlnID0gZXNDb25maWcuZ2V0KCJzaW1wbGVFbnRpdHlDb25maWciKTsKICAgICAgICBpZiAoZmllbGRzICE9IG51bGwpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA9IG5ldyBFc0VudGl0eUNvbmZpZyhtYXBwZXIucmVhZFZhbHVlKGZpZWxkcywgbmV3IFR5cGVSZWZlcmVuY2U8TGlzdDxFc0ZpZWxkPj4oKSB7fSksIGNvbmZpZy5nZXREZWZhdWx0U29ydCgpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHBhcnNlICdmaWVsZHMnIGFyZ3VtZW50LiIsIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -769,8 +770,6 @@
         <entry>action RecentFiles</entry>
         <entry>action FindNext</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
@@ -782,6 +781,8 @@
         <entry>w</entry>
         <entry>action Annotate</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowIntentionActions</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
