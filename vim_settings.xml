@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473948517762">
+      <file name="/a.dummy" timestamp="1473950584585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -39,6 +39,12 @@
         <mark key="]" line="28" column="7" />
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_97.json" timestamp="1473952335974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -335,8 +341,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1473950338382" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterToFtsSimpleEntityTransformer.java" timestamp="1473931320898">
-        <mark key="[" line="15" column="89" />
+        <mark key="[" line="14" column="89" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
         <mark key="[" line="0" column="0" />
@@ -396,7 +403,6 @@
         <mark key="]" line="56" column="42" />
         <mark key="." line="56" column="42" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-attachment/src/main/java/com/epam/staf/attachment/integration/AttachmentValidationPlugin.java" timestamp="1473943197916" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
         <mark key="[" line="206" column="166" />
         <mark key="]" line="206" column="131" />
@@ -460,6 +466,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" timestamp="1473952496018">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473935724337">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="51" />
@@ -486,7 +498,7 @@
         <mark key="^" line="802" column="1" />
         <mark key="." line="802" column="38" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473935712091">
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473951922186">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="50" />
         <mark key="." line="40" column="0" />
@@ -580,7 +592,6 @@
         <mark key="." line="457" column="6" />
         <mark key="^" line="457" column="6" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/plugin/AttachmentValidationPluginImpl.java" timestamp="1473942855712" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -609,11 +620,11 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1473944624760">
+      <file name="/fragment.java" timestamp="1473951804399">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473868091735">
         <mark key="[" line="271" column="12" />
@@ -623,8 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="15" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="19" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="25" column="13" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="33" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
@@ -723,49 +732,51 @@
       <jump line="286" column="87" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" />
       <jump line="62" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" />
+      <jump line="96" column="17" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCAzLCAxMDAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>userRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoc2VsZWN0b3IoR3JvdXAuY2xhc3MsIHRoaXM6OmlzVGFsZW50QWNxdWlzaXRpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCAzLCAxMDAwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PFVzZXI+IHVzZXJzID0gaGlyaW5nQXBwcm92ZXJzLnN0cmVhbSgpLm1hcChHcm91cDo6Z2V0TWVtYmVycykuZmxhdE1hcChTZXQ6OnN0cmVhbSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobmV3IFBheWxvYWRUeXBlU2VsZWN0b3IoR3JvdXAuY2xhc3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRyeU9uRmFpbCgoKSAtPiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IE1lc3NhZ2VTZWxlY3RvciBzZWxlY3RvcihDbGFzczxUPiBjbGF6eiwgTGlzdDxQcmVkaWNhdGU8VD4+IHByZWRpY2F0ZXMpIHsKICAgICAgICByZXR1cm4gbmV3IEFic3RyYWN0TWVzc2FnZVNlbGVjdG9yPD4oY2xhenosIGFsbE9mKHByZWRpY2F0ZXMpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -804,7 +815,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
@@ -823,6 +833,7 @@
         <entry>action Annotate</entry>
         <entry>action FindNext</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action FindWordAtCaret</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
