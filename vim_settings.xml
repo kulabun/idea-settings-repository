@@ -253,10 +253,6 @@
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473908053786">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1253" column="0" />
-        <mark key="]" line="1253" column="0" />
-        <mark key="^" line="1243" column="16" />
-        <mark key="." line="1253" column="0" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -435,7 +431,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473906010838">
+      <file name="/fragment.java" timestamp="1473909478755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
