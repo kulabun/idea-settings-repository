@@ -310,6 +310,7 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1473915307612" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
@@ -437,7 +438,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473909478755">
+      <file name="/fragment.java" timestamp="1473915259197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
