@@ -213,7 +213,6 @@
         <mark key="^" line="6" column="112" />
         <mark key="." line="6" column="112" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473854342345" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="101" />
@@ -325,11 +324,10 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473860248696">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="86" />
-        <mark key="." line="286" column="0" />
-        <mark key="^" line="285" column="79" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473868176736">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/config/StaffingGateway.java" timestamp="1473865258834">
         <mark key="[" line="20" column="0" />
@@ -358,7 +356,6 @@
         <mark key="." line="206" column="131" />
         <mark key="^" line="206" column="152" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/epam/staf/nm-services-elp-facade/1.0.7/nm-services-elp-facade-1.0.7-sources.jar!/com/epam/notifications/services/FacadePlugin.java" timestamp="1473867240160" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="192" column="0" />
@@ -408,8 +405,6 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_94.json" timestamp="1473858084729" />
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1473857801247" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
       </file>
@@ -469,7 +464,6 @@
         <mark key="^" line="315" column="0" />
         <mark key="." line="307" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/db/prodDataUpdates/V1_0_163__create_notification_service_account.sql" timestamp="1473853934564" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
@@ -500,7 +494,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
         <mark key="[" line="3" column="107" />
       </file>
-      <file name="/a.regexp" timestamp="1473862144059">
+      <file name="/a.regexp" timestamp="1473926347566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" timestamp="1473860737631">
@@ -549,11 +543,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473860219816">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="86" />
-        <mark key="." line="288" column="0" />
-        <mark key="^" line="286" column="12" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473868091735">
+        <mark key="[" line="271" column="12" />
+        <mark key="]" line="271" column="14" />
+        <mark key="." line="271" column="14" />
+        <mark key="^" line="271" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -659,50 +653,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RVBNU1RBRi0xMjgwNyBFUE1TVEFGLTEyODE0IEVQTVNUQUYtMTI4MDUgRVBNU1RBRi0xMjg0MCBFUE1TVEFGLTEyODI4IC0gRml4IG5vdGlmaWNhdGlvbiBidWdzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydwcm9wb3NhbCcnXT8uZ2V0KCcnY29udGFpbmVyJycpPy5nZXQoJydjb250YWN0UGVyc29ucycnKT8uIVtnZXQoJydpZCcnKV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>EPMSTAF-10638</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCSAgJydXRlRDZW50cmFsaXplZFN0YWZmaW5nX1B1YmxpY0ZvbGRlckBlcGFtLmNvbScnCg==</text>
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydjb250YWluZXInJ10/LmdldCgnJ2NvbnRhY3RQZXJzb25zJycpPy4hW2dldCgnJ2lkJycpXSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydwcm9wb3NhbCcnXT8uZ2V0KCcnY29udGFpbmVyJycpPy5nZXQoJydjb250YWN0UGVyc29ucycnKT8uIVtnZXQoJydpZCcnKV0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQkJKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUG9zaXRpb25TdGF0dXMuQ0xPU0VELmVxdWFscyhzdGFmZmluZ1N0YXR1cykpIHsK</text>
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydwcm9wb3NhbCcnXT8uZ2V0KCcnY29udGFpbmVyJycpPy5nZXQoJydjb250YWN0UGVyc29ucycnKT8uIVtnZXQoJydpZCcnKV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCSNwYXlsb2FkWycncHJvcG9zYWwnJ10/LmdldCgnJ3Bvc2l0aW9uJycpPy5nZXQoJydzdGFmZmluZ0Nvb3JkaW5hdG9ycycnKT8uIVtnZXQoJydpZCcnKV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihBcnJheXMuYXNMaXN0KFBvc2l0aW9uU3RhdHVzLkNMT1NFRCkpCg==</text>
+        <text encoding="base64">CQkJCQkJCUB1dGlsLmpvaW4oI3BheWxvYWRbJydwcm9wb3NhbCcnXT8uZ2V0KCcnY29udGFpbmVyJycpPy5nZXQoJydjb250YWN0UGVyc29ucycnKT8uIVtnZXQoJydpZCcnKV0pCgkJCQkJCQkjcGF5bG9hZFsnJ3Byb3Bvc2FsJyddPy5nZXQoJydwb3NpdGlvbicnKT8uZ2V0KCcnc3RhZmZpbmdDb29yZGluYXRvcnMnJyk/LiFbZ2V0KCcnaWQnJyldLAoJCQkJCQkJQHV0aWwuam9pbigjcGF5bG9hZFsnJ2NvbnRhaW5lcicnXT8uZ2V0KCcnY29udGFjdFBlcnNvbnMnJyk/LiFbZ2V0KCcnaWQnJyldKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5PTl9IT0xEOgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5URVJNSU5BVEVEOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUG9zaXRpb25TdGF0dXMuQ0xPU0VELmVxdWFscyhzdGFmZmluZ1N0YXR1cykpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQb3NpdGlvblN0YXR1cy5DTE9TRUQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -756,8 +750,8 @@
         <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>w</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
