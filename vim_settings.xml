@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1473935282890">
+      <file name="/a.dummy" timestamp="1473944078746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -56,6 +56,10 @@
         <mark key="]" line="88" column="25" />
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/resources/messages.properties" timestamp="1473942745134">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="24" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/RequisitionAssigneeOrigin.java" timestamp="1473258241723">
         <mark key="[" line="22" column="5" />
@@ -146,6 +150,11 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="81" column="41" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/GroupByCategorySelector.java" timestamp="1473944519185">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_201__applicant_attachment_permissions.sql" timestamp="1472654764448">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="6" column="246" />
@@ -177,6 +186,11 @@
         <mark key="[" line="14" column="60" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/AbstractMessageSelector.java" timestamp="1473944775145">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
         <mark key="[" line="67" column="39" />
@@ -370,6 +384,7 @@
         <mark key="]" line="56" column="42" />
         <mark key="." line="56" column="42" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-attachment/src/main/java/com/epam/staf/attachment/integration/AttachmentValidationPlugin.java" timestamp="1473943197916" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
         <mark key="[" line="206" column="166" />
         <mark key="]" line="206" column="131" />
@@ -469,6 +484,11 @@
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1473944130734">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="33" column="21" />
@@ -541,6 +561,7 @@
         <mark key="." line="457" column="6" />
         <mark key="^" line="457" column="6" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/plugin/AttachmentValidationPluginImpl.java" timestamp="1473942855712" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -569,7 +590,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1473935371290">
+      <file name="/fragment.java" timestamp="1473944624760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="18" />
@@ -686,7 +707,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2F0ZWdvcmllcy5jb250YWlucyhncm91cC5nZXRHcm91cENhdGVnb3J5KCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -698,34 +719,34 @@
         <text encoding="base64">ICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2F0ZWdvcmllcy5jb250YWlucyhncm91cC5nZXRHcm91cENhdGVnb3J5KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiU2VhcmNoIFJlcXVpc2l0aW9uIEludGVydmlld2VycyBieSBuYW1lIikKICAgIEBBcGlSZXNwb25zZXMoQEFwaVJlc3BvbnNlKGNvZGUgPSA0MDAsIG1lc3NhZ2UgPSAiSW52YWxpZCAnc29ydCcgcGFyYW1ldGVyIHN1cHBsaWVkIikpCiAgICBASnNvblZpZXcoVmlld3MuRnVsbFZpZXcuY2xhc3MpCiAgICBAUmVxdWVzdE1hcHBpbmcocGF0aCA9ICIvaW50ZXJ2aWV3ZXJzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAU2VjdXJlZChEaWN0aW9uYXJ5QXV0aG9yaXRpZXMuVklFV19ESUNUSU9OQVJZKQogICAgcHVibGljIExpc3Q8RW1wbG95ZWVTaW1wbGVFbnRpdHk+IGludGVydmlld2VycyhAUmVxdWVzdFBhcmFtKHZhbHVlID0gIm5hbWUiKSBTdHJpbmcgbmFtZSwgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzaXplIiwgZGVmYXVsdFZhbHVlID0gIjIwIikgaW50IHJlc3VsdFNpemUpIHsKICAgICAgICByZXR1cm4gZW1wbG95ZWVSZXBvc2l0b3J5LmZpbmRCeUVtcGxveWVlQnlOYW1lKG5hbWUsIHJlc3VsdFNpemUpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKEVtcGxveWVlOjp0b1NpbXBsZUVudGl0eSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIkdldCBSZXF1aXNpdGlvbiBSZXF1ZXN0ZXJzIGJ5IG5hbWUiKQogICAgQEFwaVJlc3BvbnNlcyhAQXBpUmVzcG9uc2UoY29kZSA9IDQwMCwgbWVzc2FnZSA9ICJJbnZhbGlkICdzb3J0JyBwYXJhbWV0ZXIgc3VwcGxpZWQiKSkKICAgIEBKc29uVmlldyhWaWV3cy5GdWxsVmlldy5jbGFzcykKICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9yZXF1ZXN0ZXJzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAU2VjdXJlZChEaWN0aW9uYXJ5QXV0aG9yaXRpZXMuVklFV19ESUNUSU9OQVJZKQogICAgcHVibGljIExpc3Q8RW1wbG95ZWVTaW1wbGVFbnRpdHk+IHJlcXVlc3RlcnMoQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJuYW1lIikgU3RyaW5nIG5hbWUsIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic2l6ZSIsIGRlZmF1bHRWYWx1ZSA9ICIyMCIpIGludCByZXN1bHRTaXplKSB7CiAgICAgICAgcmV0dXJuIGVtcGxveWVlUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUJ5TmFtZShuYW1lLCByZXN1bHRTaXplKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChFbXBsb3llZTo6dG9TaW1wbGVFbnRpdHkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICB9CgogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJTZWFyY2ggUmVxdWlzaXRpb24gSGlyaW5nIE1hbmFnZXJzIGJ5IG5hbWUiKQogICAgQEpzb25WaWV3KFZpZXdzLkZ1bGxWaWV3LmNsYXNzKQogICAgQEFwaVJlc3BvbnNlcyhAQXBpUmVzcG9uc2UoY29kZSA9IDQwMCwgbWVzc2FnZSA9ICJJbnZhbGlkICdzb3J0JyBwYXJhbWV0ZXIgc3VwcGxpZWQiKSkKICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9oaXJpbmctbWFuYWdlcnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIEBTZWN1cmVkKERpY3Rpb25hcnlBdXRob3JpdGllcy5WSUVXX0RJQ1RJT05BUlkpCiAgICBwdWJsaWMgTGlzdDxFbXBsb3llZVNpbXBsZUVudGl0eT4gaGlyaW5nTWFuYWdlcnMoQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJuYW1lIikgU3RyaW5nIG5hbWUsIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic2l6ZSIsIGRlZmF1bHRWYWx1ZSA9ICIyMCIpIGludCByZXN1bHRTaXplKSB7CiAgICAgICAgcmV0dXJuIGVtcGxveWVlUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUJ5TmFtZShuYW1lLCByZXN1bHRTaXplKS5zdHJlYW0oKS5tYXAoRW1wbG95ZWU6OnRvU2ltcGxlRW50aXR5KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBHcm91cCBncm91cCA9IHZhbGlkYXRlQW5kR2V0UGF5bG9hZChtZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKEFycmF5cy5hc0xpc3QoY2F0ZWdvcmllcykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ0c1JlcG9zaXRvcnkoKS5zZWFyY2hXaXRoVHlwZShxdWVyeSwgSElSSU5HX0FQUFJPVkVSX0VOVElUWV9UWVBFLCBnZXRFc0VudGl0eUNvbmZpZ0Zyb21Kc29uT3JEZWZhdWx0KGZpZWxkcyksIHBhZ2VhYmxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWNhdGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nVXRpbHMuaXNCbGFuayhxdWVyeSkgPyBFTVBUWV9SRVNVTFRTIDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmFjZXRlZFBhZ2U8SGlnaGxpZ2h0ZWRSZXN1bHQ8RnRzU2ltcGxlRW50aXR5Pj4gc2VhcmNoKFN0cmluZyBxdWVyeSwgU3RyaW5nIHR5cGUsIFN0cmluZyBmaWVsZHMsIFBhZ2VhYmxlIHBhZ2VhYmxlKSB7CiAgICAgICAgcmV0dXJuIFN0cmluZ1V0aWxzLmlzQmxhbmsocXVlcnkpID8gRU1QVFlfUkVTVUxUUyA6CiAgICAgICAgICAgICAgICBmdHNSZXBvc2l0b3J5KCkuc2VhcmNoV2l0aFR5cGUocXVlcnksIHR5cGUsIGdldEVzRW50aXR5Q29uZmlnRnJvbUpzb25PckRlZmF1bHQoZmllbGRzKSwgcGFnZWFibGUpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhdGVnb3JpZXMgPSBjYXRlZ29yaWVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsocXVlcnkpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgRmFjZXRlZFBhZ2VJbXBsPD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgICAgIH0KCiAgICAgICAgRXNFbnRpdHlDb25maWcgY29uZmlnID0gZXNDb25maWcuZ2V0KCJzaW1wbGVFbnRpdHlDb25maWciKTsKICAgICAgICBpZiAoZmllbGRzICE9IG51bGwpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGNvbmZpZyA9IG5ldyBFc0VudGl0eUNvbmZpZyhtYXBwZXIucmVhZFZhbHVlKGZpZWxkcywgbmV3IFR5cGVSZWZlcmVuY2U8TGlzdDxFc0ZpZWxkPj4oKSB7fSksIGNvbmZpZy5nZXREZWZhdWx0U29ydCgpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHBhcnNlICdmaWVsZHMnIGFyZ3VtZW50LiIsIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBYnN0cmFjdE1lc3NhZ2VTZWxlY3RvcihMaXN0PFN0cmluZz4gY2F0ZWdvcmllcykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -764,11 +785,9 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindWordAtCaret</entry>
         <entry>action FindInPath</entry>
         <entry>3230,$s/	//g</entry>
         <entry>action RecentFiles</entry>
-        <entry>action FindNext</entry>
         <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
@@ -779,10 +798,12 @@
         <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>w</entry>
-        <entry>action Annotate</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action Annotate</entry>
+        <entry>action FindNext</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
