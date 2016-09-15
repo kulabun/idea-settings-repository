@@ -438,11 +438,11 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473915259197">
+      <file name="/fragment.java" timestamp="1473921391470">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_rejected.sql" timestamp="1473409570118">
         <mark key="[" line="6" column="76" />
@@ -551,11 +551,11 @@
       <jump line="17" column="33" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgK2VudW1DbGFzcy5nZXROYW1lKCkrIikiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>((FieldProperty) prop)._field</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICghX2hhc0FyZ3MgfHwgX2NyZWF0b3JQcm9wcy5sZW5ndGggPCAyKSkgew==</text>
+        <text>((FieldProperty) prop)._field</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
