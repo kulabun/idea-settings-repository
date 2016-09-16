@@ -581,8 +581,8 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1474039057265">
-        <mark key="[" line="108" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1474041558351">
+        <mark key="[" line="109" column="0" />
         <mark key="]" line="103" column="29" />
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="29" />
@@ -717,7 +717,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474041199088">
+      <file name="/Dummy.txt" timestamp="1474041250966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -906,7 +906,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PROFILES TEST</text>
+        <text>ALTER TABLE m_employees_aud
+  ADD COLUMN unit_manager_id TEXT,
+  ADD COLUMN unit_manager_name TEXT;</text>
       </register>
       <register name="-" type="4">
         <text>PROFILES TEST</text>
