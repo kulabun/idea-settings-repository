@@ -164,8 +164,11 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474038316346">
-        <mark key="[" line="32" column="28" />
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474040208614">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="39" column="14" />
+        <mark key="^" line="39" column="14" />
+        <mark key="." line="39" column="14" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
         <mark key="[" line="3" column="31" />
@@ -312,6 +315,12 @@
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/resources/dataSet/901-applicants-dev.json" timestamp="1474039978877">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_cancelled.sql" timestamp="1473860243368">
         <mark key="[" line="286" column="0" />
@@ -683,7 +692,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474038019402">
+      <file name="/Dummy.txt" timestamp="1474040273182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
         <mark key="^" line="0" column="47" />
@@ -873,7 +882,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICB7CiAgICAiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYucG9wdWxhdG9yLlBvcHVsYXRvck1ldGEiLAogICAgImFjdGlvbiI6ICJkcm9wQWZ0ZXIiCiAgfSw=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
