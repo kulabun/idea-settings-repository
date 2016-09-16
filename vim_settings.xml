@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
         <mark key="'" line="68" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1474001336687">
+      <file name="/a.dummy" timestamp="1474003035096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
@@ -186,11 +186,11 @@
         <mark key="." line="119" column="105" />
         <mark key="^" line="119" column="105" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474002351455">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474004001009">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="48" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="58" column="47" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -569,49 +569,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgc2VlIG9ubHkgInVuZmlsdGVyZWQ6TiIgdmFsdWVzCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>allback</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoQ29sbGVjdGlvbi5jbGFzcy5nZXROYW1lKCksIEFycmF5TGlzdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgc2VlIG9ubHkgInVuZmlsdGVyZWQ6TiIgdmFsdWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gYXJyYXkgPSBhc3NlcnRBbmRHZXRWYWx1ZShyZXN1bHQsICJhcnJheSIsIExpc3QuY2xhc3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTb21lVHlwZSgiZmlsdGVyZWQ6MSIsICJ1bmZpbHRlcmVkOjEiKSwgbmV3IFNvbWVUeXBlKCJmaWx0ZXJlZDoyIiwgInVuZmlsdGVyZWQ6MiIpICkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb2xsZWN0aW9uID0gY29sbGVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IHdyaXRlQW5kTWFwKE1BUFBFUiwgbmV3IENsYXNzV2l0aEFycmF5KAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRDb2xsZWN0aW9uKENvbGxlY3Rpb248U29tZVR5cGU+IGNvbGxlY3Rpb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgcmVzdWx0LnNpemUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludGVnZXIudmFsdWVPZigxKSwgYXNzZXJ0QW5kR2V0VmFsdWUocmVzdWx0LCAieCIpKTsKICAgICAgICBhc3NlcnROdWxsKGFzc2VydEFuZEdldFZhbHVlKHJlc3VsdCwgInkiKSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgc2VlICJ4IiBhbmQgInkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgcmVzdWx0LnNpemUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ29sbGVjdGlvbjxTb21lVHlwZT4gZ2V0Q29sbGVjdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCBjYXNlIHRvIHZlcmlmeSB0aGF0IGlnbm9yZSB0YWcgY2FuIGFsc28gYmUgZGlzYWJsZWQKICAgICAqIHZpYSBpbmhlcml0YW5jZQogICAgICovCiAgICBwdWJsaWMgdm9pZCB0ZXN0SWdub3JlT3ZlcigpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIC8vIHNob3VsZCBvbmx5IHNlZSAieSIKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IHdyaXRlQW5kTWFwKE1BUFBFUiwgbmV3IEJhc2VDbGFzc0lnbm9yZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMSwgcmVzdWx0LnNpemUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludGVnZXIudmFsdWVPZigyKSwgcmVzdWx0LmdldCgieSIpKTsKCiAgICAgICAgLy8gU2hvdWxkIHNlZSAieCIgYW5kICJ5IgogICAgICAgIHJlc3VsdCA9IHdyaXRlQW5kTWFwKE1BUFBFUiwgbmV3IFN1YkNsYXNzTm9uSWdub3JlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygyLCByZXN1bHQuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoSW50ZWdlci52YWx1ZU9mKDMpLCByZXN1bHQuZ2V0KCJ4IikpOwogICAgICAgIGFzc2VydEVxdWFscyhJbnRlZ2VyLnZhbHVlT2YoMiksIHJlc3VsdC5nZXQoInkiKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdGVzdElnbm9yZVR5cGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBhc3NlcnRFcXVhbHMoIntcInZhbHVlXCI6MTN9IiwgTUFQUEVSLndyaXRlVmFsdWVBc1N0cmluZyhuZXcgTm9uSWdub3JlZFR5cGUoKSkpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFNvbWVUeXBlKFN0cmluZyBmaWx0ZXJlZEZpZWxkLCBTdHJpbmcgdW5maWx0ZXJlZEZpZWxkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -650,8 +650,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action JumpToLastChange</entry>
-        <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
@@ -669,6 +667,8 @@
         <entry>r!</entry>
         <entry>action GenerateGetter</entry>
         <entry>action GenerateGetterAndSetter</entry>
+        <entry>action GenerateConstructor</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
