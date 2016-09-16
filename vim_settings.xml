@@ -186,6 +186,12 @@
         <mark key="." line="119" column="105" />
         <mark key="^" line="119" column="105" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474002351455">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
         <mark key="]" line="37" column="89" />
@@ -449,7 +455,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473921391470">
+      <file name="/fragment.java" timestamp="1474001791277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
@@ -562,12 +568,8 @@
       <jump line="78" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
-        _collectionFallbacks.put(SortedSet.class.getName(), TreeSet.class);
-        _collectio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -581,43 +583,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoQ29sbGVjdGlvbi5jbGFzcy5nZXROYW1lKCksIEFycmF5TGlzdC5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
-        _collectionFallbacks.put(SortedSet.class.getName(), TreeSet.class);
-        _collectio</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
-        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
-        _collection</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
-        _collection</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb2xsZWN0aW9uID0gY29sbGVjdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoQ29sbGVjdGlvbi5jbGFzcy5nZXROYW1lKCksIEFycmF5TGlzdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRDb2xsZWN0aW9uKENvbGxlY3Rpb248U29tZVR5cGU+IGNvbGxlY3Rpb24pIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoU29ydGVkU2V0LmNsYXNzLmdldE5hbWUoKSwgVHJlZVNldC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgK2VudW1DbGFzcy5nZXROYW1lKCkrIikiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlVuc3VpdGFibGUgbWV0aG9kICgiK2ZhY3RvcnkrIikgZGVjb3JhdGVkIHdpdGggQEpzb25DcmVhdG9yIChmb3IgRW51bSB0eXBlICIK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ29sbGVjdGlvbjxTb21lVHlwZT4gZ2V0Q29sbGVjdGlvbigpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -666,15 +660,15 @@
         <entry>action FindInPath</entry>
         <entry>action QuickImplementations</entry>
         <entry>action SurroundWith</entry>
-        <entry>action GenerateGetter</entry>
         <entry>action Generate</entry>
-        <entry>action GenerateGetterAndSetter</entry>
         <entry>action Compare.SameVersion</entry>
         <entry>al</entry>
         <entry>actionlist AceJump</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FindNext</entry>
         <entry>r!</entry>
+        <entry>action GenerateGetter</entry>
+        <entry>action GenerateGetterAndSetter</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
