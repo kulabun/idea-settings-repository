@@ -186,11 +186,11 @@
         <mark key="." line="119" column="105" />
         <mark key="^" line="119" column="105" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474004986167">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="53" />
-        <mark key="." line="63" column="53" />
-        <mark key="^" line="63" column="53" />
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
