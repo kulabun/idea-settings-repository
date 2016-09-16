@@ -164,11 +164,11 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474040208614">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474041038699">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="75" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
         <mark key="[" line="3" column="31" />
@@ -234,6 +234,11 @@
         <mark key="]" line="13" column="160" />
         <mark key="^" line="13" column="79" />
         <mark key="." line="13" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/HiringApproverFtsTest.java" timestamp="1474034093985">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
@@ -333,6 +338,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/UnitRepository.java" timestamp="1474017673090">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/StaffingAppAutoConfiguration.java" timestamp="1472645176137">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="59" />
@@ -403,6 +413,11 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/UnitFtsController.java" timestamp="1474015707288">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profiles-test.yml" timestamp="1473693542843">
         <mark key="[" line="2" column="31" />
@@ -593,11 +608,18 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474037954242">
-        <mark key="[" line="38" column="69" />
+      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474041135945">
+        <mark key="[" line="38" column="137" />
+        <mark key="]" line="38" column="117" />
+        <mark key="." line="38" column="117" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/meta/AttachmentMetaListener.java" timestamp="1474038363064">
         <mark key="[" line="37" column="55" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1474034661941">
+        <mark key="[" line="33" column="58" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
         <mark key="[" line="219" column="45" />
@@ -661,8 +683,11 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/HiringContainerConstant.java" timestamp="1473928872283">
         <mark key="[" line="7" column="78" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/test/util/generator/HiringContainerDataSetSaverImpl.java" timestamp="1474038335009">
-        <mark key="[" line="34" column="26" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/test/util/generator/HiringContainerDataSetSaverImpl.java" timestamp="1474041108660">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="71" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
         <mark key="[" line="7" column="29" />
@@ -692,11 +717,10 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474040273182">
+      <file name="/Dummy.txt" timestamp="1474041199088">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="93" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="94" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
         <mark key="[" line="225" column="7" />
@@ -765,9 +789,9 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1474034608988">
+      <file name="/fragment.java" timestamp="1474041011449">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
@@ -882,46 +906,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB7CiAgICAiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYucG9wdWxhdG9yLlBvcHVsYXRvck1ldGEiLAogICAgImFjdGlvbiI6ICJkcm9wQWZ0ZXIiCiAgfSw=</text>
+        <text>PROFILES TEST</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PROFILES TEST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbgogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX2lkIFRFWFQsCiAgQUREIENPTFVNTiB1bml0X21hbmFnZXJfbmFtZSBURVhUOwo=</text>
+      <register name="0" type="4">
+        <text>getClass().getClassLoader().getResource(&quot;dataSet/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbgogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX2lkIFRFWFQsCiAgQUREIENPTFVNTiB1bml0X21hbmFnZXJfbmFtZSBURVhUOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkuZ2V0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tZW50IGNvbW1lbnQgPSAoQ29tbWVudCl0YXJnZXQ7Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbgogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX2lkIFRFWFQsCiAgQUREIENPTFVNTiB1bml0X21hbmFnZXJfbmFtZSBURVhUOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgVmFsaWRhdGlvblV0aWxzLmludm9rZVZhbGlkYXRvcih2YWxpZGF0b3IsIGF0dGFjaG1lbnQsIGVycm9ycyk7CgogICAgICAgIGlmICghLmdldEVudGl0eVR5cGUoKSkpIHsKICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJlbnRpdHlUeXBlIiwgImVudGl0eS50eXBlLm5vdC5zdXBwb3J0ZWQiLCBuZXcgT2JqZWN0W117U1VQUE9SVEVEX0VOVElUWV9UWVBFU30sIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgY2hlY2tFbnRpdHlFeGlzdHMoYXR0YWNobWVudCwgZXJyb3JzKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tZW50IGNvbW1lbnQgPSAoQ29tbWVudCl0YXJnZXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgVmFsaWRhdGlvblV0aWxzLmludm9rZVZhbGlkYXRvcih2YWxpZGF0b3IsIGF0dGFjaG1lbnQsIGVycm9ycyk7CgogICAgICAgIGlmICghLmdldEVudGl0eVR5cGUoKSkpIHsKICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJlbnRpdHlUeXBlIiwgImVudGl0eS50eXBlLm5vdC5zdXBwb3J0ZWQiLCBuZXcgT2JqZWN0W117U1VQUE9SVEVEX0VOVElUWV9UWVBFU30sIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgY2hlY2tFbnRpdHlFeGlzdHMoYXR0YWNobWVudCwgZXJyb3JzKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0VudGl0eUV4aXN0cyhBdHRhY2htZW50IGF0dGFjaG1lbnQsIEVycm9ycyBlcnJvcnMpIHsKICAgICAgICBPYmplY3QgZW50aXR5ID0gbnVsbDsKCiAgICAgICAgaWYgKEVtcGxveWVlLmNsYXNzLmdldE5hbWUoKS5lcXVhbHMoYXR0YWNobWVudC5nZXRFbnRpdHlUeXBlKCkpKSB7CiAgICAgICAgICAgIGVudGl0eSA9IGVtcGxveWVlUmVwb3NpdG9yeS5maW5kT25lKGF0dGFjaG1lbnQuZ2V0RW50aXR5SWQoKSk7CiAgICAgICAgfSBlbHNlIGlmIChQb3NpdGlvbi5jbGFzcy5nZXROYW1lKCkuZXF1YWxzKGF0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpKSkgewogICAgICAgICAgICBlbnRpdHkgPSBwb3NpdGlvblJlcG9zaXRvcnkuZmluZE9uZShMb25nLnZhbHVlT2YoYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpKSk7CiAgICAgICAgfSBlbHNlIGlmIChGZWVkYmFjay5jbGFzcy5nZXROYW1lKCkuZXF1YWxzKGF0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpKSkgewogICAgICAgICAgICBlbnRpdHkgPSBmZWVkYmFja1JlcG9zaXRvcnkuZmluZE9uZShMb25nLnZhbHVlT2YoYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpKSk7CiAgICAgICAgfSBlbHNlIGlmIChDb250YWluZXIuY2xhc3MuZ2V0TmFtZSgpLmVxdWFscyhhdHRhY2htZW50LmdldEVudGl0eVR5cGUoKSkpIHsKICAgICAgICAgICAgZW50aXR5ID0gY29udGFpbmVyUmVwb3NpdG9yeS5maW5kT25lKGF0dGFjaG1lbnQuZ2V0RW50aXR5SWQoKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW50aXR5ID09IG51bGwpIHsKICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJlbnRpdHlJZCIsICJlbnRpdHkubm90LmV4aXN0IiwgbmV3IE9iamVjdFtde2F0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpfSwgbnVsbCk7CiAgICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0VudGl0eUV4aXN0cyhBdHRhY2htZW50IGF0dGFjaG1lbnQsIEVycm9ycyBlcnJvcnMpIHsKICAgICAgICBPYmplY3QgZW50aXR5ID0gbnVsbDsKCiAgICAgICAgaWYgKEVtcGxveWVlLmNsYXNzLmdldE5hbWUoKS5lcXVhbHMoYXR0YWNobWVudC5nZXRFbnRpdHlUeXBlKCkpKSB7CiAgICAgICAgICAgIGVudGl0eSA9IGVtcGxveWVlUmVwb3NpdG9yeS5maW5kT25lKGF0dGFjaG1lbnQuZ2V0RW50aXR5SWQoKSk7CiAgICAgICAgfSBlbHNlIGlmIChQb3NpdGlvbi5jbGFzcy5nZXROYW1lKCkuZXF1YWxzKGF0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpKSkgewogICAgICAgICAgICBlbnRpdHkgPSBwb3NpdGlvblJlcG9zaXRvcnkuZmluZE9uZShMb25nLnZhbHVlT2YoYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpKSk7CiAgICAgICAgfSBlbHNlIGlmIChGZWVkYmFjay5jbGFzcy5nZXROYW1lKCkuZXF1YWxzKGF0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpKSkgewogICAgICAgICAgICBlbnRpdHkgPSBmZWVkYmFja1JlcG9zaXRvcnkuZmluZE9uZShMb25nLnZhbHVlT2YoYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpKSk7CiAgICAgICAgfSBlbHNlIGlmIChDb250YWluZXIuY2xhc3MuZ2V0TmFtZSgpLmVxdWFscyhhdHRhY2htZW50LmdldEVudGl0eVR5cGUoKSkpIHsKICAgICAgICAgICAgZW50aXR5ID0gY29udGFpbmVyUmVwb3NpdG9yeS5maW5kT25lKGF0dGFjaG1lbnQuZ2V0RW50aXR5SWQoKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW50aXR5ID09IG51bGwpIHsKICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJlbnRpdHlJZCIsICJlbnRpdHkubm90LmV4aXN0IiwgbmV3IE9iamVjdFtde2F0dGFjaG1lbnQuZ2V0RW50aXR5VHlwZSgpfSwgbnVsbCk7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW1wbG95ZWVSZXBvc2l0b3J5IGVtcGxveWVlUmVwb3NpdG9yeTsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBvc2l0aW9uUmVwb3NpdG9yeSBwb3NpdGlvblJlcG9zaXRvcnk7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBGZWVkYmFja1JlcG9zaXRvcnkgZmVlZGJhY2tSZXBvc2l0b3J5OwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29udGFpbmVyUmVwb3NpdG9yeSBjb250YWluZXJSZXBvc2l0b3J5OwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gU1VQUE9SVEVEX0VOVElUWV9UWVBFUyA9IENvbGxlY3Rpb25zLnVubW9kaWZpYWJsZVNldChuZXcgSGFzaFNldDw+KEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgIFBvc2l0aW9uLmNsYXNzLmdldE5hbWUoKSwKICAgICAgICAgICAgRW1wbG95ZWUuY2xhc3MuZ2V0TmFtZSgpLAogICAgICAgICAgICBGZWVkYmFjay5jbGFzcy5nZXROYW1lKCksCiAgICAgICAgICAgIENvbnRhaW5lci5jbGFzcy5nZXROYW1lKCkpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9lbXBsb3llZXMKICBBREQgQ09MVU1OIHVuaXRfbWFuYWdlcl9pZCBURVhULAogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX25hbWUgVEVYVDsKCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW1wbG95ZWVSZXBvc2l0b3J5IGVtcGxveWVlUmVwb3NpdG9yeTsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBvc2l0aW9uUmVwb3NpdG9yeSBwb3NpdGlvblJlcG9zaXRvcnk7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBGZWVkYmFja1JlcG9zaXRvcnkgZmVlZGJhY2tSZXBvc2l0b3J5OwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29udGFpbmVyUmVwb3NpdG9yeSBjb250YWluZXJSZXBvc2l0b3J5OwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gU1VQUE9SVEVEX0VOVElUWV9UWVBFUyA9IENvbGxlY3Rpb25zLnVubW9kaWZpYWJsZVNldChuZXcgSGFzaFNldDw+KEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgIFBvc2l0aW9uLmNsYXNzLmdldE5hbWUoKSwKICAgICAgICAgICAgRW1wbG95ZWUuY2xhc3MuZ2V0TmFtZSgpLAogICAgICAgICAgICBGZWVkYmFjay5jbGFzcy5nZXROYW1lKCksCiAgICAgICAgICAgIENvbnRhaW5lci5jbGFzcy5nZXROYW1lKCkpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIG1fcmVxdWlzaXRpb24KICBBREQgQ09MVU1OIHVuaXRfbWFuYWdlcl9uYW1lIFRFWFQsCiAgQUREIENPTFVNTiB1bml0X21hbmFnZXJfbmFtZSBURVhUOwo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9lbXBsb3llZXMKICBBREQgQ09MVU1OIHVuaXRfbWFuYWdlcl9pZCBURVhULAogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX25hbWUgVEVYVDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
