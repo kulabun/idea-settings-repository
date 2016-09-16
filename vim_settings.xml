@@ -656,10 +656,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" timestamp="1474028856182">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" timestamp="1474029910448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="56" column="5" />
+        <mark key="." line="56" column="5" />
+        <mark key="^" line="56" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
         <mark key="[" line="3" column="107" />
@@ -727,8 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="35" column="32" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="29" column="3" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
@@ -827,49 +827,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisition.java" />
       <jump line="134" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisition.java" />
+      <jump line="58" column="69" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpbXBsZUVudGl0eUNvbmZpZzoKICAgICAgZGVmYXVsdFNvcnQ6IG5hbWUucmF3CiAgICAgIGZpZWxkczoKICAgICAgICAtIHtuYW1lOiBuYW1lLCB3ZWlnaHQ6IDY0fQogICAgICAgIC0ge25hbWU6IGlkLCB3ZWlnaHQ6IDMyfQogICAgICAgIC0ge25hbWU6IHNvdXJjZUlkLCB3ZWlnaHQ6IDE2fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">RnVuY3Rpb248VW5pdCwgU3RyaW5nPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpbXBsZUVudGl0eUNvbmZpZzoKICAgICAgZGVmYXVsdFNvcnQ6IG5hbWUucmF3CiAgICAgIGZpZWxkczoKICAgICAgICAtIHtuYW1lOiBuYW1lLCB3ZWlnaHQ6IDY0fQogICAgICAgIC0ge25hbWU6IGlkLCB3ZWlnaHQ6IDMyfQogICAgICAgIC0ge25hbWU6IHNvdXJjZUlkLCB3ZWlnaHQ6IDE2fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmNvbnRlbnRbKl0uY29udGVudC5pZCIsIE1hdGNoZXJzLmNvbnRhaW5zSW5BbnlPcmRlcih1bml0SWRzLnRvQXJyYXkoKSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGFyYW0oInNpemUiLCAyMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgYXNzZXJ0U2VhcmNoQnlVbml0TWFuYWdlck5hbWUoUGFnZTxVbml0PiB1bml0cykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0U2VhcmNoKHVuaXRzLCB1bml0IC0+IHVuaXQuZ2V0TWFuYWdlcigpLmdldE5hbWUoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIGJlZm9yZSgpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmNvbnRlbnRbKl0uY29udGVudC5pZCIsIE1hdGNoZXJzLmNvbnRhaW5zSW5BbnlPcmRlcih1bml0cy5nZXRDb250ZW50KCkudG9BcnJheSgpKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGFyYW0oInNpemUiLCAyMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSh1bml0cy5nZXRDb250ZW50KCkuc3RyZWFtKCkuZmlsdGVyKHVuaXQgLT4gdW5pdC5nZXRNYW5hZ2VyKCkgIT0gbnVsbCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmNvbnRlbnQiKS5pc05vdEVtcHR5KCkpCg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIGJlZm9yZSgpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmNvbnRlbnRbKl0uY29udGVudC5pZCIsIE1hdGNoZXJzLmNvbnRhaW5zSW5BbnlPcmRlcih1c2VySWRzLnRvQXJyYXkoKSkpKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGFyYW0oInNpemUiLCBTdHJpbmcudmFsdWVPZih1c2VySWRzLnNpemUoKSArIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSh1bml0cy5nZXRDb250ZW50KCkuc3RyZWFtKCkuZmlsdGVyKHVuaXQgLT4gdW5pdC5nZXRNYW5hZ2VyKCkgIT0gbnVsbCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmNvbnRlbnQiKS5pc05vdEVtcHR5KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
