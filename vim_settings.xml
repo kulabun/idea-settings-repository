@@ -254,12 +254,13 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473997573900">
-        <mark key="'" line="1943" column="0" />
-        <mark key="[" line="83" column="5" />
-        <mark key="]" line="83" column="4" />
-        <mark key="." line="83" column="4" />
-        <mark key="^" line="83" column="4" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473999593143">
+        <mark key="a" line="75" column="19" />
+        <mark key="'" line="75" column="19" />
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="75" column="19" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -459,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -559,49 +558,66 @@
       <jump line="294" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
       <jump line="283" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
       <jump line="52" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="75" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="78" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assertEquals(TestEnumFromInt.class, ob.getClass());</text>
+        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
+        _collectionFallbacks.put(SortedSet.class.getName(), TreeSet.class);
+        _collectio</text>
+      </register>
+      <register name="c" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>assertEquals(TestEnumFromInt.class, ob.getClass());</text>
+        <text>allback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEVudW1XaXRoQkRDcmVhdG9yIGNyZWF0ZShCaWdEZWNpbWFsIGJkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoQ29sbGVjdGlvbi5jbGFzcy5nZXROYW1lKCksIEFycmF5TGlzdC5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgK2VudW1DbGFzcy5nZXROYW1lKCkrIikiKTsK</text>
+      <register name="1" type="4">
+        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
+        _collectionFallbacks.put(SortedSet.class.getName(), TreeSet.class);
+        _collectio</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlVuc3VpdGFibGUgbWV0aG9kICgiK2ZhY3RvcnkrIikgZGVjb3JhdGVkIHdpdGggQEpzb25DcmVhdG9yIChmb3IgRW51bSB0eXBlICIK</text>
+      <register name="2" type="4">
+        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(List.class.getName(), ArrayList.class);
+        _collectionFallbacks.put(Set.class.getName(), HashSet.class);
+        _collection</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text>Fallbacks.put(Collection.class.getName(), ArrayList.class);
+        _collection</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoQ29sbGVjdGlvbi5jbGFzcy5nZXROYW1lKCksIEFycmF5TGlzdC5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXJnQ291bnQgPT0gMSkgewo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Q2xhc3M8Pz4gcmV0dXJuVHlwZSA9IGZhY3RvcnkuZ2V0UmF3UmV0dXJuVHlwZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB1c3VhbGx5IHNob3VsZCBiZSBjbGFzcywgYnV0IG1heSBiZSBqdXN0IHBsYWluIEVudW08Pz4gKGZvciBFbnVtLnZhbHVlT2YoKT8pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXR1cm5UeXBlLmlzQXNzaWduYWJsZUZyb20oZW51bUNsYXNzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzZXIgPSBFbnVtRGVzZXJpYWxpemVyLmRlc2VyaWFsaXplckZvckNyZWF0b3IoY29uZmlnLCBlbnVtQ2xhc3MsIGZhY3RvcnksIHZhbHVlSW5zdGFudGlhdG9yLCBjcmVhdG9yUHJvcHMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBfY29sbGVjdGlvbkZhbGxiYWNrcy5wdXQoU29ydGVkU2V0LmNsYXNzLmdldE5hbWUoKSwgVHJlZVNldC5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgK2VudW1DbGFzcy5nZXROYW1lKCkrIikiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlVuc3VpdGFibGUgbWV0aG9kICgiK2ZhY3RvcnkrIikgZGVjb3JhdGVkIHdpdGggQEpzb25DcmVhdG9yIChmb3IgRW51bSB0eXBlICIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -640,7 +656,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindWordAtCaret</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
@@ -659,6 +674,7 @@
         <entry>actionlist AceJump</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FindNext</entry>
+        <entry>r!</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
