@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
         <mark key="'" line="68" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1473819649584">
+      <file name="/a.dummy" timestamp="1473995875537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
@@ -251,8 +251,12 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473908053786">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473994500863">
+        <mark key="'" line="1943" column="0" />
+        <mark key="[" line="86" column="70" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
+        <mark key="^" line="87" column="12" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -332,10 +336,13 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473827604460">
-        <mark key="[" line="291" column="68" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473996210598">
+        <mark key="g" line="31" column="14" />
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473679608002">
         <mark key="'" line="1275" column="0" />
@@ -449,24 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="33" column="2" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="35" column="32" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="29" column="3" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="43" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="21" column="30" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="32" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="40" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="38" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="39" column="40" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="8" column="12" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="11" column="15" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -549,19 +538,37 @@
       <jump line="68" column="42" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" />
       <jump line="91" column="39" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
       <jump line="17" column="33" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" />
+      <jump line="1472" column="68" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1942" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1896" column="16" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1920" column="4" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1943" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="24" column="42" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="31" column="14" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="34" column="9" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="52" column="7" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>((FieldProperty) prop)._field</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>((FieldProperty) prop)._field</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q2xhc3M8Pz4gcmV0dXJuVHlwZSA9IGZhY3RvcnkuZ2V0UmF3UmV0dXJuVHlwZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB1c3VhbGx5IHNob3VsZCBiZSBjbGFzcywgYnV0IG1heSBiZSBqdXN0IHBsYWluIEVudW08Pz4gKGZvciBFbnVtLnZhbHVlT2YoKT8pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXR1cm5UeXBlLmlzQXNzaWduYWJsZUZyb20oZW51bUNsYXNzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzZXIgPSBFbnVtRGVzZXJpYWxpemVyLmRlc2VyaWFsaXplckZvckNyZWF0b3IoY29uZmlnLCBlbnVtQ2xhc3MsIGZhY3RvcnksIHZhbHVlSW5zdGFudGlhdG9yLCBjcmVhdG9yUHJvcHMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEVudW1XaXRoQkRDcmVhdG9yIGNyZWF0ZShCaWdEZWNpbWFsIGJkKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgK2VudW1DbGFzcy5nZXROYW1lKCkrIikiKTsK</text>
@@ -630,26 +637,26 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\(\[-0-9\]*\)/&quot;\1&quot;/g</entry>
-        <entry>%s/\([0-9]*\)/&quot;\1&quot;/g</entry>
-        <entry>%s/\([0-9]\+\)/&quot;\1&quot;/g</entry>
-        <entry>%s/\n//g</entry>
-        <entry>%/&quot;/'/g</entry>
-        <entry>%s/&quot;/'/g</entry>
-        <entry>3231s/&quot;&quot;/&quot;/g</entry>
-        <entry>action FindInPath</entry>
-        <entry>3230,$s/	//g</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action Vcs.UpdateProject</entry>
-        <entry>action Find</entry>
         <entry>action FindNext</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action Annotate</entry>
         <entry>action FindWordAtCaret</entry>
+        <entry>action JumpToLastChange</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSnVtcFRvTGFzdENoYW5nZQ==</entry>
+        <entry>action FindInPath</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action SurroundWith</entry>
+        <entry>action GenerateGetter</entry>
+        <entry>action Generate</entry>
+        <entry>action GenerateGetterAndSetter</entry>
+        <entry>action Compare.SameVersion</entry>
         <entry>action HideSideWindows</entry>
+        <entry>al</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -673,7 +680,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -706,7 +713,7 @@
       <shortcut-conflict owner="vim">
         <text>meta pressed F12</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -715,10 +722,10 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
