@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
         <mark key="'" line="68" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1473995875537">
+      <file name="/a.dummy" timestamp="1473997301875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
@@ -164,6 +164,9 @@
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" timestamp="1473997380078">
+        <mark key="'" line="52" column="23" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
         <mark key="[" line="63" column="56" />
         <mark key="]" line="59" column="56" />
@@ -251,12 +254,12 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473994500863">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473997573900">
         <mark key="'" line="1943" column="0" />
-        <mark key="[" line="86" column="70" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
-        <mark key="^" line="87" column="12" />
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="83" column="4" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -336,13 +339,13 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473996210598">
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473997287964">
         <mark key="g" line="31" column="14" />
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="247" column="8" />
+        <mark key="]" line="247" column="8" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="247" column="8" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" timestamp="1473679608002">
         <mark key="'" line="1275" column="0" />
@@ -456,9 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -556,13 +556,16 @@
       <jump line="52" column="7" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
       <jump line="21" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="294" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="283" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="52" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>assertEquals(TestEnumFromInt.class, ob.getClass());</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>assertEquals(TestEnumFromInt.class, ob.getClass());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -637,9 +640,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindNext</entry>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry>action Annotate</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action JumpToLastChange</entry>
         <entry>action RecentFiles</entry>
@@ -655,8 +655,11 @@
         <entry>action Generate</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Compare.SameVersion</entry>
-        <entry>action HideSideWindows</entry>
         <entry>al</entry>
+        <entry>actionlist AceJump</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action FindNext</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
