@@ -188,7 +188,6 @@
         <mark key="." line="59" column="56" />
         <mark key="^" line="59" column="56" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/EnumDeserializer.java" timestamp="1473906009543" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="213" />
@@ -207,8 +206,8 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474130085692">
-        <mark key="'" line="267" column="14" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474130783743">
+        <mark key="'" line="181" column="40" />
         <mark key="[" line="530" column="127" />
         <mark key="]" line="530" column="0" />
         <mark key="." line="530" column="0" />
@@ -459,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
       <jump line="26" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -559,6 +557,7 @@
       <jump line="1636" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
       <jump line="265" column="14" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
       <jump line="88" column="45" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="181" column="40" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -607,7 +606,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -643,7 +642,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowIntentionActions</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSnVtcFRvTGFzdENoYW5nZQ==</entry>
         <entry>action FindInPath</entry>
         <entry>action QuickImplementations</entry>
@@ -663,6 +661,7 @@
         <entry>action FindWordAtCaret</entry>
         <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
