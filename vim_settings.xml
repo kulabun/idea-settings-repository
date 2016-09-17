@@ -90,6 +90,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1474123009025">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="97" column="24" />
+        <mark key="." line="97" column="24" />
+      </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="12" column="0" />
@@ -134,6 +139,10 @@
         <mark key="]" line="241" column="0" />
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" timestamp="1474124289836">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
         <mark key="[" line="74" column="39" />
@@ -191,6 +200,9 @@
         <mark key="]" line="57" column="15" />
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474122355810">
+        <mark key="'" line="102" column="22" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -310,7 +322,9 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1473915307612" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474122353811">
+        <mark key="'" line="306" column="20" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
@@ -431,9 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
@@ -531,16 +542,19 @@
       <jump line="52" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
       <jump line="75" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
       <jump line="78" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="306" column="20" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="102" column="22" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="21" column="24" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGFwb3NUb1F1b3RlcygieydhcnJheSc6W3snYic6J0JWYWx1ZSd9LHsnYic6J2Fub3RoZXJCVmFsdWUnfV19IiksIGpzb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_featureFlags;</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHQgPSB3cml0ZUFuZE1hcCg=</text>
+        <text>_featureFlags;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
