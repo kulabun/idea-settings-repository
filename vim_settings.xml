@@ -123,6 +123,12 @@
         <mark key="^" line="0" column="93" />
         <mark key="." line="0" column="93" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" timestamp="1474126973125">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionComplexityRepository.java" timestamp="1473074856176">
         <mark key="[" line="6" column="111" />
         <mark key="]" line="6" column="112" />
@@ -201,8 +207,10 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474122355810">
-        <mark key="'" line="102" column="22" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474126715849">
+        <mark key="'" line="1478" column="79" />
+        <mark key="[" line="1432" column="0" />
+        <mark key="]" line="1433" column="40" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -252,6 +260,11 @@
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownPropertyHandler.java" timestamp="1474127409627">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1473345871777">
         <mark key="[" line="30" column="0" />
@@ -434,7 +447,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474108562085">
+      <file name="/fragment.java" timestamp="1474127582503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
@@ -445,9 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
       <jump line="30" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="28" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="34" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -545,10 +555,13 @@
       <jump line="306" column="20" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="102" column="22" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
       <jump line="21" column="24" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" />
+      <jump line="1478" column="79" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="12" column="56" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_featureFlags;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBub3QgaW1wbGVtZW50ZWQgeWV0Li4uIDoowqcK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -560,37 +573,37 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGFwb3NUb1F1b3RlcygieydhcnJheSc6W3snYic6J0JWYWx1ZSd9LHsnYic6J2Fub3RoZXJCVmFsdWUnfV19IiksIGpzb24pOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGhhbmRsZVVua25vd25WYW5pbGxhKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LAogICAgICAgICAgICBPYmplY3QgYmVhbiwgU3RyaW5nIHByb3BOYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uUGEK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBub3QgaW1wbGVtZW50ZWQgeWV0Li4uIDoowqcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIDxUPiBUIGFzc2VydEFuZEdldFZhbHVlKE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwLCBTdHJpbmcga2V5LCBDbGFzczxUPiBjbGF6eikgewogICAgICAgIE9iamVjdCB2YWx1ZSA9IG1hcC5nZXQoa2V5KTsKICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90TnVsbChTdHJpbmcuZm9ybWF0KCJNYXBbJXNdIGlzIG51bGwiLCBrZXkpLCB2YWx1ZSk7ICAgICAgICAKICAgICAgICBpZihjbGF6ei5pc0Fzc2lnbmFibGVGcm9tKHZhbHVlLmdldENsYXNzKCkpKSB7CiAgICAgICAgICAgIEFzc2VydC5mYWlsKFN0cmluZy5mb3JtYXQoIk1hcFslc10gaXMgbm90IGFzc2lnbmFibGUgdG8gJXMuIEFjdHVhbCB0eXBlOiAlcyIsIGtleSwgCiAgICAgICAgICAgICAgICAgICAgY2xhenouZ2V0Q2Fub25pY2FsTmFtZSgpLCB2YWx1ZS5nZXRDbGFzcygpLmdldENhbm9uaWNhbE5hbWUoKSkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gY2xhenouY2FzdCh2YWx1ZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IGltcGxlbWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVGaWx0ZXJQcm92aWRlciBmaWx0ZXJQcm92aWRlciA9IG5ldyBTaW1wbGVGaWx0ZXJQcm92aWRlcigpLmFkZEZpbHRlcigidGVzdEZpbHRlciIsICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgc2VlIG9ubHkgInVuZmlsdGVyZWQ6TiIgdmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IHdyaXRlQW5kTWFwKE1BUFBFUiwgbmV3IENsYXNzV2l0aENvbGxlY3Rpb24oCiAgICAgICAgICAgICAgICBuZXcgU29tZVR5cGUoImZpbHRlcmVkOjEiLCAidW5maWx0ZXJlZDoxIiksIG5ldyBTb21lVHlwZSgiZmlsdGVyZWQ6MiIsICJ1bmZpbHRlcmVkOjIiKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gYXJyYXkgPSBhc3NlcnRBbmRHZXRWYWx1ZShyZXN1bHQsICJhcnJheSIsIExpc3QuY2xhc3MpOwogICAgICAgIGFzc2VydEVxdWFscygyLCBhcnJheS5zaXplKCkpOwogICAgICAgIGFzc2VydEVxdWFscygidW5maWx0ZXJlZDoxIiwgYXJyYXkuZ2V0KDApKTsKICAgICAgICBhc3NlcnRFcXVhbHMoInVuZmlsdGVyZWQ6MiIsIGFycmF5LmdldCgxKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xhc3MgVmFuaWxsYVVua25vd25Qcm9wZXJ0eUhhbmRsZXIgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgc2VlIG9ubHkgInVuZmlsdGVyZWQ6TiIgdmFsdWVzCg==</text>
+        <text encoding="base64">ICAgIFVua25vd25Qcm9wZXJ0eUhhbmRsZXIgdmFuaWxsYVVua293blByb3BlcnR5SGFuZGxlcigpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gY29sbGVjdGlvbiA9IGFzc2VydEFuZEdldFZhbHVlKHJlc3VsdCwgImNvbGxlY3Rpb24iLCBMaXN0LmNsYXNzKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29sbGVjdGlvbi5zaXplKCkpOwogICAgICAgIGFzc2VydEVxdWFscygidW5maWx0ZXJlZDoxIiwgY29sbGVjdGlvbi5nZXQoMCkpOwogICAgICAgIGFzc2VydEVxdWFscygidW5maWx0ZXJlZDoyIiwgY29sbGVjdGlvbi5nZXQoMSkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -632,7 +645,6 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSnVtcFRvTGFzdENoYW5nZQ==</entry>
         <entry>action FindInPath</entry>
         <entry>action QuickImplementations</entry>
@@ -648,6 +660,7 @@
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action GenerateConstructor</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
+        <entry>action ReformatCode</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
