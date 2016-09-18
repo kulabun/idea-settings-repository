@@ -278,6 +278,12 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithIgnored.java" timestamp="1474180481409">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473999593143">
         <mark key="a" line="75" column="19" />
         <mark key="'" line="75" column="19" />
@@ -335,8 +341,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474178928456">
-        <mark key="'" line="88" column="45" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474179414164">
+        <mark key="'" line="291" column="29" />
         <mark key="[" line="612" column="0" />
         <mark key="]" line="612" column="0" />
         <mark key="." line="612" column="0" />
@@ -351,7 +357,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
         <mark key="[" line="246" column="113" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474103622314">
+      <file name="/Dummy.txt" timestamp="1474180447844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -451,7 +457,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474127582503">
+      <file name="/fragment.java" timestamp="1474179825860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
@@ -462,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
       <jump line="26" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="25" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -562,10 +567,11 @@
       <jump line="265" column="14" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
       <jump line="88" column="45" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="181" column="40" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="291" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUuCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -580,34 +586,34 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGhhbmRsZVVua25vd25WYW5pbGxhKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LAogICAgICAgICAgICBPYmplY3QgYmVhbiwgU3RyaW5nIHByb3BOYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUuCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBub3QgaW1wbGVtZW50ZWQgeWV0Li4uIDooCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoX2lnbm9yYWJsZVByb3BzICE9IG51bGwgJiYgX2lnbm9yYWJsZVByb3BzLmNvbnRhaW5zKHByb3BOYW1lKSkgewogICAgICAgICAgICBoYW5kbGVJZ25vcmVkUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwogICAgICAgIH0gZWxzZSBpZiAoX2FueVNldHRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgIC8vIHNob3VsZCB3ZSBjb25zaWRlciByZXR1cm4gdHlwZSBvZiBhbnkgc2V0dGVyPwogICAgICAgICAgICAgICAgX2FueVNldHRlci5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuLCBwcm9wTmFtZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB3cmFwQW5kVGhyb3coZSwgYmVhbiwgcHJvcE5hbWUsIGN0eHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gVW5rbm93bjogbGV0J3MgY2FsbCBoYW5kbGVyIG1ldGhvZAogICAgICAgICAgICBoYW5kbGVVbmtub3duUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOyAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyaWZ5RXhjZXB0aW9uKGUsICJVbnJlY29nbml6ZWQgZmllbGQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICBpZiAoX2lnbm9yYWJsZVByb3BzICE9IG51bGwgJiYgX2lnbm9yYWJsZVByb3BzLmNvbnRhaW5zKHByb3BOYW1lKSkgewogICAgICAgICAgICBoYW5kbGVJZ25vcmVkUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwogICAgICAgIH0gZWxzZSBpZiAoX2FueVNldHRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgIC8vIHNob3VsZCB3ZSBjb25zaWRlciByZXR1cm4gdHlwZSBvZiBhbnkgc2V0dGVyPwogICAgICAgICAgICAgICAgX2FueVNldHRlci5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuLCBwcm9wTmFtZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB3cmFwQW5kVGhyb3coZSwgYmVhbiwgcHJvcE5hbWUsIGN0eHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gVW5rbm93bjogbGV0J3MgY2FsbCBoYW5kbGVyIG1ldGhvZAogICAgICAgICAgICBoYW5kbGVVbmtub3duUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOyAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKc29uTWFwcGluZ0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBub3QgaW1wbGVtZW50ZWQgeWV0Li4uIDoowqcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiRXhjZXB0aW9uIHdhcyBub3QgdGhyb3duIG9uIHVua293biBwcm9wZXJ0eSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IGltcGxlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBub3QgaW1wbGVtZW50ZWQgeWV0Li4uIDooCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoX2lnbm9yYWJsZVByb3BzICE9IG51bGwgJiYgX2lnbm9yYWJsZVByb3BzLmNvbnRhaW5zKHByb3BOYW1lKSkgewogICAgICAgICAgICBoYW5kbGVJZ25vcmVkUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwogICAgICAgIH0gZWxzZSBpZiAoX2FueVNldHRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgIC8vIHNob3VsZCB3ZSBjb25zaWRlciByZXR1cm4gdHlwZSBvZiBhbnkgc2V0dGVyPwogICAgICAgICAgICAgICAgX2FueVNldHRlci5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuLCBwcm9wTmFtZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB3cmFwQW5kVGhyb3coZSwgYmVhbiwgcHJvcE5hbWUsIGN0eHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gVW5rbm93bjogbGV0J3MgY2FsbCBoYW5kbGVyIG1ldGhvZAogICAgICAgICAgICBoYW5kbGVVbmtub3duUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOyAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICBpZiAoX2lnbm9yYWJsZVByb3BzICE9IG51bGwgJiYgX2lnbm9yYWJsZVByb3BzLmNvbnRhaW5zKHByb3BOYW1lKSkgewogICAgICAgICAgICBoYW5kbGVJZ25vcmVkUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwogICAgICAgIH0gZWxzZSBpZiAoX2FueVNldHRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgIC8vIHNob3VsZCB3ZSBjb25zaWRlciByZXR1cm4gdHlwZSBvZiBhbnkgc2V0dGVyPwogICAgICAgICAgICAgICAgX2FueVNldHRlci5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuLCBwcm9wTmFtZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB3cmFwQW5kVGhyb3coZSwgYmVhbiwgcHJvcE5hbWUsIGN0eHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gVW5rbm93bjogbGV0J3MgY2FsbCBoYW5kbGVyIG1ldGhvZAogICAgICAgICAgICBoYW5kbGVVbmtub3duUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOyAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -646,32 +652,32 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action SurroundWith</entry>
-        <entry>action Generate</entry>
-        <entry>action Compare.SameVersion</entry>
-        <entry>al</entry>
-        <entry>actionlist AceJump</entry>
-        <entry>action AceJumpAction</entry>
-        <entry>action FindNext</entry>
-        <entry>r!</entry>
-        <entry>action GenerateGetter</entry>
-        <entry>action GenerateGetterAndSetter</entry>
-        <entry>action GenerateConstructor</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action Find</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
-        <entry>action NextSplitter</entry>
         <entry>action SplitHorizontally</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SplitVerticaly</entry>
+        <entry>Unsplit</entry>
+        <entry>action FindNext</entry>
+        <entry>action SplitVertically</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>noremap = :action :ReformatCode</entry>
+        <entry encoding="base64">YWN0aW9uIDpSZWZvcm1hdENvZGU8Q1I+</entry>
+        <entry encoding="base64">YWN0aW9uIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry encoding="base64">YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
+        <entry>actionlist Reformat</entry>
+        <entry encoding="base64">bm9yZW1hcCBcPSA6YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
+        <entry encoding="base64">bm9yZW1hcCA9IDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry>action ReformatCode</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -689,7 +695,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -707,7 +713,7 @@
       <shortcut-conflict owner="vim">
         <text>meta pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -725,7 +731,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -734,10 +740,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
