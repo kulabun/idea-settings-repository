@@ -111,6 +111,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedUnknownPropertyHandler.java" timestamp="1474214420248">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/UnitRepository.java" timestamp="1473418041924">
         <mark key="[" line="19" column="171" />
         <mark key="]" line="19" column="171" />
@@ -206,12 +212,12 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474208442610">
-        <mark key="'" line="1653" column="0" />
-        <mark key="[" line="297" column="28" />
-        <mark key="]" line="1450" column="15" />
-        <mark key="." line="1450" column="15" />
-        <mark key="^" line="1450" column="15" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474213331953">
+        <mark key="'" line="1654" column="0" />
+        <mark key="[" line="311" column="71" />
+        <mark key="]" line="1451" column="15" />
+        <mark key="." line="1451" column="15" />
+        <mark key="^" line="1451" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
