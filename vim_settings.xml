@@ -606,7 +606,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -659,9 +659,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
         <entry>action ReformatCode</entry>
         <entry>action FindWordAtCaret</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
