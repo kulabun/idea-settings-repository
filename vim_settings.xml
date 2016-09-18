@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
         <mark key="'" line="68" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1474003035096">
+      <file name="/a.dummy" timestamp="1474217001629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
@@ -112,10 +112,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedUnknownPropertyHandler.java" timestamp="1474214420248">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="17" column="20" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/UnitRepository.java" timestamp="1473418041924">
         <mark key="[" line="19" column="171" />
@@ -152,9 +152,11 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" timestamp="1474124289836">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" timestamp="1474217404950">
         <mark key="'" line="21" column="24" />
-        <mark key="[" line="62" column="9" />
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
         <mark key="[" line="74" column="39" />
@@ -212,12 +214,11 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474213331953">
-        <mark key="'" line="1654" column="0" />
-        <mark key="[" line="311" column="71" />
-        <mark key="]" line="1451" column="15" />
-        <mark key="." line="1451" column="15" />
-        <mark key="^" line="1451" column="15" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474217363814">
+        <mark key="'" line="1658" column="0" />
+        <mark key="[" line="536" column="48" />
+        <mark key="]" line="539" column="21" />
+        <mark key="." line="539" column="21" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -579,53 +580,53 @@
       <jump line="1648" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG1ldGhvZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1ldGhvZA==</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBPYmplY3QgZGVzZXJpYWxpemVXaXRoVW53cmFwcGVkKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LCBPYmplY3QgYmVhbikKICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFByb3BlcnR5KFNldHRhYmxlQmVhblByb3BlcnR5IHByb3BlcnR5KSB7CiAgICAgICAgX3Byb3BlcnRpZXMuYWRkKHByb3BlcnR5KTsKICAgICAgICBwcm9wZXJ0eS5nZXRWYWx1ZURlc2VyaWFsaXplcigpOwoKICAgICAgICBKc29uRGVzZXJpYWxpemVyPE9iamVjdD4gb3JpZyA9IHByb3AuZ2V0VmFsdWVEZXNlcmlhbGl6ZXIoKTsKICAgICAgICBKc29uRGVzZXJpYWxpemVyPE9iamVjdD4gdW53cmFwcGluZyA9IG9yaWcudW53cmFwcGluZ0Rlc2VyaWFsaXplcih1bndyYXBwZXIpOwogICAgICAgIGlmICh1bndyYXBwaW5nICE9IG9yaWcgJiYgdW53cmFwcGluZyAhPSBudWxsKSB7CiAgICAgICAgICAgIC8vIG1pZ2h0IGJlIGNsZWFuZXIgdG8gY3JlYXRlIG5ldyBpbnN0YW5jZTsgYnV0IGRpZmZpY3VsdCB0byBkbyByZWxpYWJseSwgc286CiAgICAgICAgICAgIHJldHVybiBwcm9wLndpdGhWYWx1ZURlc2VyaWFsaXplcih1bndyYXBwaW5nKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcHJvcC5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgd3JhcEFuZFRocm93KGUsIGJlYW4sIHByb3BOYW1lLCBjdHh0KTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wLmdldFZhbHVlRGVzZXJpYWxpemVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcCA9IDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBfcHJvcGVydGllcy5hZGQocHJvcCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0eS5nZXRWYWx1ZURlc2VyaWFsaXplcigpOwoKICAgICAgICBKc29uRGVzZXJpYWxpemVyPE9iamVjdD4gb3JpZyA9IHByb3AuZ2V0VmFsdWVEZXNlcmlhbGl6ZXIoKTsKICAgICAgICBKc29uRGVzZXJpYWxpemVyPE9iamVjdD4gdW53cmFwcGluZyA9IG9yaWcudW53cmFwcGluZ0Rlc2VyaWFsaXplcih1bndyYXBwZXIpOwogICAgICAgIGlmICh1bndyYXBwaW5nICE9IG9yaWcgJiYgdW53cmFwcGluZyAhPSBudWxsKSB7CiAgICAgICAgICAgIC8vIG1pZ2h0IGJlIGNsZWFuZXIgdG8gY3JlYXRlIG5ldyBpbnN0YW5jZTsgYnV0IGRpZmZpY3VsdCB0byBkbyByZWxpYWJseSwgc286CiAgICAgICAgICAgIHJldHVybiBwcm9wLndpdGhWYWx1ZURlc2VyaWFsaXplcih1bndyYXBwaW5nKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb3AgIT0gbnVsbCkgeyAvLyBub3JtYWwgY2FzZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1bndyYXBwZWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVud3JhcHBlZCA9IG5ldyBVbndyYXBwZWRQcm9wZXJ0eUhhbmRsZXIoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHVud3JhcHBlZC5hZGRQcm9wZXJ0eShwcm9wKTsKICAgICAgICAgICAgICAgIC8qIDEyLURlYy0yMDE0LCB0YXR1OiBBcyBwZXIgW2RhdGFiaW5kIzY0N10sIHdlIHdpbGwgaGF2ZSBwcm9ibGVtcyBpZgogICAgICAgICAgICAgICAgICogICAgdGhlIG9yaWdpbmFsIHByb3BlcnR5IGlzIGxlZnQgaW4gcGxhY2UuIFNvIGxldCdzIHJlbW92ZSBpdCBub3cuCiAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgIF9iZWFuUHJvcGVydGllcy5yZW1vdmUocHJvcCk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlVW5rbm93blZhbmlsbGEocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1bndyYXBwZWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVud3JhcHBlZCA9IG5ldyBVbndyYXBwZWRQcm9wZXJ0eUhhbmRsZXIoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHVud3JhcHBlZC5hZGRQcm9wZXJ0eShwcm9wKTsKICAgICAgICAgICAgICAgIC8qIDEyLURlYy0yMDE0LCB0YXR1OiBBcyBwZXIgW2RhdGFiaW5kIzY0N10sIHdlIHdpbGwgaGF2ZSBwcm9ibGVtcyBpZgogICAgICAgICAgICAgICAgICogICAgdGhlIG9yaWdpbmFsIHByb3BlcnR5IGlzIGxlZnQgaW4gcGxhY2UuIFNvIGxldCdzIHJlbW92ZSBpdCBub3cuCiAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgIF9iZWFuUHJvcGVydGllcy5yZW1vdmUocHJvcCk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvcE5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -674,13 +675,13 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action Unsplit</entry>
         <entry>action NextSplitter</entry>
-        <entry>action ReformatCode</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action RecentFiles</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action FileStructurePopup</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
