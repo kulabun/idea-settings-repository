@@ -335,8 +335,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474130214559">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474178928456">
         <mark key="'" line="88" column="45" />
+        <mark key="[" line="612" column="0" />
+        <mark key="]" line="612" column="0" />
+        <mark key="." line="612" column="0" />
+        <mark key="^" line="612" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
@@ -642,9 +646,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSnVtcFRvTGFzdENoYW5nZQ==</entry>
-        <entry>action FindInPath</entry>
-        <entry>action QuickImplementations</entry>
         <entry>action SurroundWith</entry>
         <entry>action Generate</entry>
         <entry>action Compare.SameVersion</entry>
@@ -661,6 +662,9 @@
         <entry>action FindWordAtCaret</entry>
         <entry>action Find</entry>
         <entry>action FileStructurePopup</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action SplitHorizontally</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
@@ -727,7 +731,7 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
