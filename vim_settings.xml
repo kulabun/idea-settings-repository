@@ -206,9 +206,9 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474189501943">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474208442610">
         <mark key="'" line="1653" column="0" />
-        <mark key="[" line="1450" column="42" />
+        <mark key="[" line="297" column="28" />
         <mark key="]" line="1450" column="15" />
         <mark key="." line="1450" column="15" />
         <mark key="^" line="1450" column="15" />
