@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
         <mark key="[" line="13" column="90" />
       </file>
-      <file name="/a.dummy" timestamp="1474038701680">
+      <file name="/a.dummy" timestamp="1474274532786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -570,6 +570,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/Employee.java" timestamp="1474274638653" />
       <file name="$USER_HOME$/project/epm-staf/staf-attachment/src/main/java/com/epam/staf/attachment/plugin/AttachmentValidationPluginImpl.java" timestamp="1474038266114">
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="0" />
@@ -587,6 +588,7 @@
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="29" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/security/HiringContainerRolesResolver.java" timestamp="1474274118561" />
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
         <mark key="]" line="39" column="19" />
@@ -695,11 +697,11 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1473861380560">
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="^" line="315" column="0" />
-        <mark key="." line="307" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1474274982030">
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="316" column="0" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/MessageSelectionHelper.java" timestamp="1473946265578">
         <mark key="[" line="11" column="43" />
@@ -1002,9 +1004,9 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action Find</entry>
-        <entry>action Annotate</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>w</entry>
+        <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
