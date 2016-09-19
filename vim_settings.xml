@@ -20,9 +20,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
-        <mark key="'" line="68" column="42" />
-      </file>
       <file name="/a.dummy" timestamp="1474217001629">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,9 +49,6 @@
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473324882818">
         <mark key="[" line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" timestamp="1473830118023">
-        <mark key="'" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
@@ -193,9 +187,6 @@
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" timestamp="1473997380078">
-        <mark key="'" line="52" column="23" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
         <mark key="[" line="63" column="56" />
         <mark key="]" line="59" column="56" />
@@ -251,6 +242,12 @@
         <mark key="^" line="0" column="114" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedBeanUnknownPropertiesHandlerImpl.java" timestamp="1474266844746">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-permission.json" timestamp="1473678499135">
         <mark key="[" line="285" column="64" />
         <mark key="]" line="285" column="64" />
@@ -305,14 +302,6 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473999593143">
-        <mark key="a" line="75" column="19" />
-        <mark key="'" line="75" column="19" />
-        <mark key="[" line="75" column="19" />
-        <mark key="]" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-        <mark key="^" line="75" column="19" />
-      </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -321,6 +310,9 @@
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/StaffActiveProfileResolver.java" timestamp="1473686540285">
         <mark key="[" line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownBeanPropertiesHandlerImpl.java" timestamp="1474266637415">
+        <mark key="[" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
@@ -395,11 +387,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/BeanPropertiesAccumulator.java" timestamp="1474265278521">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/BeanPropertiesAccumulator.java" timestamp="1474266366076">
+        <mark key="[" line="16" column="102" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
         <mark key="[" line="206" column="166" />
@@ -598,7 +590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IF9wcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -613,34 +605,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bi53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHVua25vd24uY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IF9wcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXp5SW5pdCgpOwogICAgICAgIF9wcm9wZXJ0aWVzLmFkZChwcm9wTmFtZSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBfdG9rZW5zLmNvcHlDdXJyZW50U3RydWN0dXJlKHApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBjb25zdGFudGluZSBvbiAxNy85LzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICBfdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBfdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMudW5tb2RpZmlhYmxlTGlzdChfcHJvcGVydGllcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMuY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMuY2xvc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IF9wcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -679,7 +671,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action SplitVertically</entry>
         <entry>noremap = :action :ReformatCode</entry>
         <entry encoding="base64">YWN0aW9uIDpSZWZvcm1hdENvZGU8Q1I+</entry>
         <entry encoding="base64">YWN0aW9uIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
@@ -695,8 +686,9 @@
         <entry>action ShowIntentionActions</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action SurroundWith</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
