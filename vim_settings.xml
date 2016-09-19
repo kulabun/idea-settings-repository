@@ -3,197 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1473695058021">
-        <mark key="[" line="13" column="90" />
-      </file>
-      <file name="/a.dummy" timestamp="1474279086968">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1473345871777">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="214" />
-        <mark key="^" line="89" column="3" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa/Changes2EventLogTransform.groovy" timestamp="1473251320990">
-        <mark key="[" line="117" column="85" />
-        <mark key="]" line="117" column="141" />
-        <mark key="^" line="117" column="141" />
-        <mark key="." line="117" column="141" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-permission.json" timestamp="1473678499135">
-        <mark key="[" line="285" column="64" />
-        <mark key="]" line="285" column="64" />
-        <mark key="." line="285" column="64" />
-      </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_97.json" timestamp="1473952335974">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="37" column="89" />
-        <mark key="." line="31" column="61" />
-        <mark key="^" line="31" column="61" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/UnitExtController.java" timestamp="1474014023090">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/java/com/epamx/staf/StaffingDeskApplication.java" timestamp="1473693989341">
-        <mark key="[" line="88" column="26" />
-        <mark key="]" line="88" column="25" />
-        <mark key="^" line="88" column="25" />
-        <mark key="." line="88" column="25" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/resources/messages.properties" timestamp="1474278676487">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/RequisitionAssigneeOrigin.java" timestamp="1473258241723">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="213" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/resources/application.yml" timestamp="1474029063250">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="38" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/fts/UnitToFtsSimpleEntityTransformer.java" timestamp="1474025800978">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/repository/FtsSimpleEntityRepository.java" timestamp="1473933262864">
-        <mark key="[" line="18" column="144" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/test/java/com/epam/staf/applicant/AbstractApplicantTest.java" timestamp="1473863138504">
-        <mark key="[" line="63" column="77" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473857745818">
-        <mark key="[" line="252" column="144" />
-        <mark key="]" line="252" column="143" />
-        <mark key="^" line="252" column="59" />
-        <mark key="." line="252" column="99" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
-        <mark key="[" line="46" column="50" />
-        <mark key="]" line="37" column="126" />
-        <mark key="." line="37" column="112" />
-        <mark key="^" line="37" column="111" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupRepository.java" timestamp="1474020024938">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="113" />
-        <mark key="^" line="36" column="49" />
-        <mark key="." line="36" column="49" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/application.yml" timestamp="1473691879915">
-        <mark key="[" line="41" column="68" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_96.json" timestamp="1473861613772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26321" />
-        <mark key="^" line="0" column="26321" />
-        <mark key="." line="0" column="26321" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1473419724192">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_259__add_manager_to_unit.sql" timestamp="1473258500645">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="74" column="38" />
-        <mark key="^" line="74" column="38" />
-        <mark key="." line="74" column="38" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/AbstractMessageSelector.java" timestamp="1474024294368">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/AbstractFtsSimpleEntityTransformer.java" timestamp="1473930423965">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_rejected.sql" timestamp="1473860259210">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474041038699">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="75" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="11" />
-        <mark key="." line="100" column="11" />
-        <mark key="^" line="100" column="11" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringControllerFtsTest.java" timestamp="1473072410830">
-        <mark key="[" line="79" column="41" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="41" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/GroupByCategorySelector.java" timestamp="1473944519185">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="50" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisitionBatchUpdateEvent.java" timestamp="1474021984316">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473416054925">
+        <mark key="[" line="802" column="0" />
+        <mark key="]" line="802" column="99" />
+        <mark key="^" line="802" column="1" />
+        <mark key="." line="802" column="38" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_201__applicant_attachment_permissions.sql" timestamp="1472654764448">
         <mark key="[" line="7" column="0" />
@@ -201,47 +15,22 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
-      <file name="/a.txt" timestamp="1473931823475">
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/EnumCreatorTest929.java" timestamp="1473827482211">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" timestamp="1473829622508">
+        <mark key="'" line="68" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1474003035096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473343723659">
-        <mark key="[" line="68" column="75" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/AbstractProfileTest.java" timestamp="1473692795621">
-        <mark key="[" line="14" column="74" />
-        <mark key="]" line="14" column="74" />
-        <mark key="^" line="14" column="135" />
-        <mark key="." line="14" column="74" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="13" column="160" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="13" column="80" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/HiringApproverFtsTest.java" timestamp="1474034093985">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/AbstractMessageSelector.java" timestamp="1473946230467">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
         <mark key="[" line="67" column="39" />
@@ -249,92 +38,11 @@
         <mark key="." line="67" column="38" />
         <mark key="^" line="67" column="38" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/fts/RequisitionRecruiterToFtsSimpleEntityTransformer.java" timestamp="1474016420509">
-        <mark key="[" line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/db/migration/V1_0_267__update_unit_simple_entity.sql" timestamp="1474038923435">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1473170572932">
-        <mark key="[" line="63" column="85" />
-        <mark key="]" line="29" column="3" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="93" />
-        <mark key="^" line="0" column="93" />
-        <mark key="." line="0" column="93" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/pom.xml" timestamp="1473693316987">
-        <mark key="[" line="172" column="29" />
-        <mark key="]" line="170" column="47" />
-        <mark key="." line="170" column="47" />
-        <mark key="^" line="170" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4632" column="15" />
-        <mark key="." line="4632" column="15" />
-        <mark key="^" line="4632" column="15" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profile-test.yml" timestamp="1473693138813">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/190-service-users.json" timestamp="1473855459456">
-        <mark key="[" line="14" column="179" />
-        <mark key="]" line="14" column="179" />
-        <mark key="^" line="14" column="178" />
-        <mark key="." line="14" column="179" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionComplexityRepository.java" timestamp="1473074856176">
-        <mark key="[" line="6" column="111" />
-        <mark key="]" line="6" column="112" />
-        <mark key="^" line="6" column="112" />
-        <mark key="." line="6" column="112" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRequesterToFtsSimpleEntityTransformer.java" timestamp="1473929655310">
-        <mark key="[" line="25" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="101" />
-        <mark key="." line="38" column="101" />
-        <mark key="^" line="38" column="101" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlFileApplicationContextInitializer.java" timestamp="1473691561843">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="15" column="49" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/resources/dataSet/901-applicants-dev.json" timestamp="1474039978877">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_cancelled.sql" timestamp="1473860243368">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="287" column="86" />
-        <mark key="." line="286" column="0" />
-        <mark key="^" line="285" column="90" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa2staf/dictionary/unit-load.groovy" timestamp="1473252115536">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/UnitRepository.java" timestamp="1474017673090">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/StaffingAppAutoConfiguration.java" timestamp="1472645176137">
         <mark key="[" line="93" column="0" />
@@ -342,37 +50,34 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/service/EntityPersistService.java" timestamp="1474037731598">
-        <mark key="[" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/StaffActiveProfileResolver.java" timestamp="1473686540285">
-        <mark key="[" line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
-        <mark key="[" line="411" column="33" />
-        <mark key="]" line="411" column="58" />
-        <mark key="^" line="411" column="58" />
-        <mark key="." line="411" column="58" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-bucket/src/main/java/com/epam/staf/bucket/service/BucketUtilService.java" timestamp="1473324882818">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" timestamp="1473830118023">
+        <mark key="'" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1474020230176">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="9" />
-        <mark key="^" line="55" column="9" />
-        <mark key="." line="55" column="9" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/RequisitionAssigneeOrigin.java" timestamp="1473258241723">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="101" />
+        <mark key="." line="38" column="101" />
+        <mark key="^" line="38" column="101" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/ProductionCategoryRepository.java" timestamp="1473074794321">
         <mark key="[" line="6" column="105" />
@@ -380,192 +85,60 @@
         <mark key="^" line="6" column="106" />
         <mark key="." line="6" column="106" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_booked.sql" timestamp="1473860229064">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="286" column="86" />
-        <mark key="." line="285" column="0" />
-        <mark key="^" line="284" column="90" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473906383271">
+        <mark key="[" line="94" column="71" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/security/HiringContainerSecurityTest.java" timestamp="1473069677725">
-        <mark key="[" line="222" column="60" />
-        <mark key="]" line="373" column="27" />
-        <mark key="." line="373" column="27" />
-        <mark key="^" line="373" column="27" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1474123009025">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="97" column="24" />
+        <mark key="." line="97" column="24" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/MessageSelectors.java" timestamp="1474025566483">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionConstants.java" timestamp="1473164287593">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
+        <mark key="[" line="457" column="7" />
+        <mark key="]" line="457" column="6" />
+        <mark key="." line="457" column="6" />
+        <mark key="^" line="457" column="6" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/UnitFtsController.java" timestamp="1474015707288">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profiles-test.yml" timestamp="1473693542843">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/repository/UnitRepository.java" timestamp="1473418041924">
+        <mark key="[" line="19" column="171" />
+        <mark key="]" line="19" column="171" />
+        <mark key="." line="19" column="171" />
+        <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisitionRecruiterBatchUpdateEvent.java" timestamp="1474022664108">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="14" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterToFtsSimpleEntityTransformer.java" timestamp="1473931320898">
-        <mark key="[" line="14" column="89" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="0" column="93" />
+        <mark key="^" line="0" column="93" />
+        <mark key="." line="0" column="93" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="56" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsHiringApproverUpdateEvent.java" timestamp="1474022300252">
-        <mark key="[" line="21" column="69" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-comment/src/main/java/com/epam/staf/comment/plugin/CommentValidationPluginImpl.java" timestamp="1474279075653">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="74" />
-      </file>
-      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/ReasonForOpeningRepository.java" timestamp="1473074775170">
-        <mark key="[" line="6" column="102" />
-        <mark key="]" line="6" column="103" />
-        <mark key="^" line="6" column="103" />
-        <mark key="." line="6" column="103" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/UnitSimpleEntity.java" timestamp="1474037096791">
-        <mark key="[" line="52" column="69" />
-        <mark key="]" line="110" column="3" />
-        <mark key="." line="110" column="3" />
-        <mark key="^" line="110" column="3" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_onboarding.sql" timestamp="1473868176736">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/integration/support/MessageSelectionHelper.java" timestamp="1474023986405">
-        <mark key="[" line="6" column="35" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" timestamp="1474126973125">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-        <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisitionRecruiterUpdateEvent.java" timestamp="1474022248678">
-        <mark key="[" line="21" column="75" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionComplexityRepository.java" timestamp="1473074856176">
+        <mark key="[" line="6" column="111" />
+        <mark key="]" line="6" column="112" />
+        <mark key="^" line="6" column="112" />
+        <mark key="." line="6" column="112" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTestt.java" timestamp="1474026669825">
-        <mark key="[" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/test/java/com/epamx/staf/bpm/plugin/AttachmentValidationTest.java" timestamp="1474278713677">
-        <mark key="[" line="92" column="62" />
-        <mark key="]" line="92" column="62" />
-        <mark key="." line="92" column="62" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
-        <mark key="[" line="57" column="3" />
-        <mark key="]" line="58" column="14" />
-        <mark key="^" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/meta/CommentMetaListener.java" timestamp="1474038437342">
-        <mark key="[" line="32" column="20" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
-        <mark key="[" line="310" column="8" />
-        <mark key="]" line="310" column="105" />
-        <mark key="." line="310" column="8" />
-        <mark key="^" line="310" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="114" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/HiringContainerFtsIntegration.java" timestamp="1474021953502">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/pom.xml" timestamp="1473770680698">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="42" />
-        <mark key="." line="56" column="42" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_267__update_unit_simple_entity.sql" timestamp="1474036816258">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
-        <mark key="[" line="206" column="166" />
-        <mark key="]" line="206" column="131" />
-        <mark key="." line="206" column="131" />
-        <mark key="^" line="206" column="152" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473860707973">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="57" />
-        <mark key="." line="286" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/ProfileTestConfiguration.java" timestamp="1473693911493">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5709a018-8c75-44a4-be5e-2d67e0aec848/console.sql" timestamp="1473774053817">
-        <mark key="[" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/HiringApproverToFtsSimpleEntityTransformer.java" timestamp="1473933198410">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/repository/transform/AbstractFtsSimpleEntityTransformer.java" timestamp="1473930764421">
-        <mark key="[" line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/FtsEntityFtsIntegration.java" timestamp="1474026130054">
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/Employee.java" timestamp="1474274638653" />
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/target/classes/messages.properties" timestamp="1474278196028" />
-      <file name="$USER_HOME$/project/epm-staf/staf-attachment/src/main/java/com/epam/staf/attachment/plugin/AttachmentValidationPluginImpl.java" timestamp="1474278618785">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="21" column="70" />
-        <mark key="." line="21" column="71" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1473687536575">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/WorkflowScriptUtil.java" timestamp="1473167433828">
         <mark key="[" line="239" column="112" />
@@ -573,188 +146,15 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1474041558351">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="103" column="29" />
-        <mark key="^" line="103" column="5" />
-        <mark key="." line="103" column="29" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" timestamp="1474124289836">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="62" column="9" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/security/HiringContainerRolesResolver.java" timestamp="1474274118561" />
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
-        <mark key="[" line="39" column="47" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/integration/FtsSimpleEntityIntegration.java" timestamp="1474023550695">
-        <mark key="[" line="24" column="49" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/ApplicantConfiguration.java" timestamp="1472645158289">
-        <mark key="[" line="39" column="58" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474041135945">
-        <mark key="[" line="38" column="137" />
-        <mark key="]" line="38" column="117" />
-        <mark key="." line="38" column="117" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/meta/AttachmentMetaListener.java" timestamp="1474038363064">
-        <mark key="[" line="37" column="55" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1474034661941">
-        <mark key="[" line="33" column="58" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
-        <mark key="[" line="219" column="45" />
-        <mark key="]" line="225" column="2" />
-        <mark key="^" line="225" column="2" />
-        <mark key="." line="225" column="2" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
-        <mark key="[" line="6" column="119" />
-        <mark key="]" line="6" column="124" />
-        <mark key="^" line="6" column="124" />
-        <mark key="." line="6" column="124" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1473865486891">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473857739044">
-        <mark key="[" line="811" column="53" />
-        <mark key="]" line="802" column="99" />
-        <mark key="^" line="802" column="1" />
-        <mark key="." line="802" column="38" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473954074957">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="50" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="57" />
-        <mark key="." line="225" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionRecruiterFtsIntegration.java" timestamp="1474025224635">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="33" column="21" />
-        <mark key="^" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionTypeRepository.java" timestamp="1473074826592">
-        <mark key="[" line="6" column="98" />
-        <mark key="]" line="6" column="98" />
-        <mark key="^" line="6" column="98" />
-        <mark key="." line="6" column="98" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/EmployeeGenerator.java" timestamp="1473077693116">
-        <mark key="[" line="119" column="41" />
-        <mark key="]" line="119" column="105" />
-        <mark key="." line="119" column="105" />
-        <mark key="^" line="119" column="105" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/HiringContainerConstant.java" timestamp="1473928872283">
-        <mark key="[" line="7" column="78" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/test/util/generator/HiringContainerDataSetSaverImpl.java" timestamp="1474041108660">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="72" />
-        <mark key="." line="34" column="71" />
-        <mark key="^" line="34" column="71" />
-      </file>
-      <file name="$USER_HOME$/project/TradeAnalytics/app/controllers/TickController.scala" timestamp="1471668880455">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1474274982030">
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="316" column="0" />
-        <mark key="." line="308" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/support/MessageSelectionHelper.java" timestamp="1473946265578">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="51" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="51" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="49" />
-        <mark key="^" line="54" column="49" />
-        <mark key="." line="54" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1474279020415">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
-        <mark key="[" line="225" column="7" />
-        <mark key="]" line="225" column="7" />
-        <mark key="." line="225" column="7" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1473694108016">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringApproverRepository.java" timestamp="1473344535202">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/95bfc147-a4d7-499c-88f0-84a8acc4ebc0/console.sql" timestamp="1473759696407">
-        <mark key="[" line="3" column="107" />
-      </file>
-      <file name="/a.regexp" timestamp="1473931818339">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473927161154">
-        <mark key="[" line="457" column="7" />
-        <mark key="]" line="457" column="6" />
-        <mark key="." line="457" column="6" />
-        <mark key="^" line="457" column="6" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/Unit.java" timestamp="1474036012365">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="53" column="32" />
-        <mark key="^" line="79" column="3" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/support/NotificationAttributesHelper.java" timestamp="1473866492518">
-        <mark key="[" line="121" column="110" />
-        <mark key="]" line="121" column="126" />
-        <mark key="^" line="121" column="126" />
-        <mark key="." line="121" column="126" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/AmazonQaProfileTest.java" timestamp="1473687515775">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
+        <mark key="[" line="74" column="39" />
+        <mark key="]" line="74" column="38" />
+        <mark key="^" line="74" column="38" />
+        <mark key="." line="74" column="38" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/HiringContainerSpecifications.java" timestamp="1473341282898">
         <mark key="[" line="76" column="15" />
@@ -762,53 +162,312 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1474041011449">
+      <file name="$USER_HOME$/project/TradeAnalytics/conf/routes" timestamp="1471711534997">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa2staf/dictionary/unit-load.groovy" timestamp="1473252115536">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="11" />
+        <mark key="." line="100" column="11" />
+        <mark key="^" line="100" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" timestamp="1473997380078">
+        <mark key="'" line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
+        <mark key="[" line="63" column="56" />
+        <mark key="]" line="59" column="56" />
+        <mark key="." line="59" column="56" />
+        <mark key="^" line="59" column="56" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="213" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/EmployeeGenerator.java" timestamp="1473077693116">
+        <mark key="[" line="119" column="41" />
+        <mark key="]" line="119" column="105" />
+        <mark key="." line="119" column="105" />
+        <mark key="^" line="119" column="105" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474130783743">
+        <mark key="'" line="181" column="40" />
+        <mark key="[" line="530" column="127" />
+        <mark key="]" line="530" column="0" />
+        <mark key="." line="530" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="37" column="89" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="61" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa/Changes2EventLogTransform.groovy" timestamp="1473251320990">
+        <mark key="[" line="117" column="85" />
+        <mark key="]" line="117" column="141" />
+        <mark key="^" line="117" column="141" />
+        <mark key="." line="117" column="141" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="114" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-permission.json" timestamp="1473678499135">
+        <mark key="[" line="285" column="64" />
+        <mark key="]" line="285" column="64" />
+        <mark key="." line="285" column="64" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1473170572932">
+        <mark key="[" line="63" column="85" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionConstants.java" timestamp="1473164287593">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_259__add_manager_to_unit.sql" timestamp="1473258500645">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringControllerFtsTest.java" timestamp="1473072410830">
+        <mark key="[" line="79" column="41" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="81" column="41" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
+        <mark key="[" line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownPropertyHandler.java" timestamp="1474127721092">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1473345871777">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="214" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/ReasonForOpeningRepository.java" timestamp="1473074775170">
+        <mark key="[" line="6" column="102" />
+        <mark key="]" line="6" column="103" />
+        <mark key="^" line="6" column="103" />
+        <mark key="." line="6" column="103" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithIgnored.java" timestamp="1474180481409">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" timestamp="1473999593143">
+        <mark key="a" line="75" column="19" />
+        <mark key="'" line="75" column="19" />
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/StaffActiveProfileResolver.java" timestamp="1473686540285">
+        <mark key="[" line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="37" column="126" />
+        <mark key="." line="37" column="112" />
+        <mark key="^" line="37" column="111" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/security/HiringContainerSecurityTest.java" timestamp="1473069677725">
+        <mark key="[" line="222" column="60" />
+        <mark key="]" line="373" column="27" />
+        <mark key="." line="373" column="27" />
+        <mark key="^" line="373" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
+        <mark key="[" line="225" column="7" />
+        <mark key="]" line="225" column="7" />
+        <mark key="." line="225" column="7" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1473419724192">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473343723659">
+        <mark key="[" line="68" column="75" />
+        <mark key="]" line="46" column="15" />
+        <mark key="^" line="46" column="15" />
+        <mark key="." line="46" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/ApplicantConfiguration.java" timestamp="1472645158289">
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474186928429">
+        <mark key="'" line="592" column="36" />
+        <mark key="[" line="658" column="31" />
+        <mark key="]" line="659" column="7" />
+        <mark key="." line="659" column="7" />
+        <mark key="^" line="659" column="7" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="54" column="49" />
+        <mark key="^" line="54" column="49" />
+        <mark key="." line="54" column="49" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
+        <mark key="[" line="246" column="113" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474180447844">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlFileApplicationContextInitializer.java" timestamp="1473691180012">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="68" />
+        <mark key="^" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" timestamp="1473997287964">
+        <mark key="g" line="31" column="14" />
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="247" column="8" />
+        <mark key="]" line="247" column="8" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="247" column="8" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1473342100167">
+        <mark key="[" line="206" column="166" />
+        <mark key="]" line="206" column="131" />
+        <mark key="." line="206" column="131" />
+        <mark key="^" line="206" column="152" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionTypeRepository.java" timestamp="1473074826592">
+        <mark key="[" line="6" column="98" />
+        <mark key="]" line="6" column="98" />
+        <mark key="^" line="6" column="98" />
+        <mark key="." line="6" column="98" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/AmazonQaProfileTest.java" timestamp="1473687515775">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/UnitExtController.java" timestamp="1473415693122">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4632" column="15" />
+        <mark key="." line="4632" column="15" />
+        <mark key="^" line="4632" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="13" column="160" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="13" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/security/role/AbstractProjectRoleResolver.java" timestamp="1472650950322">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/ProfileTestConfiguration.java" timestamp="1473689434860">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
+        <mark key="[" line="6" column="119" />
+        <mark key="]" line="6" column="124" />
+        <mark key="^" line="6" column="124" />
+        <mark key="." line="6" column="124" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringApproverRepository.java" timestamp="1473344535202">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/Unit.java" timestamp="1473252236364">
+        <mark key="[" line="50" column="74" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1474179825860">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473868091735">
-        <mark key="[" line="271" column="12" />
-        <mark key="]" line="271" column="14" />
-        <mark key="." line="271" column="14" />
-        <mark key="^" line="271" column="15" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/applicant_proposal_project_status_changed_rejected.sql" timestamp="1473409570118">
+        <mark key="[" line="6" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="43" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="21" column="30" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="32" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="40" column="5" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="38" column="4" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="39" column="40" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/project/TradeAnalytics/app/controllers/AsyncController.scala" />
-      <jump line="8" column="12" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="11" column="15" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="13" column="10" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="850" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="43" column="35" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="33" column="24" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="17" column="53" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="579" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="28" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="34" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="32" column="40" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="46" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="6" column="25" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
-      <jump line="819" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="25" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="18" column="8" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -866,59 +525,95 @@
       <jump line="1275" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" />
       <jump line="10" column="28" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
       <jump line="12" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
-      <jump line="286" column="87" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" />
-      <jump line="62" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" />
-      <jump line="96" column="17" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/fts/RequisitionRecruiterFtsTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisition.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisition.java" />
-      <jump line="58" column="69" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" />
-      <jump line="55" column="28" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/rest/UnitFtsControllerTest.java" />
+      <jump line="1254" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="96" column="53" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
+      <jump line="68" column="42" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" />
+      <jump line="91" column="39" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
+      <jump line="17" column="33" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" />
+      <jump line="1472" column="68" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1942" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1896" column="16" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1920" column="4" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="1943" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="24" column="42" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="31" column="14" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="34" column="9" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="52" column="7" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
+      <jump line="294" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="283" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="52" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
+      <jump line="75" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="78" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
+      <jump line="306" column="20" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="102" column="22" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="21" column="24" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" />
+      <jump line="1478" column="79" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="12" column="56" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
+      <jump line="1436" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="1636" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="265" column="14" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="88" column="45" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="181" column="40" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
+      <jump line="291" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="653" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>comment.entity.type.not.exist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBPYmplY3QgZGVzZXJpYWxpemVXaXRoVW53cmFwcGVkKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LCBPYmplY3QgYmVhbikKICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+      </register>
+      <register name="c" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFN1cHBvcnRlZCBlbnRpdHkgdHlwZXMgYXJlIFtjb20uZXBhbS5zdGFmLmRhdGEuRW1wbG95ZWUsIGNvbS5lcGFtLnN0YWYuZmVlZGJhY2suZGF0YS5GZWVkYmFjaywgY29tLmVwYW0uc3RhZi5kYXRhLlBvc2l0aW9uLCBjb20uZXBhbS5zdGFmLmRhdGEuQ29udGFpbmVyXS4iKSkpOw==</text>
+        <text>_featureFlags;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVxdWFsVG8oU3RyaW5nLmZvcm1hdCgiRW50aXR5IHdpdGggdGhlIGdpdmVuIGlkIG9mIHR5cGUgJXMgZG9lcyBub3QgZXhpc3QuIiwgcmVxdWVzdC5nZXRFbnRpdHlUeXBlKCkpKSkpOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBPYmplY3QgZGVzZXJpYWxpemVXaXRoVW53cmFwcGVkKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LCBPYmplY3QgYmVhbikKICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbkJ1ZmZlciB0b2tlbnMgPSBuZXcgVG9rZW5CdWZmZXIocCwgY3R4dCk7CiAgICAgICAgdG9rZW5zLndyaXRlU3RhcnRPYmplY3QoKTsKICAgICAgICAKICAgICAgICBmaW5hbCBDbGFzczw/PiBhY3RpdmVWaWV3ID0gX25lZWRWaWV3UHJvY2VzaW5nID8gY3R4dC5nZXRBY3RpdmVWaWV3KCkgOiBudWxsOwogICAgICAgIFN0cmluZyBwcm9wTmFtZSA9IHAuaGFzVG9rZW5JZChKc29uVG9rZW5JZC5JRF9GSUVMRF9OQU1FKSA/IHAuZ2V0Q3VycmVudE5hbWUoKSA6IG51bGw7CgogICAgICAgIGZvciAoOyBwcm9wTmFtZSAhPSBudWxsOyBwcm9wTmFtZSA9IHAubmV4dEZpZWxkTmFtZSgpKSB7CiAgICAgICAgICAgIHAubmV4dFRva2VuKCk7CiAgICAgICAgICAgIFNldHRhYmxlQmVhblByb3BlcnR5IHByb3AgPSBfYmVhblByb3BlcnRpZXMuZmluZChwcm9wTmFtZSk7CiAgICAgICAgICAgIGlmIChwcm9wICE9IG51bGwpIHsgLy8gbm9ybWFsIGNhc2UKICAgICAgICAgICAgICAgIGlmIChhY3RpdmVWaWV3ICE9IG51bGwgJiYgIXByb3AudmlzaWJsZUluVmlldyhhY3RpdmVWaWV3KSkgewogICAgICAgICAgICAgICAgICAgIHAuc2tpcENoaWxkcmVuKCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHByb3AuZGVzZXJpYWxpemVBbmRTZXQocCwgY3R4dCwgYmVhbik7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIHdyYXBBbmRUaHJvdyhlLCBiZWFuLCBwcm9wTmFtZSwgY3R4dCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyBUaGluZ3MgbWFya2VkIGFzIGlnbm9yYWJsZSBzaG91bGQgbm90IGJlIHBhc3NlZCB0byBhbnkgc2V0dGVyCiAgICAgICAgICAgIGlmIChfaWdub3JhYmxlUHJvcHMgIT0gbnVsbCAmJiBfaWdub3JhYmxlUHJvcHMuY29udGFpbnMocHJvcE5hbWUpKSB7CiAgICAgICAgICAgICAgICBoYW5kbGVJZ25vcmVkUHJvcGVydHkocCwgY3R4dCwgYmVhbiwgcHJvcE5hbWUpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gYnV0Li4uIG90aGVycyBzaG91bGQgYmUgcGFzc2VkIHRvIHVud3JhcHBlZCBwcm9wZXJ0eSBkZXNlcmlhbGl6ZXJzCiAgICAgICAgICAgIHRva2Vucy53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHRva2Vucy5jb3B5Q3VycmVudFN0cnVjdHVyZShwKTsKICAgICAgICAgICAgLy8gaG93IGFib3V0IGFueSBzZXR0ZXI/IFdlJ2xsIGdldCBjb3BpZXMgYnV0Li4uCiAgICAgICAgICAgIGlmIChfYW55U2V0dGVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgX2FueVNldHRlci5kZXNlcmlhbGl6ZUFuZFNldChwLCBjdHh0LCBiZWFuLCBwcm9wTmFtZSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIHdyYXBBbmRUaHJvdyhlLCBiZWFuLCBwcm9wTmFtZSwgY3R4dCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0b2tlbnMud3JpdGVFbmRPYmplY3QoKTsKICAgICAgICBfdW53cmFwcGVkUHJvcGVydHlIYW5kbGVyLnByb2Nlc3NVbndyYXBwZWQocCwgY3R4dCwgYmVhbiwgdG9rZW5zKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhdHRhY2htZW50RW50aXR5SWROb3RFeGlzdEZhaWwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBMaXN0PFN0cmluZz4gc3VwcG9ydGVkRW50aXRpZXMgPSBBcnJheXMuYXNMaXN0KFBvc2l0aW9uLmNsYXNzLmdldE5hbWUoKSwgRW1wbG95ZWUuY2xhc3MuZ2V0TmFtZSgpKTsKICAgICAgICBmb3IgKFN0cmluZyBlbnRpdHkgOiBzdXBwb3J0ZWRFbnRpdGllcykgewogICAgICAgICAgICBDcmVhdGVBdHRhY2htZW50UmVxdWVzdCByZXF1ZXN0ID0gbmV3IENyZWF0ZUF0dGFjaG1lbnRSZXF1ZXN0KCk7CiAgICAgICAgICAgIHJlcXVlc3Quc2V0RW50aXR5VHlwZShlbnRpdHkpOwogICAgICAgICAgICByZXF1ZXN0LnNldEVudGl0eUlkKCIwIik7CiAgICAgICAgICAgIHByZXBhcmVDcmVhdGVBdHRhY2htZW50TW9jayhyZXF1ZXN0KQogICAgICAgICAgICAgICAgICAgIC5hbmREbyhwcmludCgpKQogICAgICAgICAgICAgICAgICAgIC5hbmRFeHBlY3Qoc3RhdHVzKCkuaXNCYWRSZXF1ZXN0KCkpCiAgICAgICAgICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiZXJyb3JzLmZpZWxkRXJyb3JzWzBdLmVycm9yTWVzc2FnZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcXVhbFRvKFN0cmluZy5mb3JtYXQoIkVudGl0eSB3aXRoIHRoZSBnaXZlbiBpZCBvZiB0eXBlICVzIGRvZXMgbm90IGV4aXN0LiIsIHJlcXVlc3QuZ2V0RW50aXR5VHlwZSgpKSkpKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbkJ1ZmZlciB0b2tlbnMgPSBuZXcgVG9rZW5CdWZmZXIocCwgY3R4dCk7CiAgICAgICAgdG9rZW5zLndyaXRlU3RhcnRPYmplY3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW50aXR5Lm5vdC5leGlzdCA9IEVudGl0eSB3aXRoIHRoZSBnaXZlbiBpZCBvZiB0eXBlIHswfSBkb2VzIG5vdCBleGlzdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpbmdzIG1hcmtlZCBhcyBpZ25vcmFibGUgc2hvdWxkIG5vdCBiZSBwYXNzZWQgdG8gYW55IHNldHRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXF1YWxUbygiRW50aXR5IHdpdGggdGhlIGdpdmVuIGlkIG9mIHR5cGUgIityZXF1ZXN0LmdldEVudGl0eVR5cGUoKSsiIGRvZXMgbm90IGV4aXN0LiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZ25vcmVkIHByb3BlcnRpZXMgYXJlIGFscmVhZHkgZmlsdGVyZWQgZnJvbSBfYmVhblByb3BlcnRpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkuZ2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKDsgcHJvcE5hbWUgIT0gbnVsbDsgcHJvcE5hbWUgPSBwLm5leHRGaWVsZE5hbWUoKSkgewogICAgICAgICAgICBwLm5leHRUb2tlbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbgogIEFERCBDT0xVTU4gdW5pdF9tYW5hZ2VyX2lkIFRFWFQsCiAgQUREIENPTFVNTiB1bml0X21hbmFnZXJfbmFtZSBURVhUOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZ25vcmVkIHByb3BlcnRpZXMgYXJlIGFscmVhZHkgZmlsdGVyZWQgZnJvbSBfYmVhblByb3BlcnRpZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tZW50IGNvbW1lbnQgPSAoQ29tbWVudCl0YXJnZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWdub3JlZCBwcm9wZXJ0aWVzIGFyZSBhbHJlYWR5IGZpbHRlcmVkIGZyb20gX2JlYW5Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgVmFsaWRhdGlvblV0aWxzLmludm9rZVZhbGlkYXRvcih2YWxpZGF0b3IsIGF0dGFjaG1lbnQsIGVycm9ycyk7CgogICAgICAgIGlmICghLmdldEVudGl0eVR5cGUoKSkpIHsKICAgICAgICAgICAgZXJyb3JzLnJlamVjdFZhbHVlKCJlbnRpdHlUeXBlIiwgImVudGl0eS50eXBlLm5vdC5zdXBwb3J0ZWQiLCBuZXcgT2JqZWN0W117U1VQUE9SVEVEX0VOVElUWV9UWVBFU30sIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgY2hlY2tFbnRpdHlFeGlzdHMoYXR0YWNobWVudCwgZXJyb3JzKTsKCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -957,32 +652,32 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
-        <entry>mapleader &quot; &quot;</entry>
-        <entry>!git log</entry>
-        <entry>!git lg</entry>
-        <entry>action Vcs.UpdateProject</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action SplitVerticaly</entry>
+        <entry>Unsplit</entry>
         <entry>action FindNext</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action SplitVertically</entry>
+        <entry>noremap = :action :ReformatCode</entry>
+        <entry encoding="base64">YWN0aW9uIDpSZWZvcm1hdENvZGU8Q1I+</entry>
+        <entry encoding="base64">YWN0aW9uIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry encoding="base64">YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
+        <entry>actionlist Reformat</entry>
+        <entry encoding="base64">bm9yZW1hcCBcPSA6YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
+        <entry encoding="base64">bm9yZW1hcCA9IDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
         <entry>action FindWordAtCaret</entry>
-        <entry>action Find</entry>
-        <entry>action GenerateGetterAndSetter</entry>
-        <entry>w</entry>
-        <entry>action Annotate</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Unsplit</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action ReformatCode</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1018,7 +713,7 @@
       <shortcut-conflict owner="vim">
         <text>meta pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1033,10 +728,10 @@
       <shortcut-conflict owner="vim">
         <text>meta pressed F12</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1048,7 +743,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1063,7 +758,7 @@
       <shortcut-conflict owner="vim">
         <text>pressed F2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1090,7 +785,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
