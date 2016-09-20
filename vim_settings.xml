@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1474376902976">
+      <file name="/a.dummy" timestamp="1474381042684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -118,6 +118,10 @@
         <mark key="]" line="36" column="113" />
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.3.0.RELEASE/spring-boot-1.3.0.RELEASE.jar!/org/springframework/boot/logging/logback/console-appender.xml" timestamp="1474380777377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/application.yml" timestamp="1474360483931">
         <mark key="[" line="42" column="0" />
@@ -910,7 +914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIHtuYW1lOiBzb3VyY2VJZCwgd2VpZ2h0OiAxNn0K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KCjwhLS0KQ29uc29sZSBhcHBlbmRlciBsb2diYWNrIGNvbmZpZ3VyYXRpb24gcHJvdmlkZWQgZm9yIGltcG9ydCwgZXF1aXZhbGVudCB0byB0aGUgcHJvZ3JhbW1hdGljCmluaXRpYWxpemF0aW9uIHBlcmZvcm1lZCBieSBCb290Ci0tPgoKPGluY2x1ZGVkPgoJPGFwcGVuZGVyIG5hbWU9IkNPTlNPTEUiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CgkJPGVuY29kZXI+CgkJCTxwYXR0ZXJuPiR7Q09OU09MRV9MT0dfUEFUVEVSTn08L3BhdHRlcm4+CgkJCTxjaGFyc2V0PnV0Zjg8L2NoYXJzZXQ+CgkJPC9lbmNvZGVyPgoJPC9hcHBlbmRlcj4KPC9pbmNsdWRlZD4K</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -955,7 +959,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpbmdzIG1hcmtlZCBhcyBpZ25vcmFibGUgc2hvdWxkIG5vdCBiZSBwYXNzZWQgdG8gYW55IHNldHRlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceJumpAction</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1009,8 +1013,8 @@
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
