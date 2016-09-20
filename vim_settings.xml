@@ -193,12 +193,12 @@
         <mark key="." line="59" column="56" />
         <mark key="^" line="59" column="56" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnwrappedBeanDeserializer.java" timestamp="1474264909125">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnwrappedBeanDeserializer.java" timestamp="1474346807447">
         <mark key="'" line="52" column="3" />
-        <mark key="[" line="128" column="36" />
-        <mark key="]" line="128" column="35" />
-        <mark key="." line="128" column="35" />
-        <mark key="^" line="128" column="35" />
+        <mark key="[" line="125" column="33" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="125" column="8" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1473345863802">
         <mark key="[" line="29" column="0" />
@@ -218,11 +218,11 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474262874443">
-        <mark key="'" line="1658" column="0" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" timestamp="1474347855032">
+        <mark key="'" line="1657" column="0" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -242,11 +242,11 @@
         <mark key="^" line="0" column="114" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedBeanUnknownPropertiesHandlerImpl.java" timestamp="1474266844746">
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="15" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedBeanUnknownPropertiesHandlerImpl.java" timestamp="1474348096335">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-permission.json" timestamp="1473678499135">
         <mark key="[" line="285" column="64" />
@@ -355,10 +355,10 @@
         <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/PropertyAccumulator.java" timestamp="1474264230790" />
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474265133239">
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474348046630">
         <mark key="[" line="436" column="0" />
         <mark key="]" line="437" column="43" />
-        <mark key="." line="71" column="0" />
+        <mark key="." line="70" column="0" />
         <mark key="^" line="329" column="33" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
@@ -414,6 +414,9 @@
         <mark key="[" line="60" column="39" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownBeanPropertiesHandler.java" timestamp="1474347104072">
+        <mark key="[" line="12" column="116" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
         <mark key="[" line="5" column="4" />
@@ -590,7 +593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Ly8gICAgQERlcHJlY2F0ZWQK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -605,34 +608,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bi53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHVua25vd24uY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Ly8gICAgQERlcHJlY2F0ZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfdG9rZW5zLmNvcHlDdXJyZW50U3RydWN0dXJlKHApOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWYud3JpdGVFbmRPYmplY3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVmLndyaXRlRmllbGROYW1lKHByb3ApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMudW5tb2RpZmlhYmxlTGlzdChfcHJvcGVydGllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByb3AgPSBwcm9wZXJ0aWVzLmdldChpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMuY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHByb3BlcnRpZXMuc2l6ZSgpOyBpKyspIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IF9wcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWYud3JpdGVTdGFydE9iamVjdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -671,7 +674,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>noremap = :action :ReformatCode</entry>
         <entry encoding="base64">YWN0aW9uIDpSZWZvcm1hdENvZGU8Q1I+</entry>
         <entry encoding="base64">YWN0aW9uIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
         <entry encoding="base64">YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
@@ -690,6 +692,7 @@
         <entry>action ReformatCode</entry>
         <entry>action SurroundWith</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
