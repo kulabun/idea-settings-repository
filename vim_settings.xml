@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1474361646229">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/a.dummy" timestamp="1474366716495">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
         <mark key="[" line="5" column="4" />
@@ -43,6 +43,7 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/database-migration/src/main/resources/application.yml" timestamp="1474366694891" />
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
         <mark key="]" line="37" column="89" />
@@ -289,13 +290,6 @@
         <mark key="]" line="4632" column="15" />
         <mark key="." line="4632" column="15" />
         <mark key="^" line="4632" column="15" />
-      </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474186928429">
-        <mark key="'" line="592" column="36" />
-        <mark key="[" line="658" column="31" />
-        <mark key="]" line="659" column="7" />
-        <mark key="." line="659" column="7" />
-        <mark key="^" line="659" column="7" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profile-test.yml" timestamp="1473693138813">
         <mark key="[" line="1" column="0" />
@@ -905,13 +899,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>applicationName</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>applicationName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
