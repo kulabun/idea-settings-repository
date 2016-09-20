@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1474373631711">
+      <file name="/a.dummy" timestamp="1474376902976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -955,7 +955,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpbmdzIG1hcmtlZCBhcyBpZ25vcmFibGUgc2hvdWxkIG5vdCBiZSBwYXNzZWQgdG8gYW55IHNldHRlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action AceJumpAction</text>
       </register>
     </registers>
     <search>
@@ -991,7 +991,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
@@ -1011,6 +1010,7 @@
         <entry>actionlist compare</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
