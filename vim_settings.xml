@@ -26,6 +26,7 @@
         <mark key="^" line="89" column="3" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/admin/MetaController.java" timestamp="1474451766597" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa/Changes2EventLogTransform.groovy" timestamp="1473251320990">
         <mark key="[" line="117" column="85" />
         <mark key="]" line="117" column="141" />
@@ -241,6 +242,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/StaffingRepositoryImpl.java" timestamp="1474451863067" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/RequisitionSpecifications.java" timestamp="1473343723659">
         <mark key="[" line="68" column="75" />
         <mark key="]" line="46" column="15" />
