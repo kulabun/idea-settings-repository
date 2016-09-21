@@ -355,11 +355,10 @@
         <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/PropertyAccumulator.java" timestamp="1474264230790" />
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474348046630">
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="437" column="43" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="329" column="33" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474438034870">
+        <mark key="[" line="594" column="0" />
+        <mark key="]" line="594" column="0" />
+        <mark key="." line="594" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
@@ -415,8 +414,8 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownBeanPropertiesHandler.java" timestamp="1474347104072">
-        <mark key="[" line="12" column="116" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnknownBeanPropertiesHandler.java" timestamp="1474437874698">
+        <mark key="[" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
         <mark key="[" line="5" column="4" />
@@ -593,7 +592,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgQERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbkJ1ZmZlciB0b2tlbnMgPSBuZXcgVG9rZW5CdWZmZXIocCwgY3R4dCk7Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -608,34 +607,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bi53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHVua25vd24uY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbkJ1ZmZlciB0b2tlbnMgPSBuZXcgVG9rZW5CdWZmZXIocCwgY3R4dCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWYud3JpdGVFbmRPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMud3JpdGVTdGFydE9iamVjdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBfdW53cmFwcGVkUHJvcGVydHlIYW5kbGVyLnByb2Nlc3NVbndyYXBwZWQocCwgY3R4dCwgYmVhbiwgdG9rZW5zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMud3JpdGVFbmRPYmplY3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmLndyaXRlRmllbGROYW1lKHByb3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zLmNvcHlDdXJyZW50U3RydWN0dXJlKHApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByb3AgPSBwcm9wZXJ0aWVzLmdldChpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHByb3BlcnRpZXMuc2l6ZSgpOyBpKyspIHsK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgT2JqZWN0IGRlc2VyaWFsaXplVW53cmFwcGVkKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LCBPYmplY3QgYmVhbikKICAgICAgICAgICAgdGhyb3dzIElPRXhjZXB0aW9uIHsgCiAgICAgICAgLy8gVE9ETzogbm90IGltcGxlbWVudGVkIHlldC4uLiA6KAogICAgICAgcmV0dXJuIG51bGw7IAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQERlcHJlY2F0ZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWYud3JpdGVTdGFydE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWYud3JpdGVFbmRPYmplY3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
