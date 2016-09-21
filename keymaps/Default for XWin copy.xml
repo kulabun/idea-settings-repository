@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
