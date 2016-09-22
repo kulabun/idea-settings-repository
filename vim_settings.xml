@@ -182,6 +182,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/AttributeReader.java" timestamp="1474569396369">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" timestamp="1474438034870">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="594" column="0" />
@@ -315,11 +320,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Main.java" timestamp="1474567676180">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Main.java" timestamp="1474567713803">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
         <mark key="[" line="14" column="0" />
@@ -480,9 +485,6 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1474263182598">
-        <mark key="'" line="3769" column="32" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="13" column="160" />
@@ -625,7 +627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlID09IG51bGwgPzsK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -640,34 +642,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bi53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHVua25vd24uY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlID09IG51bGwgPzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQXR0cmlidXRlIHsKICAgICAgICBwcml2YXRlIGZpbmFsIEF0dHJpYnV0ZU5hbWUgbmFtZTsKICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB2YWx1ZTsKCiAgICAgICAgcHJpdmF0ZSBBdHRyaWJ1dGUoQXR0cmlidXRlTmFtZSBuYW1lLCBTdHJpbmcgdmFsdWUpIHsKICAgICAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICAgICAgdGhpcy52YWx1ZSA9IHZhbHVlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIEF0dHJpYnV0ZU5hbWUgbmFtZSgpIHsKICAgICAgICAgICAgcmV0dXJuIG5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIHZhbHVlKCkgewogICAgICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUb2tlbkJ1ZmZlciB0b2tlbnMgPSBuZXcgVG9rZW5CdWZmZXIocCwgY3R4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTGlzdDxBdHRyaWJ1dGU+IGF0dHJpYnV0ZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMud3JpdGVTdGFydE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgU3RhcnRDb25maWd1cmF0aW9uIHsKICAgICAgICBwcml2YXRlIGZpbmFsIExpc3Q8T3B0aW9uPiBvcHRpb25zOwogICAgICAgIHByaXZhdGUgZmluYWwgTGlzdDxTdHJpbmc+IGF0dHJpYnV0ZXM7CgogICAgICAgIHB1YmxpYyBTdGFydENvbmZpZ3VyYXRpb24oTGlzdDxPcHRpb24+IG9wdGlvbnMsIExpc3Q8U3RyaW5nPiBhdHRyaWJ1dGVzKSB7CiAgICAgICAgICAgIHRoaXMub3B0aW9ucyA9IENvbGxlY3Rpb25zLnVubW9kaWZpYWJsZUxpc3Qob3B0aW9ucyk7CiAgICAgICAgICAgIHRoaXMuYXR0cmlidXRlcyA9IENvbGxlY3Rpb25zLnVubW9kaWZpYWJsZUxpc3QoYXR0cmlidXRlcyk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgTGlzdDxPcHRpb24+IG9wdGlvbnMoKSB7CiAgICAgICAgICAgIHJldHVybiBvcHRpb25zOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIExpc3Q8U3RyaW5nPiBhdHRyaWJ1dGVzKCkgewogICAgICAgICAgICByZXR1cm4gYXR0cmlidXRlczsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfdW53cmFwcGVkUHJvcGVydHlIYW5kbGVyLnByb2Nlc3NVbndyYXBwZWQocCwgY3R4dCwgYmVhbiwgdG9rZW5zKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgU3RhcnRDb25maWd1cmF0aW9uIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMud3JpdGVFbmRPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zLmNvcHlDdXJyZW50U3RydWN0dXJlKHApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zLndyaXRlRmllbGROYW1lKHByb3BOYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -719,12 +721,12 @@
         <entry>action AceJumpAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action SurroundWith</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action Find</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>W</entry>
         <entry>action GenerateGetter</entry>
         <entry>action Generate</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
