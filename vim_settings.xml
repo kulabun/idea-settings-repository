@@ -8,7 +8,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1474217001629">
+      <file name="/a.dummy" timestamp="1474571362870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
@@ -321,11 +321,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Main.java" timestamp="1474570719975">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="25" column="7" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="25" column="7" />
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Main.java" timestamp="1474571870873">
+        <mark key="[" line="27" column="76" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
         <mark key="[" line="14" column="0" />
@@ -337,6 +337,9 @@
         <mark key="]" line="19" column="171" />
         <mark key="." line="19" column="171" />
         <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Decoder.java" timestamp="1474571662174">
+        <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1473687536575">
         <mark key="[" line="9" column="40" />
@@ -415,11 +418,11 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Action.java" timestamp="1474570351707">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Action.java" timestamp="1474571683288">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-permission.json" timestamp="1473678499135">
         <mark key="[" line="285" column="64" />
@@ -494,6 +497,12 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
+      <file name="$USER_HOME$/project/PwdEncoder/src/main/java/pw/konstantin/Encoder.java" timestamp="1474571638691">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="13" column="160" />
@@ -525,7 +534,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474518349961">
+      <file name="/fragment.java" timestamp="1474571646472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="18" />
@@ -642,13 +651,13 @@
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:action HideSideWindows</text>
+        <text>.orElseThrow(IllegalArgumentException::new))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bi53cml0ZUZpZWxkTmFtZShwcm9wTmFtZSk7CiAgICAgICAgICAgIHVua25vd24uY29weUN1cnJlbnRTdHJ1Y3R1cmUocCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIGlucHV0RmlsZSA9IFBhdGhzLmdldChjZmcuYXR0cmlidXRlcygpLmZpbmQoU3RhcnRDb25maWd1cmF0aW9uUmVhZGVyLkF0dHJpYnV0ZS5JbnB1dEZpbGUpLm9yRWxzZVRocm93KElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbjo6bmV3KSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -657,28 +666,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RhcnRDb25maWd1cmF0aW9uKCkgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgY29uZmlndXJhdGlvbi5hY3Rpb24oQWN0aW9uLm9mKHN0cikpOyAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoQWN0aW9uLmlzQWN0aW9uKHN0cikpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRIZWxwKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQWN0aW9uIGFjdGlvbiA9IEFjdGlvbi52YWx1ZU9mKGFyZ3NbMF0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZihhcmdzLmxlbmd0aCA8IDIpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcmVhZFRhc2soU3RyaW5nW10gYXJncykgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0FjdGlvbihTdHJpbmcgc3RyKSB7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBSdW5BdHRyaWJ1dGVzIHJlYWRSdW5BdHRyaWJ1dGVzKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBSdW5BdHRyaWJ1dGVzIGF0dHJpYnV0ZXMgPSBuZXcgUnVuQXR0cmlidXRlcygpOwoKICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ID0gQXJyYXlzLmFzTGlzdChhcmdzKS5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlKGl0Lmhhc05leHQoKSkgewogICAgICAgICAgICBpdC5uZXh0KCkKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuIGF0dHJpYnV0ZXM7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
