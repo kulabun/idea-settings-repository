@@ -964,7 +964,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1018,8 +1018,8 @@
         <entry>action AceJumpAction</entry>
         <entry>action Annotate</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
