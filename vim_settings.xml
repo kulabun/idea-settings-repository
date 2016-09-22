@@ -94,7 +94,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/security/RequisitionSecurityConstants.java" timestamp="1474532643410" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/security/RequisitionSecurityConstants.java" timestamp="1474534442761" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/resources/application.yml" timestamp="1474029063250">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="34" column="38" />
@@ -285,6 +285,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/filter/SecurityFilter.java" timestamp="1474534797987" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
@@ -628,6 +629,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="51" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/voter/DomainObjectVoter.java" timestamp="1474534111642" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="6" column="25" />
@@ -796,7 +798,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1474532712833">
+      <file name="/fragment.java" timestamp="1474534182190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
