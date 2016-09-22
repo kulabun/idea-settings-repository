@@ -316,6 +316,12 @@
         <mark key="^" line="14" column="178" />
         <mark key="." line="14" column="179" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/StaffingChannel.java" timestamp="1474547350357">
+        <mark key="[" line="128" column="69" />
+        <mark key="]" line="128" column="8" />
+        <mark key="." line="128" column="8" />
+        <mark key="^" line="128" column="8" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionComplexityRepository.java" timestamp="1473074856176">
         <mark key="[" line="6" column="111" />
         <mark key="]" line="6" column="112" />
@@ -561,10 +567,6 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/sql/startup.sql" timestamp="1474462677352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="20" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="192" column="0" />
@@ -632,10 +634,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/config/flyway/StafFlywayAutoConfiguration.java" timestamp="1474460261039">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="51" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/voter/DomainObjectVoter.java" timestamp="1474534111642" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
         <mark key="[" line="5" column="6" />
@@ -692,10 +690,6 @@
         <mark key="]" line="33" column="21" />
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="21" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.3.0.RELEASE/spring-boot-autoconfigure-1.3.0.RELEASE.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.class" timestamp="1474461090485">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="92" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionTypeRepository.java" timestamp="1473074826592">
         <mark key="[" line="6" column="98" />
@@ -765,11 +759,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1473337804106">
-        <mark key="[" line="457" column="7" />
-        <mark key="]" line="457" column="6" />
-        <mark key="." line="457" column="6" />
-        <mark key="^" line="457" column="6" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1474547481450">
+        <mark key="[" line="462" column="95" />
+        <mark key="]" line="463" column="95" />
+        <mark key="." line="463" column="0" />
+        <mark key="^" line="465" column="36" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
@@ -925,7 +919,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbF9ncm91cF9tZW1iZXJzIChncm91cF9pZCwgdXNlcl9pZCkgVkFMVUVTICgKICAnV0ZUX1NUQUZGSU5HX0NPTU1JVFRFRV9CRUxBUlVTJywKICAoc2VsZWN0IG1fdXNlcnMudXNlcl9pZCBmcm9tIG1fdXNlcnMgd2hlcmUgbV91c2Vycy5wcmluY2lwYWwgbGlrZSAnJUFJU0hBX1BBUlZFRU4lJykKKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEF0dHJpYnV0ZU92ZXJyaWRlKG5hbWUgPSAibmFtZSIsIGNvbHVtbiA9IEBDb2x1bW4obmFtZSA9ICJzdGFmZmluZ19jaGFubmVsX25hbWUiKSkK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -937,34 +931,34 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFzc2VydGlvbkVycm9yKCJVbmtub3duIERhdGFTb3VyY2UgdHlwZSEgRmFpbGVkIHRvIGFzc2VydCBkYXRhc291cmNlIHByb3BlcnRpZXMhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEF0dHJpYnV0ZU92ZXJyaWRlKG5hbWUgPSAibmFtZSIsIGNvbHVtbiA9IEBDb2x1bW4obmFtZSA9ICJzdGFmZmluZ19jaGFubmVsX25hbWUiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
+        <text encoding="base64">ICAgICAqIFVQU0EgTkVSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFN0YWZFc0NvbmZpZy5jbGFzcykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBUSVRMRV9NQVhfTEVOR1RIID0gMTUwOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9AVGVzdFByb3BlcnR5U291cmNlKHByb3BlcnRpZXMgPSB7ICJ0aW1lem9uZSA9IEdNVCIsICJwb3J0OiA0MjQyIiB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9jYXRpb25TdXBwb3J0ZWQgPSByZWxvY2F0aW9uU3VwcG9ydGVkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9AUHJvZmlsZVZhbHVlU291cmNlQ29uZmlndXJhdGlvbih2YWx1ZSA9IE92ZXJyaWRpbmdQcm9maWxlVmFsdWVTb3VyY2UuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBZnRlckNsYXNzCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgdGVhckRvd25EYXRhQmFzZSgpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
