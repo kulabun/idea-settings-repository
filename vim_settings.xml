@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474545314536">
+      <file name="/a.dummy" timestamp="1474548358393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -622,6 +622,12 @@
         <mark key="^" line="107" column="5" />
         <mark key="." line="107" column="29" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/InternalEmployee.java" timestamp="1474549283205">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
         <mark key="]" line="39" column="19" />
@@ -759,11 +765,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1474547481450">
-        <mark key="[" line="462" column="95" />
-        <mark key="]" line="463" column="95" />
-        <mark key="." line="463" column="0" />
-        <mark key="^" line="465" column="36" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1474549912143">
+        <mark key="[" line="462" column="3" />
+        <mark key="]" line="463" column="18" />
+        <mark key="." line="463" column="18" />
+        <mark key="^" line="463" column="18" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
@@ -799,7 +805,7 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
-      <file name="/fragment.java" timestamp="1474534182190">
+      <file name="/fragment.java" timestamp="1474549080253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -813,6 +819,12 @@
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/CheckPrerequirementsConfiguration.java" timestamp="1474460900695">
         <mark key="[" line="12" column="79" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/ExternalRelocation.java" timestamp="1474549705308">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -919,7 +931,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEF0dHJpYnV0ZU92ZXJyaWRlKG5hbWUgPSAibmFtZSIsIGNvbHVtbiA9IEBDb2x1bW4obmFtZSA9ICJzdGFmZmluZ19jaGFubmVsX25hbWUiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -931,40 +943,40 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEF0dHJpYnV0ZU92ZXJyaWRlKG5hbWUgPSAibmFtZSIsIGNvbHVtbiA9IEBDb2x1bW4obmFtZSA9ICJzdGFmZmluZ19jaGFubmVsX25hbWUiKSkK</text>
+        <text encoding="base64">CiAgICBASnNvblZpZXcoVmlld3MuU2VhcmNoVmlldy5jbGFzcykKICAgIEBFbnVtZXJhdGVkKEVudW1UeXBlLlNUUklORykKICAgIEBDb2x1bW4obmFtZSA9ICJleHRlcm5hbF9yZWxvY2F0aW9uIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIFVQU0EgTkVSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAic3RyaW5nRW51bSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5TZWFyY2hWaWV3LmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBUSVRMRV9NQVhfTEVOR1RIID0gMTUwOwo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJyZXF1aXNpdGlvbl9zdGF0dXMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9jYXRpb25TdXBwb3J0ZWQgPSByZWxvY2F0aW9uU3VwcG9ydGVkOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggZm9yIGlnbm9yZWQgVEEgc3ViIGdyb3VwczogaHR0cHM6Ly9rYi5lcGFtLmNvbS9kaXNwbGF5L0VQTVNUQUYvUmVxdWlzaXRpb25zK0Rhc2hib2FyZCtkZWZhdWx0K2NvbnRlbnQ/cHJldmlldz0vMzU2MTI2NjQ0LzM1OTYxNjY4MC9wZXJtaXNzaW9ucyUyMGZvciUyMHZpZXclMjBmZWVkYmFjayUyQ3NhbGFyeSUyQ2NvbW1lbnQlMjAueGxzeAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRXh0ZXJuYWxSZWxvY2F0aW9uKCkgewogICAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFlFUyA9ICJZZXMiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk8gPSAiTm8iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9UX1NFTEVDVEVEID0gIk5vdCBTZWxlY3RlZCI7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1016,10 +1028,10 @@
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action Annotate</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action HideSideWindows</entry>
+        <entry>action Annotate</entry>
         <entry>action Find</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
