@@ -487,6 +487,13 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/project/PwdEncoder/pom.xml" timestamp="1474566892061">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/Unit.java" timestamp="1473252236364">
         <mark key="[" line="50" column="74" />
         <mark key="]" line="49" column="0" />
@@ -501,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="27" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="103" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="9" column="37" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="54" column="45" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" />
@@ -601,6 +607,7 @@
       <jump line="1648" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
       <jump line="3769" column="32" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="46" column="3" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnwrappedBeanDeserializer.java" />
+      <jump line="11" column="7" filename="$USER_HOME$/project/PwdEncoder/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -649,7 +656,7 @@
         <text encoding="base64">CiAgICBwcm90ZWN0ZWQgT2JqZWN0IGRlc2VyaWFsaXplVW53cmFwcGVkKEpzb25QYXJzZXIgcCwgRGVzZXJpYWxpemF0aW9uQ29udGV4dCBjdHh0LCBPYmplY3QgYmVhbikKICAgICAgICAgICAgdGhyb3dzIElPRXhjZXB0aW9uIHsgCiAgICAgICAgLy8gVE9ETzogbm90IGltcGxlbWVudGVkIHlldC4uLiA6KAogICAgICAgcmV0dXJuIG51bGw7IAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Generate</text>
       </register>
     </registers>
     <search>
@@ -685,7 +692,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist Reformat</entry>
         <entry encoding="base64">bm9yZW1hcCBcPSA6YWN0aW9uIFJlZm9ybWF0Q29kZTxDUj4=</entry>
         <entry encoding="base64">bm9yZW1hcCA9IDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
         <entry>action FindWordAtCaret</entry>
@@ -701,10 +707,11 @@
         <entry>action SurroundWith</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action Find</entry>
-        <entry>action GenerateGetter</entry>
         <entry>action GenerateGetterAndSetter</entry>
-        <entry>action HideSideWindows</entry>
         <entry>W</entry>
+        <entry>action GenerateGetter</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action Generate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
