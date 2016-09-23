@@ -204,6 +204,7 @@
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-core/nm-core-app/src/main/java/com/epam/notifications/listener/JmsQueueListener.java" timestamp="1474621122210" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/AbstractHiringContainerTest.java" timestamp="1474618597617">
         <mark key="[" line="179" column="28" />
         <mark key="]" line="179" column="22" />
@@ -567,10 +568,11 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1474619115972">
-        <mark key="[" line="60" column="46" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1474620228688">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/EnumCreatorTest929.java" timestamp="1473827482211">
         <mark key="[" line="10" column="0" />
@@ -955,7 +957,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -967,37 +969,37 @@
         <text>5000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbig1MDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLlBST0NFU1NFRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbig1MDAwKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2NrIGxvY2sgPSBuZXcgUmVlbnRyYW50TG9jaygpOwogICAgICAgIGZpbmFsIENvbmRpdGlvbiBub3RFbXB0eSA9IGxvY2submV3Q29uZGl0aW9uKCk7CiAgICAgICAgcHJvamVjdGlvblF1ZXVlLmFkZEludGVyY2VwdG9yKG5ldyBDaGFubmVsSW50ZXJjZXB0b3JBZGFwdGVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbihNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgbG9jay5sb2NrKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIG5vdEVtcHR5LnNpZ25hbCgpOwogICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIHdoaWxlKHByb2plY3Rpb25RdWV1ZS5nZXRRdWV1ZVNpemUoKSAhPSAwKSB7CiAgICAgICAgICAgIGxvY2subG9jaygpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbm90RW1wdHkuYXdhaXQoMTAwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKTsKICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIGxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbig1MDAwKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2NrIGxvY2sgPSBuZXcgUmVlbnRyYW50TG9jaygpOwogICAgICAgIGZpbmFsIENvbmRpdGlvbiBub3RFbXB0eSA9IGxvY2submV3Q29uZGl0aW9uKCk7CiAgICAgICAgcHJvamVjdGlvblF1ZXVlLmFkZEludGVyY2VwdG9yKG5ldyBDaGFubmVsSW50ZXJjZXB0b3JBZGFwdGVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbihNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgbG9jay5sb2NrKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIG5vdEVtcHR5LnNpZ25hbCgpOwogICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIHdoaWxlKHByb2plY3Rpb25RdWV1ZS5nZXRRdWV1ZVNpemUoKSAhPSAwKSB7CiAgICAgICAgICAgIGxvY2subG9jaygpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbm90RW1wdHkuYXdhaXQoMTAwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKTsKICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIGxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -1036,8 +1038,6 @@
         <entry>5000</entry>
       </history-search>
       <history-cmd>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
         <entry>mapleader &quot; &quot;</entry>
         <entry>!git log</entry>
         <entry>!git lg</entry>
@@ -1055,6 +1055,8 @@
         <entry>action AceJumpAction</entry>
         <entry>action Find</entry>
         <entry>%s/5000/10000/g</entry>
+        <entry>action Generate</entry>
+        <entry>actionlist UpdateProject</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
