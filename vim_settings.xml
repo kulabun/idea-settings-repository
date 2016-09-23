@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474625679790">
+      <file name="/a.dummy" timestamp="1474632151459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -698,8 +698,8 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
-        <mark key="[" line="225" column="0" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1474632163337">
+        <mark key="[" line="225" column="58" />
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
       </file>
@@ -793,7 +793,9 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" timestamp="1474551502602">
         <mark key="[" line="197" column="18" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" timestamp="1474625714379" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" timestamp="1474632210078">
+        <mark key="[" line="225" column="58" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1474551821662">
         <mark key="[" line="218" column="31" />
         <mark key="]" line="467" column="12" />
@@ -1005,7 +1007,7 @@
         <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1056,11 +1058,11 @@
         <entry>action Annotate</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action Find</entry>
         <entry>%s/5000/10000/g</entry>
         <entry>action Generate</entry>
         <entry>actionlist UpdateProject</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
