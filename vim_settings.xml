@@ -672,11 +672,11 @@
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
-        <mark key="[" line="219" column="45" />
-        <mark key="]" line="225" column="2" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1474620174749">
+        <mark key="[" line="146" column="17" />
+        <mark key="]" line="146" column="18" />
         <mark key="^" line="225" column="2" />
-        <mark key="." line="225" column="2" />
+        <mark key="." line="146" column="18" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
