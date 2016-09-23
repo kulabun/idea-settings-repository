@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474632151459">
+      <file name="/a.dummy" timestamp="1474636247312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -547,6 +547,7 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa2staf/customer/ncr_transform.groovy" timestamp="1474636647358" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -579,6 +580,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/redeploy-1.0.xd" timestamp="1474636182415" />
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="31" />
@@ -1046,7 +1048,6 @@
         <entry>5000</entry>
       </history-search>
       <history-cmd>
-        <entry>mapleader &quot; &quot;</entry>
         <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>action Vcs.UpdateProject</entry>
@@ -1065,6 +1066,7 @@
         <entry>action Generate</entry>
         <entry>actionlist UpdateProject</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
