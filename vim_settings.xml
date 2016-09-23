@@ -117,11 +117,11 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474635191776">
-        <mark key="[" line="255" column="91" />
-        <mark key="]" line="253" column="143" />
-        <mark key="^" line="253" column="59" />
-        <mark key="." line="253" column="99" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474639067822">
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="93" />
+        <mark key="^" line="255" column="0" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
@@ -529,6 +529,7 @@
         <mark key="]" line="92" column="62" />
         <mark key="." line="92" column="62" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1474638812253" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
         <mark key="[" line="57" column="3" />
         <mark key="]" line="58" column="14" />
@@ -762,7 +763,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474624173488">
+      <file name="/Dummy.txt" timestamp="1474639027390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -966,8 +967,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">L2FwaS9iMS9wb3NpdGlvbnM/cGFnZT17cGFnZU51bX0mc2l6ZT17cGFnZVNpemV9JnNvcnQ9e29yZGVyQnl9LHtvcmRlclR5cGV9JnE9Y29udGFpbmVyLmlkPWluPSh7Y29udGFpbmVySWRzfSk7c3RhZmZpbmdDb29yZGluYXRvci5pZCE9bnVsbDtzdGFmZmluZ1N0YXR1cz1pbj0oe2FjdGl2ZVBvc2l0aW9uU3RhdHVzZXN9KQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBlcG1fc3RhZl9ub3RpZmljYXRpb25zLmV2ZW50cyB3aGVyZSBpZCA9ICdhZjg2NzA5Ni0yZDJiLTQ2YzYtYmNkMC0yYTdmZGFkMjhhNzEnOwo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -978,8 +979,8 @@
       <register name="/" type="4">
         <text>5000</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLlBST0NFU1NFRCk7Cg==</text>
+      <register name="0" type="4">
+        <text>epm_staf_notifications.events</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
@@ -1059,14 +1060,14 @@
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Annotate</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>%s/5000/10000/g</entry>
         <entry>action Generate</entry>
         <entry>actionlist UpdateProject</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action Find</entry>
+        <entry>action Annotate</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
