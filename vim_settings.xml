@@ -542,11 +542,10 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1474640672838">
-        <mark key="[" line="310" column="60" />
-        <mark key="]" line="310" column="35" />
-        <mark key="." line="310" column="35" />
-        <mark key="^" line="310" column="35" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1474641775160">
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
         <mark key="[" line="31" column="33" />
@@ -689,11 +688,11 @@
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1474620174749">
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="146" column="18" />
-        <mark key="^" line="225" column="2" />
-        <mark key="." line="146" column="18" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1474641734956">
+        <mark key="[" line="111" column="35" />
+        <mark key="]" line="112" column="20" />
+        <mark key="." line="112" column="20" />
+        <mark key="^" line="112" column="20" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
@@ -771,7 +770,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474641518067">
+      <file name="/Dummy.txt" timestamp="1474641595893">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -976,7 +975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCk7Cg==</text>
+        <text encoding="base64">CiAgICBARGVwcmVjYXRlZAogICAgcHJpdmF0ZSBTZXQ8UG9zaXRpb24+IGdldE9wZW5Qb3NpdGlvbnMoQ29udGFpbmVyIGNvbnRhaW5lcikgewogICAgICAgIExpc3Q8UG9zaXRpb24+IHBvc2l0aW9ucyA9IHBvc2l0aW9uUmVwb3NpdG9yeS5maW5kQnlDb250YWluZXJJZEFuZFN0YWZmaW5nU3RhdHVzSW4oY29udGFpbmVyLmdldElkKCksIEFDVElWRV9QT1NJVElPTl9TVEFUVVNFUyk7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4ocG9zaXRpb25zKTsKICAgIH0K</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -991,34 +990,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXF1ZXN0IHRvIFNEVCBGYWlsZWQ6ICIgKyB1cmwpOwogICAgICAgICAgICB0aHJvdyBlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCk7Cg==</text>
+        <text encoding="base64">CiAgICBARGVwcmVjYXRlZAogICAgcHJpdmF0ZSBTZXQ8UG9zaXRpb24+IGdldE9wZW5Qb3NpdGlvbnMoQ29udGFpbmVyIGNvbnRhaW5lcikgewogICAgICAgIExpc3Q8UG9zaXRpb24+IHBvc2l0aW9ucyA9IHBvc2l0aW9uUmVwb3NpdG9yeS5maW5kQnlDb250YWluZXJJZEFuZFN0YWZmaW5nU3RhdHVzSW4oY29udGFpbmVyLmdldElkKCksIEFDVElWRV9QT1NJVElPTl9TVEFUVVNFUyk7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4ocG9zaXRpb25zKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcGVuUG9zaXRpb25zIiwgZ2V0T3BlblBvc2l0aW9ucyhwcm9qZWN0KSk7IC8vVE9ETzogcmVtb3ZlIHRoaXMgbGluZSBiZWZvcmUgcmVsZWFzZSBuZXh0IE5vdGlmaWNhdGlvbiBtb2R1bGUuLi4gdGVtcG9yYXJ5IHNhdmUgaXQgdG8gc2F2ZSBiYWNrIGNvbXBhdGliaWxpdHkgd2hpbGUgZml4aW5nIG90aGVyIGJ1Z3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEh0dHBDbGllbnRFcnJvckV4Y2VwdGlvbihlLmdldFN0YXR1c0NvZGUoKSwgKTsK</text>
+        <text encoding="base64">CQkJCQkJaW50IG51bWJlck9mUG9zaXRpb25zID0gb3BlblBvc2l0aW9ucy5zaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8Pihwb3NpdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcGVuUG9zaXRpb25zIiwgZ2V0T3BlblBvc2l0aW9ucyhjb250YWluZXIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEh0dHBDbGllbnRFcnJvckV4Y2VwdGlvbihlLmdldFN0YXR1c0NvZGUoKSwgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8Pihwb3NpdGlvbnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcGVuUG9zaXRpb25zIiwgZ2V0T3BlblBvc2l0aW9ucyhjb250YWluZXIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
