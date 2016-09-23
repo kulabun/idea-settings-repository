@@ -9,10 +9,10 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474551239301">
+      <file name="/a.dummy" timestamp="1474624044925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="0" column="80" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/EntityGenerator.java" timestamp="1473069224777">
         <mark key="[" line="5" column="4" />
@@ -117,11 +117,10 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
-        <mark key="[" line="246" column="113" />
-        <mark key="]" line="252" column="143" />
-        <mark key="^" line="252" column="59" />
-        <mark key="." line="252" column="99" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474623926387">
+        <mark key="]" line="253" column="143" />
+        <mark key="^" line="253" column="59" />
+        <mark key="." line="253" column="99" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
@@ -324,9 +323,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/190-service-users.json" timestamp="1473855459456">
-        <mark key="[" line="14" column="179" />
-        <mark key="]" line="14" column="179" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/190-service-users.json" timestamp="1474624076815">
+        <mark key="[" line="15" column="146" />
+        <mark key="]" line="15" column="79" />
         <mark key="^" line="14" column="178" />
         <mark key="." line="14" column="179" />
       </file>
@@ -669,6 +668,7 @@
         <mark key="]" line="38" column="117" />
         <mark key="." line="38" column="117" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474623659141" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="33" column="29" />
@@ -756,10 +756,11 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474556773097">
+      <file name="/Dummy.txt" timestamp="1474624163060">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="40" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
@@ -854,7 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="27" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="37" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="22" column="31" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -954,16 +954,17 @@
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="128" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" />
       <jump line="175" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EPMSTAF-13202 - Add missing fields to Requisition + Fix tests</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>EPMSTAF-13202 - Add missing fields to Requisition + Fix tests</text>
       </register>
       <register name="/" type="4">
         <text>5000</text>
