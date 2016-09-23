@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474624044925">
+      <file name="/a.dummy" timestamp="1474625679790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -793,6 +793,7 @@
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" timestamp="1474551502602">
         <mark key="[" line="197" column="18" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_terminated.sql" timestamp="1474625714379" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/Requisition.java" timestamp="1474551821662">
         <mark key="[" line="218" column="31" />
         <mark key="]" line="467" column="12" />
