@@ -295,6 +295,12 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/app/repository/PositionRepository.java" timestamp="1474640460257">
+        <mark key="[" line="91" column="18" />
+        <mark key="]" line="91" column="7" />
+        <mark key="^" line="91" column="7" />
+        <mark key="." line="91" column="7" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1474551483892">
         <mark key="[" line="38" column="71" />
         <mark key="]" line="38" column="49" />
@@ -536,11 +542,11 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
-        <mark key="[" line="310" column="8" />
-        <mark key="]" line="310" column="105" />
-        <mark key="." line="310" column="8" />
-        <mark key="^" line="310" column="7" />
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1474640672838">
+        <mark key="[" line="310" column="60" />
+        <mark key="]" line="310" column="35" />
+        <mark key="." line="310" column="35" />
+        <mark key="^" line="310" column="35" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
         <mark key="[" line="31" column="33" />
@@ -672,9 +678,11 @@
         <mark key="]" line="38" column="117" />
         <mark key="." line="38" column="117" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474635287654">
-        <mark key="[" line="33" column="52" />
-        <mark key="]" line="33" column="235" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474641490292">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="19" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
@@ -763,7 +771,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474639027390">
+      <file name="/Dummy.txt" timestamp="1474641518067">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -968,46 +976,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlcG1fc3RhZl9ub3RpZmljYXRpb25zLmV2ZW50cyB3aGVyZSBpZCA9ICdhZjg2NzA5Ni0yZDJiLTQ2YzYtYmNkMC0yYTdmZGFkMjhhNzEnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCk7Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EPMSTAF-13202 - Add missing fields to Requisition + Fix tests</text>
+        <text>&quot;Request to SDT Failed: &quot; + url</text>
       </register>
       <register name="/" type="4">
         <text>5000</text>
       </register>
-      <register name="0" type="4">
-        <text>epm_staf_notifications.events</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXF1ZXN0IHRvIFNEVCBGYWlsZWQ6ICIgKyB1cmwpOwogICAgICAgICAgICB0aHJvdyBlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEh0dHBDbGllbnRFcnJvckV4Y2VwdGlvbihlLmdldFN0YXR1c0NvZGUoKSwgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8Pihwb3NpdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcGVuUG9zaXRpb25zIiwgZ2V0T3BlblBvc2l0aW9ucyhjb250YWluZXIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbig1MDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRTZXJ2aWNlLnVwZGF0ZUV2ZW50UHJvY2Vzc2VkU3RhdHVzKGV2ZW50LmdldElkKCksIEV2ZW50UHJvY2Vzc2VkU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2NrIGxvY2sgPSBuZXcgUmVlbnRyYW50TG9jaygpOwogICAgICAgIGZpbmFsIENvbmRpdGlvbiBub3RFbXB0eSA9IGxvY2submV3Q29uZGl0aW9uKCk7CiAgICAgICAgcHJvamVjdGlvblF1ZXVlLmFkZEludGVyY2VwdG9yKG5ldyBDaGFubmVsSW50ZXJjZXB0b3JBZGFwdGVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbihNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgbG9jay5sb2NrKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIG5vdEVtcHR5LnNpZ25hbCgpOwogICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIHdoaWxlKHByb2plY3Rpb25RdWV1ZS5nZXRRdWV1ZVNpemUoKSAhPSAwKSB7CiAgICAgICAgICAgIGxvY2subG9jaygpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbm90RW1wdHkuYXdhaXQoMTAwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKTsKICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIGxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21taXQoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
@@ -1049,7 +1057,6 @@
         <entry>5000</entry>
       </history-search>
       <history-cmd>
-        <entry>!git log</entry>
         <entry>!git lg</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action GotoNextError</entry>
@@ -1066,8 +1073,9 @@
         <entry>action Generate</entry>
         <entry>actionlist UpdateProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
-        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQW5ub3RhdGU=</entry>
         <entry>action Annotate</entry>
+        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
