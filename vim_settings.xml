@@ -117,8 +117,8 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474624654298">
-        <mark key="[" line="255" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474635191776">
+        <mark key="[" line="255" column="91" />
         <mark key="]" line="253" column="143" />
         <mark key="^" line="253" column="59" />
         <mark key="." line="253" column="99" />
@@ -669,7 +669,10 @@
         <mark key="]" line="38" column="117" />
         <mark key="." line="38" column="117" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474623659141" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474635287654">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="235" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="33" column="29" />
@@ -962,7 +965,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EPMSTAF-13202 - Add missing fields to Requisition + Fix tests</text>
+        <text encoding="base64">L2FwaS9iMS9wb3NpdGlvbnM/cGFnZT17cGFnZU51bX0mc2l6ZT17cGFnZVNpemV9JnNvcnQ9e29yZGVyQnl9LHtvcmRlclR5cGV9JnE9Y29udGFpbmVyLmlkPWluPSh7Y29udGFpbmVySWRzfSk7c3RhZmZpbmdDb29yZGluYXRvci5pZCE9bnVsbDtzdGFmZmluZ1N0YXR1cz1pbj0oe2FjdGl2ZVBvc2l0aW9uU3RhdHVzZXN9KQ==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1007,7 +1010,7 @@
         <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1061,8 +1064,8 @@
         <entry>%s/5000/10000/g</entry>
         <entry>action Generate</entry>
         <entry>actionlist UpdateProject</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
