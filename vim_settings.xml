@@ -13,7 +13,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/epam/staf/nm-core-app/1.0.8/nm-core-app-1.0.8-sources.jar!/com/epam/notifications/template/RythmTemplateEngine.java" timestamp="1474883567273" />
-      <file name="/a.dummy" timestamp="1474885315396">
+      <file name="/a.dummy" timestamp="1474894374511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -504,6 +504,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-comment/src/main/java/com/epam/staf/comment/plugin/CommentValidationPluginImpl.java" timestamp="1474894362415" />
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -763,6 +764,7 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/resources/comment-messages.properties" timestamp="1474894351615" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1474884376553">
         <mark key="[" line="253" column="98" />
         <mark key="]" line="314" column="0" />
