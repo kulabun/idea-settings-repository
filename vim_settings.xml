@@ -295,6 +295,10 @@
         <mark key="^" line="502" column="7" />
         <mark key="." line="270" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/test/util/HiringContainerRandomEntityHelper.java" timestamp="1474966416197">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="12" column="0" />
@@ -351,6 +355,9 @@
         <mark key="]" line="4632" column="15" />
         <mark key="." line="4632" column="15" />
         <mark key="^" line="4632" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupRandomEntityGenerator.java" timestamp="1474966323962">
+        <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profile-test.yml" timestamp="1473693138813">
         <mark key="[" line="1" column="0" />
@@ -486,6 +493,12 @@
         <mark key="[" line="23" column="5" />
         <mark key="]" line="19" column="20" />
         <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupRandomEntityHelper.java" timestamp="1474966419284">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionConstants.java" timestamp="1473164287593">
         <mark key="[" line="4" column="27" />
@@ -657,10 +670,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupMembershipGenerator.java" timestamp="1474965864709">
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupMembershipGenerator.java" timestamp="1474966659645">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1474123009025">
         <mark key="[" line="97" column="24" />
@@ -807,11 +821,6 @@
         <mark key="]" line="20" column="61" />
         <mark key="^" line="24" column="3" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_274__add_requisition_vacancy.sql" timestamp="1474897112928">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/PositionNotificationHandlers.java" timestamp="1474884376553">
         <mark key="[" line="253" column="98" />
@@ -1055,49 +1064,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result = getDomainClass().newInstance();</text>
+        <text>;</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>result = getDomainClass().newInstance();</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;_class&quot;:&quot;com.epam.staf.populator.PopulatorMeta&quot;},</text>
+      <register name="0" type="2">
+        <text encoding="base64">QENvbXBvbmVudApARGVwZW5kc09uKCJlbnRpdHlNYW5hZ2VyRmFjdG9yeSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcGFtLnN0YWYuZGF0YS54LlJvbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kb21FbnRpdHlIZWxwZXIucmFuZG9tRW50aXR5KEdyb3VwLmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFNpbXBsZUVudGl0eSBzYXZlVmFjYW5jeShTdHJpbmcgcykgewogICAgICAgIAogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBHcm91cFJlcG9zaXRvcnkgZ3JvdXBSZXBvc2l0b3J5OwogICAgCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENhY2hlKHVzYWdlID0gQ2FjaGVDb25jdXJyZW5jeVN0cmF0ZWd5Lk5PTlNUUklDVF9SRUFEX1dSSVRFKQo=</text>
+        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENhY2hlYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIEVudGl0eU1hbmFnZXIgZ2V0RW50aXR5TWFuYWdlcigpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBlbmFibGVkOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcGFtLnN0YWYuZGF0YS54LlJvbGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFNpbXBsZUVudGl0eSBzYXZlVmFjYW5jeShTdHJpbmcgcykgewogICAgICAgIAogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -1154,8 +1163,8 @@
         <entry>action Find</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action GoToAction</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
