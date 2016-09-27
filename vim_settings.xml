@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474972640767">
+      <file name="/a.dummy" timestamp="1474973975689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -140,11 +140,11 @@
         <mark key="." line="37" column="112" />
         <mark key="^" line="37" column="111" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupRepository.java" timestamp="1474020024938">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="113" />
-        <mark key="^" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupRepository.java" timestamp="1474973802398">
+        <mark key="[" line="38" column="96" />
+        <mark key="]" line="37" column="113" />
+        <mark key="^" line="37" column="49" />
+        <mark key="." line="37" column="49" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/application.yml" timestamp="1474360483931">
         <mark key="[" line="42" column="0" />
@@ -331,9 +331,8 @@
         <mark key="^" line="38" column="49" />
         <mark key="." line="38" column="49" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/test/util/generator/DataSetSaver.java" timestamp="1474972271217">
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/test/util/generator/DataSetSaver.java" timestamp="1474973616944">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="19" column="11" />
         <mark key="]" line="9" column="33" />
         <mark key="^" line="40" column="3" />
         <mark key="." line="9" column="33" />
@@ -439,13 +438,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474896618072">
-        <mark key="'" line="439" column="107" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="439" column="107" />
-        <mark key="^" line="439" column="107" />
-        <mark key="." line="439" column="107" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1474020230176">
         <mark key="[" line="55" column="4" />
@@ -580,11 +572,11 @@
         <mark key="]" line="92" column="62" />
         <mark key="." line="92" column="62" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupDataSetSaverImpl.java" timestamp="1474972716223">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupDataSetSaverImpl.java" timestamp="1474974115104">
+        <mark key="[" line="35" column="101" />
+        <mark key="]" line="35" column="98" />
+        <mark key="^" line="35" column="98" />
+        <mark key="." line="35" column="98" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/AbstractFtsSimpleEntityController.java" timestamp="1473935433646">
         <mark key="[" line="57" column="3" />
@@ -833,35 +825,15 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474901133292">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="47" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
         <mark key="[" line="225" column="7" />
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1474886848801">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="107" column="56" />
-        <mark key="]" line="105" column="27" />
-        <mark key="." line="105" column="27" />
-        <mark key="^" line="105" column="27" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1474463946992">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/dataSet/801-hiringcontainer-dev.json" timestamp="1474901385602">
-        <mark key="'" line="12357" column="20" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupDataSetSaver.java" timestamp="1474968733680">
         <mark key="[" line="2" column="30" />
@@ -937,7 +909,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474965816624">
+      <file name="/fragment.java" timestamp="1474973479715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -1105,7 +1077,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1154,13 +1126,13 @@
         <entry>action Annotate</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
-        <entry>action Find</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action AceJumpAction</entry>
         <entry>action NextSplitter</entry>
         <entry>action GoToAction</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
