@@ -699,10 +699,10 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474900667267">
-        <mark key="[" line="40" column="138" />
-        <mark key="]" line="40" column="186" />
-        <mark key="." line="40" column="138" />
+      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474963793764">
+        <mark key="[" line="36" column="85" />
+        <mark key="]" line="36" column="125" />
+        <mark key="." line="36" column="85" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/VacancyRepository.java" timestamp="1474897308915">
         <mark key="[" line="6" column="78" />
@@ -1091,7 +1091,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1144,9 +1144,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
