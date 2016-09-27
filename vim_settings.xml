@@ -289,7 +289,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1474897332723">
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" timestamp="1474965791276">
         <mark key="[" line="244" column="37" />
         <mark key="]" line="270" column="0" />
         <mark key="^" line="502" column="7" />
@@ -456,6 +456,10 @@
         <mark key="]" line="6" column="106" />
         <mark key="^" line="6" column="106" />
         <mark key="." line="6" column="106" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupGenerator.java" timestamp="1474965858514">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_152__requisition_fields.sql" timestamp="1474897013411">
         <mark key="[" line="16" column="0" />
@@ -652,6 +656,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupMembershipGenerator.java" timestamp="1474965864709">
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1474123009025">
         <mark key="[" line="97" column="24" />
@@ -923,7 +932,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474901133287">
+      <file name="/fragment.java" timestamp="1474965816624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -943,7 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="11" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" />
       <jump line="16" column="20" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/data/GroupCategory.java" />
       <jump line="10" column="34" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupCategoryRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/repository/support/ElasticsearchQueryHelper.java" />
@@ -1043,6 +1051,7 @@
       <jump line="557" column="0" filename="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/StaffingRepositoryImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/StaffingRepositoryImpl.java" />
       <jump line="559" column="0" filename="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/StaffingRepositoryImpl.java" />
+      <jump line="2" column="18" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1127,7 +1136,6 @@
         <entry encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\n//g</entry>
         <entry>%s/\s\+/ /g</entry>
         <entry>%s/\s\+//g</entry>
         <entry encoding="base64">JXMvPG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPi97Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuaGlyaW5nY29udGFpbmVyLmRhdGEuVmFjYW5jeSIsXCJpZFwiOlwiXDFcIixcIm5hbWVcIjpcIlwyXCJ9LC9n</entry>
@@ -1147,6 +1155,7 @@
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action GoToAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
