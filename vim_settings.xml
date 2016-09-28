@@ -3,10 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475061364533">
+      <file name="/a.dummy" timestamp="1475063270807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475054845893">
+        <mark key="'" line="4" column="119" />
+        <mark key="[" line="370" column="177" />
+        <mark key="]" line="4" column="142" />
+        <mark key="." line="370" column="177" />
+        <mark key="^" line="371" column="175" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1474533549412">
         <mark key="[" line="30" column="0" />
@@ -107,9 +114,9 @@
         <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1475060951453">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringControllerFtsTest.java" timestamp="1473072410830">
         <mark key="[" line="79" column="41" />
@@ -424,10 +431,10 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupMembershipGenerator.java" timestamp="1475059145624">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupMembershipGenerator.java" timestamp="1475063875369">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/project/json-generator/src/main/java/com/epam/data/Group.java" timestamp="1475056747201">
         <mark key="[" line="0" column="17" />
@@ -539,6 +546,13 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
+      <file name="/Dummy.txt" timestamp="1475063852222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1474463946992">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -592,7 +606,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475061672099">
+      <file name="/fragment.java" timestamp="1475062987969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -660,6 +674,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/config/StafTestConfiguration.java" timestamp="1475062767152">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/project/json-generator/src/main/java/com/epam/data/GroupPermission.java" timestamp="1475056753201">
         <mark key="[" line="0" column="16" />
@@ -890,6 +910,13 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="18" column="93" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/dictionaryPopulator/101-bpmAuthorityHiringContainer.json" timestamp="1475052307478">
+        <mark key="'" line="4" column="123" />
+        <mark key="[" line="4" column="124" />
+        <mark key="]" line="4" column="123" />
+        <mark key="^" line="4" column="123" />
+        <mark key="." line="4" column="123" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/HiringApproverToFtsSimpleEntityTransformer.java" timestamp="1473933198410">
         <mark key="[" line="13" column="0" />
@@ -1401,7 +1428,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Vcs.UpdateProjeect</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action NextSplitter</entry>
         <entry>action GoToAction</entry>
         <entry>actionlist GoToAction</entry>
@@ -1411,6 +1437,7 @@
         <entry>action AceJumpAction</entry>
         <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
         <entry>action Find</entry>
+        <entry>action Vcs.UpdateProject</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
