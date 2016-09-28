@@ -597,6 +597,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-gateway/src/main/java/com/epam/notifications/gateway/DefaultGateway.java" timestamp="1475070443625">
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="67" />
+      </file>
       <file name="/fragment.java" timestamp="1475062987969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -678,11 +682,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1474877750474">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="255" column="56" />
-        <mark key="^" line="255" column="55" />
-        <mark key="." line="255" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1475072897909">
+        <mark key="[" line="264" column="71" />
+        <mark key="]" line="264" column="100" />
+        <mark key="^" line="262" column="100" />
+        <mark key="." line="264" column="100" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
@@ -746,9 +750,9 @@
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-core/nm-core-app/src/main/java/com/epam/notifications/listener/JmsQueueListener.java" timestamp="1474875409804">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="56" />
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-core/nm-core-app/src/main/java/com/epam/notifications/listener/JmsQueueListener.java" timestamp="1475072527520">
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="66" />
         <mark key="." line="49" column="56" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/AbstractHiringContainerTest.java" timestamp="1474618597617">
@@ -1322,19 +1326,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fix possible conflict on dataset generation</text>
+        <text>;</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fix possible conflict on dataset generation</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFByb2ZpbGUoImRhdGFnZW5lcmF0b3IiKQo=</text>
+      <register name="0" type="4">
+        <text>received, trying to deserialize.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
