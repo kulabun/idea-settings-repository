@@ -12,12 +12,12 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
-      <mask>*.json</mask>
-      <mask>*.java</mask>
       <mask>*.yml</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
+      <mask>*.json</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

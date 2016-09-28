@@ -15,7 +15,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1474974999264">
+      <file name="/a.dummy" timestamp="1475052323780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -25,6 +25,13 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475052219093">
+        <mark key="'" line="4" column="119" />
+        <mark key="[" line="4" column="119" />
+        <mark key="]" line="4" column="142" />
+        <mark key="." line="371" column="175" />
+        <mark key="^" line="371" column="175" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1474533549412">
         <mark key="[" line="30" column="0" />
@@ -289,10 +296,6 @@
         <mark key="^" line="502" column="7" />
         <mark key="." line="270" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/test/util/HiringContainerRandomEntityHelper.java" timestamp="1474966416197">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="33" />
-      </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="12" column="0" />
@@ -338,6 +341,7 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/db/migration/V1_0_225__sync_groups_and_permissions.sql" timestamp="1475051472682" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
@@ -355,9 +359,6 @@
         <mark key="]" line="4632" column="15" />
         <mark key="." line="4632" column="15" />
         <mark key="^" line="4632" column="15" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupRandomEntityGenerator.java" timestamp="1474966323962">
-        <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/config/profile-test.yml" timestamp="1473693138813">
         <mark key="[" line="1" column="0" />
@@ -530,6 +531,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/110-group-template-permission.json" timestamp="1475052250312">
+        <mark key="'" line="11" column="167" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/ReasonForOpeningRepository.java" timestamp="1473074775170">
         <mark key="[" line="6" column="102" />
         <mark key="]" line="6" column="103" />
@@ -651,6 +655,13 @@
         <mark key="]" line="18" column="93" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/dictionaryPopulator/101-bpmAuthorityHiringContainer.json" timestamp="1475052307478">
+        <mark key="'" line="4" column="123" />
+        <mark key="[" line="4" column="124" />
+        <mark key="]" line="4" column="123" />
+        <mark key="^" line="4" column="123" />
+        <mark key="." line="4" column="123" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/HiringApproverToFtsSimpleEntityTransformer.java" timestamp="1473933198410">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -684,11 +695,11 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1474878619927">
-        <mark key="[" line="122" column="82" />
-        <mark key="]" line="100" column="1" />
-        <mark key="^" line="107" column="5" />
-        <mark key="." line="107" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475051478712">
+        <mark key="[" line="14" column="83" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="13" column="87" />
+        <mark key="." line="14" column="65" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/InternalEmployee.java" timestamp="1474549283205">
         <mark key="[" line="7" column="0" />
@@ -725,9 +736,6 @@
         <mark key="]" line="34" column="198" />
         <mark key="." line="34" column="198" />
         <mark key="^" line="34" column="198" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/populator/PopulatorMeta.java" timestamp="1474970352893">
-        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
@@ -856,12 +864,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupDataSetSaver.java" timestamp="1474968733680">
-        <mark key="[" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1474975752169">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="30" />
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475049896756">
+        <mark key="[" line="795" column="19" />
+        <mark key="]" line="795" column="35" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473906383271">
         <mark key="[" line="94" column="71" />
@@ -954,9 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="34" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/repository/GroupCategoryRepository.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-fts/src/main/java/com/epam/staf/fts/repository/support/ElasticsearchQueryHelper.java" />
-      <jump line="23" column="93" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/es/RequisitionFtsRepository.java" />
       <jump line="20" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/es/RequisitionFtsRepository.java" />
       <jump line="24" column="57" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" />
@@ -1054,6 +1056,9 @@
       <jump line="559" column="0" filename="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/StaffingRepositoryImpl.java" />
       <jump line="2" column="18" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/test/util/GroupGenerator.java" />
       <jump line="17" column="34" filename="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/test/util/generator/DataSetSaver.java" />
+      <jump line="4" column="119" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" />
+      <jump line="11" column="167" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/110-group-template-permission.json" />
+      <jump line="4" column="123" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/resources/dictionaryPopulator/101-bpmAuthorityHiringContainer.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1249,66 +1254,65 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</text>
+        <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGVjX3Vwc2FfdmFjYW5jeSAoCg==</text>
+      <register name="0" type="4">
+        <text>HIRING-CONTAINER_BPM_ACCESS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YS5wb3B1bGF0b3IubG9jYXRpb25zOiBjbGFzc3BhdGgqOmRpY3Rpb25hcnlQb3B1bGF0b3IvKi5qc29uLGNsYXNzcGF0aCo6ZGF0YVBvcHVsYXRvci8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkaWN0aW9uYXJ5UG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24K</text>
+        <text encoding="base64">ICB7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5UZW1wbGF0ZVBlcm1pc3Npb24iLCJpZCI6IjdkMzBhYThmLWI1NmItNDE1MC1hMGZiLTkyZGI0ODI3MjMxMSIsInRlbXBsYXRlSWQiOiJGVUxMX0JQTV9BQ0NFU1NfVEVNUExBVEUiLCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9TVUJNSVQtSElSSU5HLUNPTlRBSU5FUiJ9LCJpdGVtcyI6W119LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9maWxlcy5pbmNsdWRlOiBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICB7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5UZW1wbGF0ZVBlcm1pc3Npb24iLCJpZCI6Ijk4ZGUyMjU5LTgzZTgtNDFhZC1iYjNmLWE4MWFkOThmNzY0NiIsInRlbXBsYXRlSWQiOiJGVUxMX0JQTV9BQ0NFU1NfVEVNUExBVEUiLCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9OT1QtQVBQUk9WRS1ISVJJTkctQ09OVEFJTkVSIn0sIml0ZW1zIjpbXX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5UZW1wbGF0ZVBlcm1pc3Npb24iLCJpZCI6IjM0NTViZjI3LWEzYmQtNGUxZi05MmM1LWJmZGVmNWE2NzFiMCIsInRlbXBsYXRlSWQiOiJGVUxMX0JQTV9BQ0NFU1NfVEVNUExBVEUiLCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9BUFBST1ZFLUhJUklORy1DT05UQUlORVIifSwiaXRlbXMiOltdfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YS5wb3B1bGF0b3IubG9jYXRpb25zOiBjbGFzc3BhdGgqOmRpY3Rpb25hcnlQb3B1bGF0b3IvKi5qc29uLGNsYXNzcGF0aCo6ZGF0YVBvcHVsYXRvci8qLmpzb24sY2xhc3NwYXRoKjpkYXRhUG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24sY2xhc3NwYXRoKjpkaWN0aW9uYXJ5UG9wdWxhdG9yL2FwcGxpY2FudC8qLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9maWxlcy5pbmNsdWRlOiBkZWZhdWx0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBJdGVyYWJsZTxHcm91cD4gZ2VuZXJhdGVEYXRhU2V0KCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</last-search>
+      <last-search>FULL_BPM_ACCESS_TEMPLATE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</last-pattern>
-      <last-replace>{&quot;_class&quot;:&quot;com.epam.staf.hiringcontainer.data.Vacancy&quot;,\&quot;id\&quot;:\&quot;\1\&quot;,\&quot;name\&quot;:\&quot;\2\&quot;},</last-replace>
-      <last-substitute encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</last-substitute>
+      <last-pattern>FULL_BPM_ACCESS_TEMPLATE</last-pattern>
+      <last-replace>COMMON_BPM_ACCESS</last-replace>
+      <last-substitute>FULL_BPM_ACCESS_TEMPLATE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>([-0-9]*)</entry>
         <entry>\([-0-9]*\)</entry>
         <entry>.*\([-0-9]*\)</entry>
         <entry>\(\[-0-9\]*\)</entry>
@@ -1328,12 +1332,9 @@
         <entry>\n</entry>
         <entry>\s\+</entry>
         <entry encoding="base64">PG9wdGlvbiB2YWx1ZT1cIlwoWzAtOV1cK1wpXCI+XCguKlwpPFwvb3B0aW9uPg==</entry>
+        <entry>FULL_BPM_ACCESS_TEMPLATE</entry>
       </history-search>
       <history-cmd>
-        <entry>syntax json</entry>
-        <entry>set syntax json</entry>
-        <entry>w</entry>
-        <entry>actionlist override</entry>
         <entry>actionlist Actions</entry>
         <entry>actionlist SearchA</entry>
         <entry>actionlist FindA</entry>
@@ -1344,12 +1345,16 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Find</entry>
         <entry>action GoToAction</entry>
         <entry>actionlist GoToAction</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoAction</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
