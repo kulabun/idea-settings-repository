@@ -26,7 +26,7 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475052219093">
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475053058593">
         <mark key="'" line="4" column="119" />
         <mark key="[" line="4" column="119" />
         <mark key="]" line="4" column="142" />
@@ -695,8 +695,8 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475051478712">
-        <mark key="[" line="14" column="83" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475053082662">
+        <mark key="[" line="13" column="16" />
         <mark key="]" line="14" column="65" />
         <mark key="^" line="13" column="87" />
         <mark key="." line="14" column="65" />
@@ -1299,7 +1299,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1353,8 +1353,8 @@
         <entry>action GotoAction</entry>
         <entry>action AceJumpAction</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
