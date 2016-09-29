@@ -689,11 +689,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1475072897909">
-        <mark key="[" line="264" column="71" />
-        <mark key="]" line="264" column="100" />
-        <mark key="^" line="262" column="100" />
-        <mark key="." line="264" column="100" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1475076518745">
+        <mark key="[" line="262" column="51" />
+        <mark key="]" line="264" column="82" />
+        <mark key="^" line="264" column="82" />
+        <mark key="." line="264" column="82" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
