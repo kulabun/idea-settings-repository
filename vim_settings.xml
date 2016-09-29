@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475144555466">
+      <file name="/a.dummy" timestamp="1475147255268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="80" />
@@ -164,11 +164,6 @@
         <mark key="]" line="270" column="0" />
         <mark key="^" line="502" column="7" />
         <mark key="." line="270" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/data/Group.java" timestamp="1475056414331">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/project/jsonDiffFinder/pom.xml" timestamp="1473351037337">
         <mark key="[" line="14" column="60" />
@@ -486,10 +481,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/populator/CustomResourceReaderRepositoryPopulator.java" timestamp="1475145240356">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/populator/CustomResourceReaderRepositoryPopulator.java" timestamp="1475147608475">
+        <mark key="[" line="290" column="79" />
+        <mark key="]" line="290" column="80" />
+        <mark key="." line="290" column="0" />
+        <mark key="^" line="290" column="12" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474880232444">
         <mark key="[" line="34" column="191" />
@@ -625,12 +621,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-gateway/src/main/java/com/epam/notifications/gateway/DefaultGateway.java" timestamp="1475073640357">
-        <mark key="'" line="86" column="23" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="67" />
-      </file>
-      <file name="/fragment.java" timestamp="1475062987969">
+      <file name="/fragment.java" timestamp="1475146169880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -747,15 +738,14 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/java/com/epam/staf/security/data/AbstractGroup.java" timestamp="1475056506248">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_259__add_manager_to_unit.sql" timestamp="1473258500645">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.0.RELEASE/spring-data-commons-1.11.0.RELEASE-sources.jar!/org/springframework/data/repository/support/DefaultRepositoryInvokerFactory.java" timestamp="1475146656808">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="98" column="96" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1472813477959">
         <mark key="[" line="74" column="39" />
@@ -993,6 +983,7 @@
         <mark key="." line="112" column="20" />
         <mark key="^" line="112" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.0.RELEASE/spring-data-commons-1.11.0.RELEASE-sources.jar!/org/springframework/data/repository/support/ReflectionRepositoryInvoker.java" timestamp="1475146813851" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
         <mark key="]" line="6" column="124" />
@@ -1375,50 +1366,50 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2Qgc2F2ZUVudGl0eU1ldGhvZCA9IE1ldGhvZFV0aWxzLmdldEFjY2Vzc2libGVNZXRob2QoQ3Fyc1JlcG9zaXRvcnkuY2xhc3MsICJzYXZlRW50aXR5IiwgT2JqZWN0LmNsYXNzKTsKICAgICAgICBNdWx0aVZhbHVlTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7CiAgICAgICAgbWFwLnB1dCgiZW50aXR5IiwgQXJyYXlzLmFzTGlzdChleGlzdGluZ0VudGl0eSkpOwogICAgICAgIGlmKGludm9rZXIuKQogICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gUmVmbGVjdGlvblV0aWxzLmZpbmRNZXRob2QoQ3Fyc1JlcG9zaXRvcnkuY2xhc3MsICJzYXZlRW50aXR5IiwgT2JqZWN0LmNsYXNzKTs=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">ID0gUmVmbGVjdGlvblV0aWxzLmZpbmRNZXRob2QoQ3Fyc1JlcG9zaXRvcnkuY2xhc3MsICJzYXZlRW50aXR5IiwgT2JqZWN0LmNsYXNzKTs=</text>
       </register>
       <register name="/" type="4">
         <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3J1ZFJlcG9zaXRvcnkuc2F2ZShvYmplY3QpOwo=</text>
+        <text encoding="base64">CQlPYmplY3QgcmVwb3NpdG9yeSA9IHJlcG9zaXRvcmllcy5nZXRSZXBvc2l0b3J5Rm9yKGRvbWFpblR5cGUpOwoJCUFzc2VydC5ub3ROdWxsKHJlcG9zaXRvcnksIFN0cmluZy5mb3JtYXQoIk5vIHJlcG9zaXRvcnkgZm91bmQgZm9yIGRvbWFpbiB0eXBlOiAlcyIsIGRvbWFpblR5cGUpKTsKCQlSZXBvc2l0b3J5SW5mb3JtYXRpb24gaW5mb3JtYXRpb24gPSByZXBvc2l0b3JpZXMuZ2V0UmVwb3NpdG9yeUluZm9ybWF0aW9uRm9yKGRvbWFpblR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2Qgc2F2ZUVudGl0eU1ldGhvZCA9IE1ldGhvZFV0aWxzLmdldEFjY2Vzc2libGVNZXRob2QoQ3Fyc1JlcG9zaXRvcnkuY2xhc3MsICJzYXZlRW50aXR5IiwgT2JqZWN0LmNsYXNzKTsKICAgICAgICBNdWx0aVZhbHVlTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7CiAgICAgICAgbWFwLnB1dCgiZW50aXR5IiwgQXJyYXlzLmFzTGlzdChleGlzdGluZ0VudGl0eSkpOwogICAgICAgIGlmKGludm9rZXIuKQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGludm9rZXIuaW52b2tlU2F2ZShvYmplY3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1ldGhvZCBtZXRob2QgPSBNZXRob2RVdGlscy5nZXRBY2Nlc3NpYmxlTWV0aG9kKENxcnNSZXBvc2l0b3J5LmNsYXNzLCAic2F2ZUVudGl0eSIsIG9iamVjdC5nZXRDbGFzcygpKTsKICAgICAgICAgICAgICAgIGlmKG1ldGhvZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSA8VD4gVCBpbnZva2UoTWV0aG9kIG1ldGhvZCwgT2JqZWN0Li4uIGFyZ3VtZW50cykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXRob2Qgc2F2ZUVudGl0eSA9IENxcnNSZXBvc2l0b3J5LmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJzYXZlRW50aXR5IiwgKENsYXNzPFQ+KSBvYmplY3QuZ2V0Q2xhc3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNTYXZlTWV0aG9kKCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNEZWxldGVNZXRob2QoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBib29sZWFuIGhhc0ZpbmRPbmVNZXRob2QoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBib29sZWFuIGhhc0ZpbmRBbGxNZXRob2QoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyA8VD4gVCBpbnZva2VTYXZlKFQgb2JqZWN0KSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxUPiBUIGludm9rZUZpbmRPbmUoU2VyaWFsaXphYmxlIGlkKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIEl0ZXJhYmxlPE9iamVjdD4gaW52b2tlRmluZEFsbChQYWdlYWJsZSBwYWdlYWJsZSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBJdGVyYWJsZTxPYmplY3Q+IGludm9rZUZpbmRBbGwoU29ydCBzb3J0KSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgaW52b2tlRGVsZXRlKFNlcmlhbGl6YWJsZSBpZCkgewoKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBPYmplY3QgaW52b2tlUXVlcnlNZXRob2QoTWV0aG9kIG1ldGhvZCwgTWFwPFN0cmluZywgU3RyaW5nW10+IHBhcmFtZXRlcnMsIFBhZ2VhYmxlIHBhZ2VhYmxlLCBTb3J0IHNvcnQpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT2JqZWN0IGludm9rZVF1ZXJ5TWV0aG9kKE1ldGhvZCBtZXRob2QsIE11bHRpVmFsdWVNYXA8U3RyaW5nLCA/IGV4dGVuZHMgT2JqZWN0PiBwYXJhbWV0ZXJzLCBQYWdlYWJsZSBwYWdlYWJsZSwgU29ydCBzb3J0KSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChleGlzdGluZ0VudGl0eSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKG9iamVjdCwgZXhpc3RpbmdFbnRpdHksICJ2ZXJzaW9uIiwgImF1ZGl0IiwgImF1ZGl0SW5mbyIsICJyZXZpc2lvbiIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBpbnZva2VyLmludm9rZVNhdmUoZXhpc3RpbmdFbnRpdHkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaW52b2tlci5pbnZva2VTYXZlKG9iamVjdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXBvc2l0b3J5SW52b2tlckZhY3RvcnkgaW52b2tlckZhY3RvcnkgPSBuZXcgRGVmYXVsdFJlcG9zaXRvcnlJbnZva2VyRmFjdG9yeShyZXBvc2l0b3JpZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52b2tlci5pbnZva2VRdWVyeU1ldGhvZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2tlckZhY3RvcnkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -1457,10 +1448,8 @@
         <entry>FULL_BPM_ACCESS_TEMPLATE</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist FindA</entry>
         <entry>action GoToAc</entry>
         <entry>actionlist GoToAc</entry>
-        <entry>action Annotate</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Vcs.UpdateProjeect</entry>
@@ -1470,12 +1459,14 @@
         <entry>action RecentFiles</entry>
         <entry>action AceJumpAction</entry>
         <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
-        <entry>action GotoAction</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action Find</entry>
+        <entry>action Annotate</entry>
+        <entry>action OverrideMethods</entry>
+        <entry>action GotoAction</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
