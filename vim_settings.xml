@@ -15,6 +15,9 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91aa1749-15e9-4ec6-a476-d6c8ccabddc9/console.sql" timestamp="1475132308577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1475063270807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -122,11 +125,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java" timestamp="1475129980150">
-        <mark key="[" line="34" column="111" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java" timestamp="1475130774443">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/fts/UnitToFtsSimpleEntityTransformer.java" timestamp="1474025800978">
         <mark key="[" line="27" column="35" />
@@ -765,8 +768,8 @@
         <mark key="^" line="245" column="3" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475058873542">
-        <mark key="[" line="16" column="90" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475131202129">
+        <mark key="[" line="20" column="0" />
         <mark key="]" line="14" column="65" />
         <mark key="^" line="13" column="87" />
         <mark key="." line="14" column="65" />
@@ -932,7 +935,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475064682160">
+      <file name="/Dummy.txt" timestamp="1475132373437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -951,6 +954,9 @@
         <mark key="[" line="94" column="71" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57b02fec-4487-4de9-b0b3-f88bbcdfc26c/console.sql" timestamp="1475131819886">
+        <mark key="[" line="42" column="52" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringApproverRepository.java" timestamp="1473344535202">
         <mark key="[" line="12" column="0" />
@@ -1342,7 +1348,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhdHRlcm4gR0VUX0FQSV9JRF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKEdFVF9BUElfSURfUkVHRVgpOwo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIFVSTEhhbmRsZXIgewogICAgdm9pZCBoYW5kbGUoKTsKICAgIGJvb2xlYW4gaXNTdXBwb3J0ZWQoU3RyaW5nIHVybCk7Cn0KCmNsYXNzIEdldEFsbEFwaXNTdG9yZUhhbmRsZXIgaW1wbGVtZW50cyBVUkxIYW5kbGVyewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgUGF0dGVybiBHRVRfQUxMX0FQSV9TVE9SRV9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKEdFVF9BTExfQVBJU19TVE9SRV9SRUdFWCk7CiAgICAKICAgIHB1YmxpYyBib29sZWFuIGlzU3VwcG9ydGVkKFN0cmluZyB1cmwpIHsKICAgICAgICByZXR1cm4gR0VUX0FMTF9BUElfU1RPUkVfUEFUVEVSTi5tYXRjaGVyKHVybCkubWF0Y2hlcygpOwogICAgfQogICAgCiAgICBwdWJsaWMgdm9pZCBoYW5kbGUoLi4uKSB7CiAgICAgICAgLi4uCiAgICB9Cn0KCmNsYXNzIEdldEFwaUlkSGFuZGxlciBpbXBsZW1lbnRzIFVSTEhhbmRsZXJ7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQYXR0ZXJuIEdFVF9BUElfSURfUkVHRVggPSBQYXR0ZXJuLmNvbXBpbGUoR0VUX0FQSV9JRF9SRUdFWCk7CgogICAgcHVibGljIGJvb2xlYW4gaXNTdXBwb3J0ZWQoU3RyaW5nIHVybCkgewogICAgICAgIHJldHVybiBHRVRfQVBJX0lEX1BBVFRFUk4ubWF0Y2hlcih1cmwpLm1hdGNoZXMoKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBoYW5kbGUoLi4uKSB7CiAgICAgICAgLi4uCiAgICB9Cn0KCmNsYXNzIEdldEFwaUlkSGFuZGxlciBpbXBsZW1lbnRzIFVSTEhhbmRsZXJ7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQYXR0ZXJuIEdFVF9TV0FHR0VSX0ZPUkFQSV9JRF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKEdFVF9TV0FHR0VSX0ZPUl9BUElfSURfUkVHRVgpOwoKICAgIHB1YmxpYyBib29sZWFuIGlzU3VwcG9ydGVkKFN0cmluZyB1cmwpIHsKICAgICAgICByZXR1cm4gR0VUX1NXQUdHRVJfRk9SQVBJX0lEX1BBVFRFUk4ubWF0Y2hlcih1cmwpLm1hdGNoZXMoKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBoYW5kbGUoLi4uKSB7CiAgICAgICAgLi4uCiAgICB9Cn0KCmNsYXNzIE1haW4gewogICAgcHJpdmF0ZSBMaXN0PFVSTEhhbmRsZXI+IHVybEhhbmRsZXJzOwogICAgCiAgICBwdWJsaWMgdm9pZCBtZXRob2QoKXsKICAgICAgICAuLi4KICAgICAgICBmb3IgKFVSTEhhbmRsZXIgaGFuZGxlciA6IHVybEhhbmRsZXJzKSB7CiAgICAgICAgICAgIGlmKGhhbmRsZXIuaXNTdXBwb3J0ZWQodXJsKSkgewogICAgICAgICAgICAgICBoYW5kbGVyLmhhbmRsZShhcmcxLCBhcmcyLCBhcmczLCAuLi4pOyAKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAuLi4KICAgIH0KfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1354,9 +1360,33 @@
         <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhdHRlcm4gR0VUX0FQSV9JRF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKEdFVF9BUElfSURfUkVHRVgpOwo=</text>
+        <text encoding="base64">Y2xhc3MgR2V0QXBpSWRIYW5kbGVyIGltcGxlbWVudHMgVVJMSGFuZGxlcnsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX0FQSV9JRF9SRUdFWCA9IFBhdHRlcm4uY29tcGlsZShHRVRfQVBJX0lEX1JFR0VYKTsKCiAgICBwdWJsaWMgYm9vbGVhbiBpc1N1cHBvcnRlZChTdHJpbmcgdXJsKSB7CiAgICAgICAgcmV0dXJuIEdFVF9BUElfSURfUEFUVEVSTi5tYXRjaGVyKHVybCkubWF0Y2hlcygpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGhhbmRsZSguLi4pIHsKICAgICAgICAuLi4KICAgIH0KfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX0FQSV9JRF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKEdFVF9BUElfSURfUkVHRVgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX0FQSV9JRF9SRUdFWCA9IFBhdHRlcm4uY29tcGlsZShHRVRfQVBJX0lEX1JFR0VYKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX1NXQUdHRVJfRk9SQVBJX0lEX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoR0VUX1NXQUdHRVJfRk9SX0FQSV9JRF9SRUdFWCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX0FMTF9BUElfU1RST1JFX1BBVFRFUk4gID0gUGF0dGVybi5jb21waWxlKEdFVF9BTExfQVBJU19TVE9SRV9SRUdFWCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX0FMTF9BUElfU1RST1JFX1BBVFRFUk4gID0gUGF0dGVybi5jb21waWxlKEdFVF9BTExfQVBJU19TVE9SRV9SRUdFWCk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQYXR0ZXJuIEdFVF9BUElfSURfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZShHRVRfQVBJX0lEX1JFR0VYKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gR0VUX1NXQUdHRVJfRk9SQVBJX0lEX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoR0VUX1NXQUdHRVJfRk9SX0FQSV9JRF9SRUdFWCk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>if (uri.matches(Constants.GET_ALL_APIS_STORE_REGEX)) {
         long lastUpdatedTime = InBoundETagManager.apisGet(null, null, tenantDomain, null);
         String eTag = ETagGenerator.getETag(lastUpdatedTime);
@@ -1383,32 +1413,8 @@
         handleInterceptorResponse(message, ifNoneMatch, eTag);
         }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmFsdWUKICAgIHB1YmxpYyBTdHJpbmcgdG9WYWx1ZSgpIHsKICAgICAgICByZXR1cm4gZ2V0SWRlbnRpZmllcigpOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9AUHJvZmlsZSgiZGF0YWdlbmVyYXRvciIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QFByb2ZpbGUoImRhdGFnZW5lcmF0b3IiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QFByb2ZpbGUoImRhdGFzZXRnZW5lcmF0b3IiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8R3JvdXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
