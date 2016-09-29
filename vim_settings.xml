@@ -15,8 +15,8 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91aa1749-15e9-4ec6-a476-d6c8ccabddc9/console.sql" timestamp="1475133362219">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91aa1749-15e9-4ec6-a476-d6c8ccabddc9/console.sql" timestamp="1475135107341">
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1475063270807">
         <mark key="[" line="0" column="0" />
@@ -299,6 +299,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.java" timestamp="1475135323427">
+        <mark key="[" line="48" column="153" />
+        <mark key="]" line="48" column="157" />
+        <mark key="^" line="137" column="17656" />
+        <mark key="." line="48" column="157" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="35" />
@@ -400,10 +406,6 @@
         <mark key="]" line="170" column="47" />
         <mark key="." line="170" column="47" />
         <mark key="^" line="170" column="47" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionTitleController.java" timestamp="1475061530626">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
         <mark key="[" line="0" column="0" />
@@ -901,10 +903,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.19.0.RELEASE/spring-hateoas-0.19.0.RELEASE.jar!/org/springframework/hateoas/Identifiable.class" timestamp="1475056626818">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/test/package-info.java" timestamp="1475060907558">
         <mark key="[" line="0" column="0" />
@@ -1418,7 +1416,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -1468,12 +1466,12 @@
         <entry>actionlist GoToAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoAction</entry>
         <entry>action AceJumpAction</entry>
         <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
