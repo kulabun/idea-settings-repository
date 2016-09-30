@@ -149,7 +149,6 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475251949878" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="11" />
@@ -189,6 +188,9 @@
         <mark key="]" line="37" column="89" />
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
+      </file>
+      <file name="$USER_HOME$/project/ideavim/ideavim_.iml" timestamp="1475255148503">
+        <mark key="[" line="1" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
         <mark key="[" line="0" column="0" />
@@ -246,7 +248,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/meta4linux/meta4linux.iml" timestamp="1475253070505" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/integration/RequisitionFtsTransformer.java" timestamp="1473328091414">
         <mark key="[" line="46" column="50" />
         <mark key="]" line="37" column="126" />
