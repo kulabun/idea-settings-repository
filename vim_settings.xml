@@ -149,7 +149,7 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475217308126" />
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475251949878" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="11" />
@@ -324,6 +324,11 @@
         <mark key="[" line="19" column="4" />
         <mark key="]" line="28" column="5" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/meta4linux/resources/META-INF/plugin.xml" timestamp="1475252098182">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
         <mark key="[" line="246" column="113" />
@@ -965,7 +970,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICA8ZW0+bW9zdCBIVE1MIHRhZ3MgbWF5IGJlIHVzZWQ8L2VtPgo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -980,34 +985,34 @@
         <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICA8ZW0+bW9zdCBIVE1MIHRhZ3MgbWF5IGJlIHVzZWQ8L2VtPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICBBZGQgY2hhbmdlIG5vdGVzIGhlcmUuPGJyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5zYXZlRW50aXR5KGhpcmluZ0NvbnRhaW5lcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5zYXZlRW50aXR5KGhpcmluZ0NvbnRhaW5lcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
