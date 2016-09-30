@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475224889045">
+      <file name="/a.dummy" timestamp="1475240144159">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="80" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475155887318">
         <mark key="'" line="14" column="211" />
@@ -194,19 +194,17 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1474553095556">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" timestamp="1475238332870">
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="88" column="106" />
+        <mark key="." line="88" column="106" />
+        <mark key="^" line="88" column="106" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/java/com/epam/staf/app/repository/PositionRepository.java" timestamp="1474640460257">
         <mark key="[" line="91" column="18" />
         <mark key="]" line="91" column="7" />
         <mark key="^" line="91" column="7" />
         <mark key="." line="91" column="7" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/event/BpmHiringContainerEventListener.java" timestamp="1475149878423">
-        <mark key="[" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/convert/RequisitionRequestConverter.java" timestamp="1475064039327">
         <mark key="[" line="39" column="37" />
@@ -410,8 +408,8 @@
         <mark key="]" line="254" column="0" />
         <mark key="." line="254" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/pom.xml" timestamp="1473770680698">
-        <mark key="[" line="56" column="41" />
+      <file name="$USER_HOME$/project/epm-staf/pom.xml" timestamp="1475240157604">
+        <mark key="[" line="56" column="42" />
         <mark key="]" line="56" column="42" />
         <mark key="." line="56" column="42" />
       </file>
@@ -479,11 +477,11 @@
         <mark key="]" line="21" column="70" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475154730951">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="13" column="87" />
-        <mark key="." line="14" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475239742366">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/security/ApplicantPositionMetaResolver.java" timestamp="1472644859195">
         <mark key="[" line="39" column="47" />
@@ -577,11 +575,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475222063577">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1475240733863" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475226908808">
         <mark key="[" line="123" column="50" />
         <mark key="]" line="123" column="50" />
@@ -650,7 +644,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475156336110">
+      <file name="/fragment.java" timestamp="1475239418696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="74" />
         <mark key="." line="0" column="0" />
@@ -1004,14 +998,19 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf-notifications/gradle.properties" timestamp="1475240039510">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/HiringApproverController.java" timestamp="1473346555178">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1475153903515">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1475239842706">
         <mark key="'" line="229" column="36" />
-        <mark key="[" line="35" column="0" />
+        <mark key="[" line="6" column="86" />
         <mark key="]" line="37" column="19" />
         <mark key="^" line="37" column="19" />
         <mark key="." line="37" column="19" />
@@ -1097,8 +1096,8 @@
         <mark key="^" line="121" column="126" />
         <mark key="." line="121" column="126" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/ExternalRelocation.java" timestamp="1475062552957">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/ExternalRelocation.java" timestamp="1475238188711">
+        <mark key="[" line="7" column="38" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
@@ -1399,13 +1398,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>expectedRequisitions</text>
+        <text>gateway</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>expectedRequisitions</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>FULL_BPM_ACCESS_TEMPLATE</text>
@@ -1689,7 +1688,6 @@
         <entry>FULL_BPM_ACCESS_TEMPLATE</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action NextSplitter</entry>
         <entry>action GoToAction</entry>
@@ -1698,16 +1696,17 @@
         <entry>%s/FULL_BPM_ACCESS_TEMPLATE/COMMON_BPM_ACCESS/g</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action Annotate</entry>
         <entry>action OverrideMethods</entry>
         <entry>action GotoAction</entry>
         <entry>action GenerateGetter</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action Find</entry>
         <entry>action Git.Branches</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action Annotate</entry>
+        <entry>action Find</entry>
+        <entry>wq</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
