@@ -652,6 +652,9 @@
         <mark key="^" line="117" column="141" />
         <mark key="." line="117" column="141" />
       </file>
+      <file name="vim_settings.xml" timestamp="1475253130185">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/190-service-users.json" timestamp="1473855459456">
         <mark key="[" line="14" column="179" />
         <mark key="]" line="14" column="179" />
@@ -1021,7 +1024,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1074,9 +1077,9 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Annotate</entry>
         <entry>action FindNext</entry>
-        <entry>action Find</entry>
         <entry>action AceJumpAction</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
