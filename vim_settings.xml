@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475157891527">
+      <file name="/a.dummy" timestamp="1475224889045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="80" />
@@ -582,6 +582,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475226908808">
+        <mark key="[" line="123" column="50" />
+        <mark key="]" line="123" column="50" />
+        <mark key="." line="123" column="50" />
+        <mark key="^" line="123" column="49" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1474463946992">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -828,11 +834,11 @@
         <mark key="^" line="6" column="246" />
         <mark key="." line="6" column="246" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="13" column="160" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="13" column="80" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1475224929255">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/project/json-generator/src/main/java/com/epam/data/DomainEntity.java" timestamp="1475056739056">
         <mark key="[" line="0" column="16" />
@@ -910,6 +916,12 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1475225959422">
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="99" column="11" />
+        <mark key="^" line="99" column="11" />
+        <mark key="." line="99" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1475152671791">
         <mark key="'" line="50" column="44" />
@@ -1387,22 +1399,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MARYNA_KAVALCHUK</text>
+        <text>expectedRequisitions</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EPMSTAF-13415 - Possible to manage Hiring container and Requisition statuses for users without permissions (according KB)</text>
+        <text>expectedRequisitions</text>
       </register>
       <register name="/" type="4">
         <text>FULL_BPM_ACCESS_TEMPLATE</text>
       </register>
-      <register name="0" type="4">
-        <text>6a98c86e-8648-11e6-8b77-c4346b4ea88a</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFuZ2VSZXF1aXNpdGlvbnNIaXJpbmdDb250YWluZXJMb2NhdGlvbihleHBlY3RlZFJlcXVpc2l0aW9ucywgbG9jYXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXBvc2l0b3J5ID0gcmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1617,31 +1629,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9iamVjdCByZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEdyb3VwPiBkZW55R3JvdXBzID0gY3JlYXRlQnlMb2NhdGlvbkdyb3Vwc1dpdGhDYXRlZ29yeShncm91cENhdGVnb3JpZXMsICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIHNldFZlcnNpb25NZXRob2QgPSBSZWZsZWN0aW9uVXRpbHMuZmluZE1ldGhvZChvYmplY3QuZ2V0Q2xhc3MoKSwgInNldFZlcnNpb24iLCBJbnRlZ2VyLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXBvc2l0b3J5ID0gcmVwb3NpdG9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9iamVjdCByZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA2OWE5YTNiYS04NjQ4LTExZTYtYjgxMy1jNDM0NmI0ZWE4OGEKICA2YTE4YTE3YS04NjQ4LTExZTYtOGIyOC1jNDM0NmI0ZWE4OGEKICA2YTQwZGU0Yy04NjQ4LTExZTYtYmExMy1jNDM0NmI0ZWE4OGEKICA2YTYwYTE0Ni04NjQ4LTExZTYtODFiMS1jNDM0NmI0ZWE4OGEKICA2YTdmMWZlMC04NjQ4LTExZTYtOWQ5Ny1jNDM0NmI0ZWE4OGEKICA2YTk4Yzg2ZS04NjQ4LTExZTYtOGI3Ny1jNDM0NmI0ZWE4OGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIHNldFZlcnNpb25NZXRob2QgPSBSZWZsZWN0aW9uVXRpbHMuZmluZE1ldGhvZChvYmplY3QuZ2V0Q2xhc3MoKSwgInNldFZlcnNpb24iLCBJbnRlZ2VyLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">ICA2OWE5YTNiYS04NjQ4LTExZTYtYjgxMy1jNDM0NmI0ZWE4OGEKICA2YTE4YTE3YS04NjQ4LTExZTYtOGIyOC1jNDM0NmI0ZWE4OGEKICA2YTQwZGU0Yy04NjQ4LTExZTYtYmExMy1jNDM0NmI0ZWE4OGEKICA2YTYwYTE0Ni04NjQ4LTExZTYtODFiMS1jNDM0NmI0ZWE4OGEKICA2YTdmMWZlMC04NjQ4LTExZTYtOWQ5Ny1jNDM0NmI0ZWE4OGEKICA2YTk4Yzg2ZS04NjQ4LTExZTYtOGI3Ny1jNDM0NmI0ZWE4OGEK</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1692,11 +1704,11 @@
         <entry>action GenerateGetter</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Git.Branches</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
