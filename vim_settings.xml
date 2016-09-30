@@ -238,6 +238,11 @@
         <mark key="^" line="6" column="103" />
         <mark key="." line="6" column="103" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/KeyHandler.java" timestamp="1475258886681">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/pom.xml" timestamp="1473770680698">
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="42" />
@@ -981,8 +986,8 @@
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(EditorImpl) editor).isEmbeddedIntoDialogWrapper()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgQXBwbGljYXRpb25NYW5hZ2VyCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -997,34 +1002,34 @@
         <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgQXBwbGljYXRpb25NYW5hZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZW0+bW9zdCBIVE1MIHRhZ3MgbWF5IGJlIHVzZWQ8L2VtPgo=</text>
+        <text encoding="base64">ICAgICAgYXBwbGljYXRpb24uY2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBBZGQgY2hhbmdlIG5vdGVzIGhlcmUuPGJyPgo=</text>
+        <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICA8ZW0+bW9zdCBIVE1MIHRhZ3MgbWF5IGJlIHVzZWQ8L2VtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICBBZGQgY2hhbmdlIG5vdGVzIGhlcmUuPGJyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5zYXZlRW50aXR5KGhpcmluZ0NvbnRhaW5lcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5zYXZlRW50aXR5KGhpcmluZ0NvbnRhaW5lcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
