@@ -13,7 +13,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475213874652">
+      <file name="/a.dummy" timestamp="1475217379591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -149,6 +149,7 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475217308126" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="11" />
@@ -299,6 +300,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/ui/ExKeyBindings.java" timestamp="1475216809280">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="53" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsHiringApproverUpdateEvent.java" timestamp="1474022300252">
         <mark key="[" line="21" column="69" />
@@ -760,7 +767,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21fb53ca-9efd-4c9d-b53f-89290b6b7049/console.sql" timestamp="1474360845925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474552140937">
+      <file name="/Dummy.txt" timestamp="1475217097445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="40" />
@@ -841,7 +848,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474556671648">
+      <file name="/fragment.java" timestamp="1475217097463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
