@@ -1641,7 +1641,7 @@
         <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -1694,9 +1694,9 @@
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
