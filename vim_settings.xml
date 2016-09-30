@@ -94,7 +94,6 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-bpm-common/src/main/resources/dictionaryPopulator/100-bpmAuthorityMapping.json" timestamp="1475157988476" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/resources/application.yml" timestamp="1474976157379">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="50" column="0" />
@@ -568,7 +567,6 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/quartz/job/ObsoleteResourcePlansJob.java" timestamp="1475134048744" />
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/CustomerGenerator.java" timestamp="1475061020363">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="24" />
@@ -756,7 +754,6 @@
         <mark key="^" line="0" column="26321" />
         <mark key="." line="0" column="26321" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/security/actions/SupportedAuthoritiesResolverImpl.java" timestamp="1475157465773" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1473419724192">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -1008,7 +1005,6 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="37" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.0.RELEASE/spring-data-commons-1.11.0.RELEASE-sources.jar!/org/springframework/data/repository/support/ReflectionRepositoryInvoker.java" timestamp="1475146813851" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionBusinessCategoryRepository.java" timestamp="1473074149663">
         <mark key="[" line="6" column="119" />
         <mark key="]" line="6" column="124" />
@@ -1055,7 +1051,8 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475158753555">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475220953154">
+        <mark key="'" line="6931" column="0" />
         <mark key="[" line="849" column="19" />
         <mark key="]" line="849" column="34" />
       </file>
@@ -1094,8 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
-      <jump line="364" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
       <jump line="128" column="36" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" />
       <jump line="148" column="458" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
       <jump line="1" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
@@ -1194,6 +1189,8 @@
       <jump line="132" column="0" filename="$USER_HOME$/project/epm-staf-notifications/index.html" />
       <jump line="14" column="211" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" />
       <jump line="2" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/110-admin-group-members.json" />
+      <jump line="773" column="5" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" />
+      <jump line="6931" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1643,7 +1640,7 @@
         <text encoding="base64">ICB7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5UZW1wbGF0ZVBlcm1pc3Npb24iLCJpZCI6ImI3NzhkZTdhLWUzYmQtNGU1Mi05NDU4LTA0MGNiNGRhNDRiZSIsInRlbXBsYXRlSWQiOiJDT01NT05fQlBNX0FDQ0VTUyIsImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0JQTS1HTE9CQUwtQ0xPU0UifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wwOkFwcGxpY2FudCJdfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -1692,13 +1689,13 @@
         <entry>action Annotate</entry>
         <entry>action OverrideMethods</entry>
         <entry>action GotoAction</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>action GenerateGetter</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
