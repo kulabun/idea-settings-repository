@@ -1050,7 +1050,7 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475222030800">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475224063302">
         <mark key="'" line="6931" column="0" />
         <mark key="[" line="849" column="19" />
         <mark key="]" line="849" column="34" />
@@ -1677,7 +1677,6 @@
         <entry>FULL_BPM_ACCESS_TEMPLATE</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
         <entry>action Vcs.UpdateProjeect</entry>
         <entry>action NextSplitter</entry>
@@ -1696,6 +1695,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action Git.Branches</entry>
         <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
