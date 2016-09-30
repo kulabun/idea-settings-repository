@@ -13,7 +13,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475217379591">
+      <file name="/a.dummy" timestamp="1475256073588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -149,6 +149,7 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475256442097" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="11" />
@@ -647,6 +648,7 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/EventFacade.java" timestamp="1475257539522" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-xd/spring-xd-scripts/src/main/java/upsa/Changes2EventLogTransform.groovy" timestamp="1473251320990">
         <mark key="[" line="117" column="85" />
         <mark key="]" line="117" column="141" />
@@ -863,11 +865,11 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475217097463">
+      <file name="/fragment.java" timestamp="1475257949265">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/UnitSimpleEntity.java" timestamp="1474037096791">
         <mark key="[" line="52" column="69" />
@@ -979,14 +981,14 @@
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>(EditorImpl) editor).isEmbeddedIntoDialogWrapper()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(EditorImpl) editor).isEmbeddedIntoDialogWrapper()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -1025,7 +1027,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1061,7 +1063,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ2hvb3NlRGVidWdDb25maWd1cmF0aW9u</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
         <entry>mapleader &quot; &quot;</entry>
@@ -1079,8 +1080,9 @@
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>action Find</entry>
-        <entry>action HideSideWindows</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
