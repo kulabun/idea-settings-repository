@@ -3,16 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475240144159">
+      <file name="/a.dummy" timestamp="1475241796117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-template-permission.json" timestamp="1475155887318">
-        <mark key="'" line="14" column="211" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1474533549412">
         <mark key="[" line="30" column="0" />
@@ -564,6 +558,12 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/qaDictionaryPopulator/100-additional-users.json" timestamp="1475241844968">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/CustomerGenerator.java" timestamp="1475061020363">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="24" />
@@ -575,7 +575,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475240743280">
+      <file name="/Dummy.txt" timestamp="1475242299850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475226908808">
@@ -919,12 +919,6 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1475152671791">
-        <mark key="'" line="50" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="174" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1474901300330">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -959,6 +953,10 @@
         <mark key="]" line="57" column="15" />
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/resources/ldap/101-ldap-groups.json" timestamp="1475241814344">
+        <mark key="[" line="7885" column="4" />
+        <mark key="]" line="7894" column="5" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
         <mark key="[" line="8" column="14" />
@@ -1400,7 +1398,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>gateway</text>
+        <text>{
+        &quot;_class&quot;: &quot;com.epam.staf.security.data.User&quot;,
+        &quot;id&quot;: &quot;4000741400002277852&quot;,
+        &quot;name&quot;: &quot;Aliaksei Slepau&quot;,
+        &quot;email&quot;: &quot;Aliaksei_Slepau@epam.com&quot;,
+        &quot;title&quot;: &quot;Project Manager&quot;,
+        &quot;principal&quot;: &quot;ALIAKSEI_SLEPAU&quot;,
+        &quot;credentials&quot;: &quot;$2a$04$/L8PtaXUx7jl8EQyDX/8xeeEGTcCCNirRMqLJGQa9N2FMfmhLyhTG&quot;,
+        &quot;plainCredentials&quot;: false
+    },</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
