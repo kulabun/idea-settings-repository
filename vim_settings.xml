@@ -497,11 +497,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/populator/CustomResourceReaderRepositoryPopulator.java" timestamp="1475153477528">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
-        <mark key="^" line="298" column="15" />
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/populator/CustomResourceReaderRepositoryPopulator.java" timestamp="1475221502880">
+        <mark key="[" line="141" column="69" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-services/nm-services-elp-sdt/src/main/java/com/epam/notifications/services/sdt/SdtServiceImpl.java" timestamp="1474880232444">
         <mark key="[" line="34" column="191" />
@@ -578,7 +577,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475159244263">
+      <file name="/Dummy.txt" timestamp="1475222063577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1051,10 +1050,12 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475220953154">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataSet/195-groups-dev.json" timestamp="1475222030800">
         <mark key="'" line="6931" column="0" />
         <mark key="[" line="849" column="19" />
         <mark key="]" line="849" column="34" />
+        <mark key="^" line="849" column="18" />
+        <mark key="." line="849" column="18" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringApproverRepository.java" timestamp="1473344535202">
         <mark key="[" line="12" column="0" />
@@ -1386,7 +1387,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>EPMSTAF-13415 - Possible to manage Hiring container and Requisition statuses for users without permissions (according KB)</text>
+        <text>MARYNA_KAVALCHUK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1401,7 +1402,7 @@
         <text>6a98c86e-8648-11e6-8b77-c4346b4ea88a</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXBvc2l0b3J5ID0gcmVwb3NpdG9yeTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1616,19 +1617,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9iamVjdCByZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA2OWE5YTNiYS04NjQ4LTExZTYtYjgxMy1jNDM0NmI0ZWE4OGEKICA2YTE4YTE3YS04NjQ4LTExZTYtOGIyOC1jNDM0NmI0ZWE4OGEKICA2YTQwZGU0Yy04NjQ4LTExZTYtYmExMy1jNDM0NmI0ZWE4OGEKICA2YTYwYTE0Ni04NjQ4LTExZTYtODFiMS1jNDM0NmI0ZWE4OGEKICA2YTdmMWZlMC04NjQ4LTExZTYtOWQ5Ny1jNDM0NmI0ZWE4OGEKICA2YTk4Yzg2ZS04NjQ4LTExZTYtOGI3Ny1jNDM0NmI0ZWE4OGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIHNldFZlcnNpb25NZXRob2QgPSBSZWZsZWN0aW9uVXRpbHMuZmluZE1ldGhvZChvYmplY3QuZ2V0Q2xhc3MoKSwgInNldFZlcnNpb24iLCBJbnRlZ2VyLmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
+        <text encoding="base64">ICA2OWE5YTNiYS04NjQ4LTExZTYtYjgxMy1jNDM0NmI0ZWE4OGEKICA2YTE4YTE3YS04NjQ4LTExZTYtOGIyOC1jNDM0NmI0ZWE4OGEKICA2YTQwZGU0Yy04NjQ4LTExZTYtYmExMy1jNDM0NmI0ZWE4OGEKICA2YTYwYTE0Ni04NjQ4LTExZTYtODFiMS1jNDM0NmI0ZWE4OGEKICA2YTdmMWZlMC04NjQ4LTExZTYtOWQ5Ny1jNDM0NmI0ZWE4OGEKICA2YTk4Yzg2ZS04NjQ4LTExZTYtOGI3Ny1jNDM0NmI0ZWE4OGEK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
@@ -1637,10 +1638,10 @@
         <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5UZW1wbGF0ZVBlcm1pc3Npb24iLCJpZCI6ImI3NzhkZTdhLWUzYmQtNGU1Mi05NDU4LTA0MGNiNGRhNDRiZSIsInRlbXBsYXRlSWQiOiJDT01NT05fQlBNX0FDQ0VTUyIsImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0JQTS1HTE9CQUwtQ0xPU0UifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wwOkFwcGxpY2FudCJdfSwK</text>
+        <text encoding="base64">ICB+L3Byb2plY3QvZXBtLXN0YWYg7oKwIO6CoCBFUE1TVEFGLTEzNDE1IOKXjyDugrAgdXVpZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1693,9 +1694,9 @@
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action Vcs.UpdateProject</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
-        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
