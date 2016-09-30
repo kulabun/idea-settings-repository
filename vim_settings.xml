@@ -1024,7 +1024,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1071,15 +1071,15 @@
         <entry>action ShowIntentionActions</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action GenerateGetterAndSetter</entry>
-        <entry>w</entry>
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Annotate</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
