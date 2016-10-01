@@ -13,7 +13,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475302669297">
+      <file name="/a.dummy" timestamp="1475312937997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -149,7 +149,9 @@
         <mark key="]" line="34" column="50" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475256442097" />
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
+        <mark key="[" line="87" column="58" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="11" />
@@ -590,6 +592,12 @@
         <mark key="]" line="225" column="2" />
         <mark key="^" line="225" column="2" />
         <mark key="." line="225" column="2" />
+      </file>
+      <file name="$USER_HOME$/project/ideavim/resources/META-INF/plugin.xml" timestamp="1475313442213">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
         <mark key="[" line="14" column="0" />
@@ -1048,7 +1056,7 @@
         <text encoding="base64">ICAgIC5idWlsZCgpOyovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1102,8 +1110,8 @@
         <entry>buffers</entry>
         <entry>buffer</entry>
         <entry>b</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action ReformatCode</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
