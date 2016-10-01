@@ -13,7 +13,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475297495810">
+      <file name="/a.dummy" timestamp="1475302669297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -880,7 +880,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475302160067">
+      <file name="/fragment.java" timestamp="1475302396158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
@@ -1042,7 +1042,7 @@
         <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1078,13 +1078,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry encoding="base64">bWFwbGVhZGVyIDxTcGFjZT4=</entry>
-        <entry>mapleader &quot; &quot;</entry>
-        <entry>!git log</entry>
-        <entry>!git lg</entry>
-        <entry>action Vcs.UpdateProject</entry>
-        <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action GenerateGetterAndSetter</entry>
@@ -1096,8 +1089,15 @@
         <entry>action AceJumpAction</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>actionlist Escape</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>r</entry>
+        <entry>reg</entry>
+        <entry>buf</entry>
+        <entry>buffers</entry>
+        <entry>buffer</entry>
+        <entry>b</entry>
       </history-cmd>
       <history-expr />
       <history-input />
