@@ -13,8 +13,9 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475312937997">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1475315412475">
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
@@ -1268,6 +1269,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed BACK_SPACE</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
