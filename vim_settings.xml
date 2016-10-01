@@ -186,6 +186,10 @@
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
       </file>
+      <file name="$USER_HOME$/project/community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/IdeKeyEventDispatcher.java" timestamp="1475339546060">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="174" column="4" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
         <mark key="[" line="411" column="33" />
         <mark key="]" line="411" column="58" />
@@ -1016,8 +1020,8 @@
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4KICAgIDxvcmRlckVudHJ5IHR5cGU9InNvdXJjZUZvbGRlciIgZm9yVGVzdHM9ImZhbHNlIiAvPgogIDwvY29tcG9uZW50Pgo8L21vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEtleWJvYXJkRm9jdXNNYW5hZ2VyIGZvY3VzTWFuYWdlcj1LZXlib2FyZEZvY3VzTWFuYWdlci5nZXRDdXJyZW50S2V5Ym9hcmRGb2N1c01hbmFnZXIoKTsKICAgIENvbXBvbmVudCBmb2N1c093bmVyID0gZm9jdXNNYW5hZ2VyLmdldEZvY3VzT3duZXIoKTsKCiAgICAvLyBzaG9ydGN1dHMgc2hvdWxkIG5vdCB3b3JrIGluIHNob3J0Y3V0IHNldHVwIGZpZWxkcwogICAgaWYgKGZvY3VzT3duZXIgaW5zdGFuY2VvZiBTaG9ydGN1dFRleHRGaWVsZCkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBpZiAoZm9jdXNPd25lciBpbnN0YW5jZW9mIEpUZXh0Q29tcG9uZW50ICYmICgoSlRleHRDb21wb25lbnQpZm9jdXNPd25lcikuaXNFZGl0YWJsZSgpKSB7CiAgICAgIGlmIChlLmdldEtleUNoYXIoKSAhPSBLZXlFdmVudC5DSEFSX1VOREVGSU5FRCAmJiBlLmdldEtleUNvZGUoKSAhPSBLZXlFdmVudC5WS19FU0NBUEUpIHsKICAgICAgICBNYWNVSVV0aWwuaGlkZUN1cnNvcigpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1272,6 +1276,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed BACK_SPACE</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed UP</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
