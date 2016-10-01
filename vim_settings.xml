@@ -162,6 +162,12 @@
         <mark key="." line="271" column="14" />
         <mark key="^" line="271" column="15" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/action/VimShortcutKeyAction.java" timestamp="1475300806715">
+        <mark key="[" line="78" column="5" />
+        <mark key="]" line="180" column="15" />
+        <mark key="^" line="180" column="15" />
+        <mark key="." line="180" column="15" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="35" />
@@ -367,6 +373,7 @@
         <mark key="^" line="152" column="15" />
         <mark key="." line="152" column="15" />
       </file>
+      <file name="$USER_HOME$/project/community/platform/lang-impl/src/com/intellij/psi/impl/source/tree/injected/InjectedLanguageUtil.java" timestamp="1475299949228" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/RequisitionTypeRepository.java" timestamp="1473074826592">
         <mark key="[" line="6" column="98" />
         <mark key="]" line="6" column="98" />
@@ -873,11 +880,11 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475298182683">
+      <file name="/fragment.java" timestamp="1475301001091">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+        <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="1" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/UnitSimpleEntity.java" timestamp="1474037096791">
         <mark key="[" line="52" column="69" />
