@@ -162,11 +162,15 @@
         <mark key="." line="271" column="14" />
         <mark key="^" line="271" column="15" />
       </file>
-      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/action/VimShortcutKeyAction.java" timestamp="1475301799887">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="182" column="15" />
-        <mark key="^" line="182" column="15" />
-        <mark key="." line="182" column="15" />
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/action/VimShortcutKeyAction.java" timestamp="1475305452799">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1475305640395">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
         <mark key="[" line="0" column="0" />
@@ -524,8 +528,10 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/group/EditorGroup.java" timestamp="1475298557942">
-        <mark key="[" line="93" column="10" />
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/group/EditorGroup.java" timestamp="1475305560361">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
@@ -997,7 +1003,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQXBwbGljYXRpb25NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1012,37 +1018,37 @@
         <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQXBwbGljYXRpb25NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXBwbGljYXRpb24uY2wK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFWaW1TaG9ydGN1dEtleUFjdGlvbi5WSU1fT05MWV9FRElUT1JfS0VZUy5jb250YWlucyhrZXlTdHJva2UpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvdGVzdCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFR1cm4gb24gaW5zZXJ0IG1vZGUgaWYgZWRpdG9yIGRvZXNuJ3QgaGF2ZSBhbnkgZmlsZQogICAgICAgICAgLyoKICAgICAgICAgIGlmICghRWRpdG9yRGF0YS5pc0ZpbGVFZGl0b3IoZWRpdG9yKSAmJiBlZGl0b3IuZ2V0RG9jdW1lbnQoKS5pc1dyaXRhYmxlKCkgJiYKICAgICAgICAgICAgICAhQ29tbWFuZFN0YXRlLmluSW5zZXJ0TW9kZShlZGl0b3IpKSB7CiAgICAgICAgICAgIEtleUhhbmRsZXIuZ2V0SW5zdGFuY2UoKS5oYW5kbGVLZXkoZWRpdG9yLCBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCdpJyksIG5ldyBFZGl0b3JEYXRhQ29udGV4dChlZGl0b3IpKTsKICAgICAgICAgIH0KICAgICAgICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZW0+bW9zdCBIVE1MIHRhZ3MgbWF5IGJlIHVzZWQ8L2VtPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVklNX09OTFlfRURJVE9SX0tFWVMuY29udGFpbnMoa2V5U3Ryb2tlKSkgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBZGQgY2hhbmdlIG5vdGVzIGhlcmUuPGJyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICBATm90TnVsbCBwdWJsaWMgc3RhdGljIGZpbmFsIFNldDxLZXlTdHJva2U+IFZJTV9PTkxZX0VESVRPUl9LRVlTID0gQ29sbGVjdGlvbnMuZW1wdHlTZXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlyaW5nQ29udGFpbmVyUmVwb3NpdG9yeS5zYXZlRW50aXR5KGhpcmluZ0NvbnRhaW5lcik7Cg==</text>
+        <text encoding="base64">ICBATm90TnVsbCBwdWJsaWMgc3RhdGljIGZpbmFsIFNldDxLZXlTdHJva2U+IFZJTV9PTkxZX0VESVRPUl9LRVlTID0gQ29sbGVjdGlvbnMuZW1wdHlTZXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoaXJpbmdDb250YWluZXJSZXBvc2l0b3J5LnNhdmVFbnRpdHkoY29udGFpbmVyKTsK</text>
+        <text encoding="base64">ICAgIC5idWlsZCgpOyovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1078,7 +1084,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowIntentionActions</entry>
         <entry>action FindWordAtCaret</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Compare.SameVersion</entry>
@@ -1091,13 +1096,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>action Find</entry>
         <entry>actionlist Escape</entry>
-        <entry>action HideSideWindows</entry>
         <entry>r</entry>
         <entry>reg</entry>
         <entry>buf</entry>
         <entry>buffers</entry>
         <entry>buffer</entry>
         <entry>b</entry>
+        <entry>action HideSideWindows</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
