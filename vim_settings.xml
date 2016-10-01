@@ -13,7 +13,7 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475256073588">
+      <file name="/a.dummy" timestamp="1475297495810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -517,6 +517,9 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/group/EditorGroup.java" timestamp="1475298557942">
+        <mark key="[" line="93" column="10" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -870,7 +873,7 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475257949265">
+      <file name="/fragment.java" timestamp="1475298182683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="36" />
