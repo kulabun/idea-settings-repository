@@ -13,11 +13,12 @@
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475315412475">
+      <file name="/a.dummy" timestamp="1475346097805">
         <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/HiringContainerGenerator.java" timestamp="1473069051958">
         <mark key="[" line="67" column="39" />
@@ -1021,13 +1022,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEtleWJvYXJkRm9jdXNNYW5hZ2VyIGZvY3VzTWFuYWdlcj1LZXlib2FyZEZvY3VzTWFuYWdlci5nZXRDdXJyZW50S2V5Ym9hcmRGb2N1c01hbmFnZXIoKTsKICAgIENvbXBvbmVudCBmb2N1c093bmVyID0gZm9jdXNNYW5hZ2VyLmdldEZvY3VzT3duZXIoKTsKCiAgICAvLyBzaG9ydGN1dHMgc2hvdWxkIG5vdCB3b3JrIGluIHNob3J0Y3V0IHNldHVwIGZpZWxkcwogICAgaWYgKGZvY3VzT3duZXIgaW5zdGFuY2VvZiBTaG9ydGN1dFRleHRGaWVsZCkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBpZiAoZm9jdXNPd25lciBpbnN0YW5jZW9mIEpUZXh0Q29tcG9uZW50ICYmICgoSlRleHRDb21wb25lbnQpZm9jdXNPd25lcikuaXNFZGl0YWJsZSgpKSB7CiAgICAgIGlmIChlLmdldEtleUNoYXIoKSAhPSBLZXlFdmVudC5DSEFSX1VOREVGSU5FRCAmJiBlLmdldEtleUNvZGUoKSAhPSBLZXlFdmVudC5WS19FU0NBUEUpIHsKICAgICAgICBNYWNVSVV0aWwuaGlkZUN1cnNvcigpOwogICAgICB9CiAgICB9</text>
+        <text>esc</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(EditorImpl) editor).isEmbeddedIntoDialogWrapper()</text>
+        <text>esc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -1066,7 +1067,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1111,7 +1112,6 @@
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
-        <entry>action Find</entry>
         <entry>actionlist Escape</entry>
         <entry>r</entry>
         <entry>reg</entry>
@@ -1122,6 +1122,7 @@
         <entry>action ReformatCode</entry>
         <entry>action HideSideWindows</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
