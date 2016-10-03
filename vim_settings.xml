@@ -833,10 +833,10 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475217097445">
+      <file name="/Dummy.txt" timestamp="1475491454825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="40" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/project/ideavim/ideavim_.iml" timestamp="1475315121558">
@@ -1046,14 +1046,14 @@
       <jump line="40" column="26" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICBBREQgQ09MVU1OIGhpcmluZ19jb250YWluZXJfbG9jYXRpb25faWQgVEVYVCwgCiAgQUREIENPTFVNTiBoaXJpbmdfY29udGFpbmVyX2xvY2F0aW9uX25hbWUgVEVYVDsK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -1092,7 +1092,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Git.Branches</text>
       </register>
     </registers>
     <search>
@@ -1128,7 +1128,6 @@
         <entry encoding="base64">CQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindWordAtCaret</entry>
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -1148,6 +1147,7 @@
         <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Git.Branches</entry>
       </history-cmd>
       <history-expr />
       <history-input />
