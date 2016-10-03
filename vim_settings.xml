@@ -523,11 +523,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475503993341">
-        <mark key="[" line="77" column="90" />
-        <mark key="]" line="77" column="90" />
-        <mark key="." line="77" column="90" />
-        <mark key="^" line="76" column="3" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475505091366">
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -1075,7 +1074,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5QnlMb2NhdGlvbkdyb3Vwcyh1c2VyR3JvdXBzLCBwYXRoKFJlcXVpc2l0aW9uXy5sb2NhdGlvbiwgU2ltcGxlRW50aXR5Xy5pZCksIGZhbHNlLCBmYWxzZSksCg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1087,7 +1086,7 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5QnlMb2NhdGlvbkdyb3Vwcyh1c2VyR3JvdXBzLCBwYXRoKFJlcXVpc2l0aW9uXy5sb2NhdGlvbiwgU2ltcGxlRW50aXR5Xy5pZCksIGZhbHNlLCBmYWxzZSksCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgcXVlcnlBbmQoQ2hhclNlcXVlbmNlLi4uIHF1ZXJpZXMpIHsKICAgICAgICByZXR1cm4gQXJyYXlzLnN0cmVhbShxdWVyaWVzKS5maWx0ZXIocSAtPiBxICE9IG51bGwpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCIgYW5kICIsICIoIiwgIikiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHAK</text>
@@ -1096,28 +1095,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdyb3VwRmlsdGVyLmFwcGx5KGJ5TG9jYXRpb25Vc2VyR3JvdXBzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nIHByZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1bmN0aW9uPFNldDxHcm91cD4sIFNldDxHcm91cD4+IGdyb3VwRmlsdGVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QElnbm9yZSgiRVBNU1RBRi0xMzQzNiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBHcm91cExvY2F0aW9uIGdyb3VwTG9jYXRpb247IExvY2EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgV2ViQXBwbGljYXRpb25Db250ZXh0IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">c3ByaW5nIHByZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">QElnbm9yZSgiRVBNU1RBRi0xMzQzNiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
