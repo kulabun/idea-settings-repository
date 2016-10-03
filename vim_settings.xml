@@ -590,6 +590,15 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-tests/src/test/java/com/epamx/staf/quartz/job/ObsoleteResourcePlansJobTests.java" timestamp="1475495185245">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-tests/src/test/java/com/epamx/staf/integration/ContainerIntegrationHandlersTest.java" timestamp="1475495140469">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="66" />
+      </file>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="57" column="15" />
@@ -685,6 +694,17 @@
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="70" />
         <mark key="." line="21" column="71" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/TransactionExecutor.java" timestamp="1475494777245">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/support/TransactionalActionRunner.java" timestamp="1475494733103">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/WorkflowScriptUtil.java" timestamp="1473167433828">
         <mark key="[" line="239" column="112" />
@@ -816,6 +836,9 @@
         <mark key="^" line="316" column="0" />
         <mark key="." line="308" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/quartz/job/ObsoleteResourcePlansJob.java" timestamp="1475494969881">
+        <mark key="[" line="216" column="55" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
@@ -838,10 +861,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/project/ideavim/ideavim_.iml" timestamp="1475315121558">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1474463946992">
         <mark key="[" line="6" column="0" />
@@ -1046,8 +1065,8 @@
       <jump line="40" column="26" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1059,37 +1078,37 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICBBREQgQ09MVU1OIGhpcmluZ19jb250YWluZXJfbG9jYXRpb25faWQgVEVYVCwgCiAgQUREIENPTFVNTiBoaXJpbmdfY29udGFpbmVyX2xvY2F0aW9uX25hbWUgVEVYVDsK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrID0gTW9ja012Y0J1aWxkZXJzLndlYkFwcENvbnRleHRTZXR1cChjb250ZXh0KS5idWlsZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKEFycmF5cy5hc0xpc3Qoc2F2ZWRSZXF1aXNpdGlvbi5nZXRTZWN1cml0eU1ldGEoKSkuY29udGFpbnMoSGlyaW5nQ29udGFpbmVyU2VjdXJpdHlDb25zdGFudHMuTCArICI6IiArIGxvY2F0aW9uLmdldElkKCkpKTsK</text>
+        <text encoding="base64">ICAgIEBMb2NrKExvY2tNb2RlVHlwZS5OT05FKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlIGxvY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2F0aW9uTmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICBMb2NhdGlvbiBsb2NhdGlvbiA9IG5ldyBMb2NhdGlvbigpOwogICAgICAgIGxvY2F0aW9uLnNldElkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwogICAgICAgIGxvY2F0aW9uLnNldE5hbWUobG9jYXRpb25OYW1lKTsKICAgICAgICBsb2NhdGlvbi5zZXRUeXBlKGxvY2F0aW9uVHlwZSk7CiAgICAgICAgbG9jYXRpb24uc2V0QWN0aXZlKHRydWUpOwogICAgICAgIGlmKHBhcmVudExvY2F0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbG9jYXRpb24uc2V0UGFyZW50SWQocGFyZW50TG9jYXRpb24uZ2V0SWQoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvblJlcG9zaXRvcnkuc2F2ZShsb2NhdGlvbik7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlZCB0byBnZXQgYWN0dWFsIHN0YXRlIG9mIGRhdGEgZnJvbSBkYXRhIGJhc2UgaWdub3JpbmcgZXhpc3RpbmcgdHJhbnNhY3Rpb24uCiAgICAgKi8KICAgIEBMb2NrKExvY2tNb2RlVHlwZS5OT05FKQogICAgQFRyYW5zYWN0aW9uYWwocmVhZE9ubHkgPSB0cnVlLCBwcm9wYWdhdGlvbiA9IFByb3BhZ2F0aW9uLlJFUVVJUkVTX05FVykKICAgIHB1YmxpYyA8Vj4gT3B0aW9uYWw8Vj4gY2FsbEluTm9Mb2NrVHJhbnNhY3Rpb24oQ2FsbGFibGU8Vj4gY2FsbGFibGUsIENvbnN1bWVyPEV4Y2VwdGlvbj4gZXJyb3JIYW5kbGVyKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGNhbGxhYmxlLmNhbGwoKSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZXJyb3JIYW5kbGVyLmFjY2VwdChlKTsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVMb2NhdGlvbihMb2NhdGlvblR5cGUgbG9jYXRpb25UeXBlLCBTdHJpbmcgbG9jYXRpb25OYW1lLCBMb2NhdGlvbiBwYXJlbnRMb2NhdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKEFycmF5cy5hc0xpc3Qoc2F2ZWRSZXF1aXNpdGlvbi5nZXRTZWN1cml0eU1ldGEoKSkuY29udGFpbnMoSGlyaW5nQ29udGFpbmVyU2VjdXJpdHlDb25zdGFudHMuTCArICI6IiArIGxvY2F0aW9uLmdldElkKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlIGxvY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2F0aW9uTmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICBMb2NhdGlvbiBsb2NhdGlvbiA9IG5ldyBMb2NhdGlvbigpOwogICAgICAgIGxvY2F0aW9uLnNldElkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwogICAgICAgIGxvY2F0aW9uLnNldE5hbWUobG9jYXRpb25OYW1lKTsKICAgICAgICBsb2NhdGlvbi5zZXRUeXBlKGxvY2F0aW9uVHlwZSk7CiAgICAgICAgbG9jYXRpb24uc2V0QWN0aXZlKHRydWUpOwogICAgICAgIGlmKHBhcmVudExvY2F0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbG9jYXRpb24uc2V0UGFyZW50SWQocGFyZW50TG9jYXRpb24uZ2V0SWQoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvblJlcG9zaXRvcnkuc2F2ZShsb2NhdGlvbik7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlIGxvY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2F0aW9uTmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICBMb2NhdGlvbiBsb2NhdGlvbiA9IG5ldyBMb2NhdGlvbigpOwogICAgICAgIGxvY2F0aW9uLnNldElkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwogICAgICAgIGxvY2F0aW9uLnNldE5hbWUobG9jYXRpb25OYW1lKTsKICAgICAgICBsb2NhdGlvbi5zZXRUeXBlKGxvY2F0aW9uVHlwZSk7CiAgICAgICAgbG9jYXRpb24uc2V0QWN0aXZlKHRydWUpOwogICAgICAgIGlmKHBhcmVudExvY2F0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbG9jYXRpb24uc2V0UGFyZW50SWQocGFyZW50TG9jYXRpb24uZ2V0SWQoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvblJlcG9zaXRvcnkuc2F2ZShsb2NhdGlvbik7CiAgICB9CiAgICAKICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVDaXR5KFN0cmluZyBjaXR5TmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICByZXR1cm4gIGNyZWF0ZUxvY2F0aW9uKExvY2F0aW9uVHlwZS5DaXR5LCBjaXR5TmFtZSwgcGFyZW50TG9jYXRpb24pOwogICAgfQoKICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVDb3VudHJ5KFN0cmluZyBjb3VudHJ5TmFtZSwgTG9jYXRpb24gdW5pb25Mb2NhdGlvbikgewogICAgICAgIHJldHVybiBjcmVhdGVMb2NhdGlvbihMb2NhdGlvblR5cGUuQ2l0eSwgY291bnRyeU5hbWUsIHVuaW9uTG9jYXRpb24pOwogICAgfQogICAgCiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlQ291bnRyeShTdHJpbmcgY291bnRyeU5hbWUpIHsKICAgICAgICByZXR1cm4gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlLkNpdHksIGNvdW50cnlOYW1lLCBudWxsKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVMb2NhdGlvbihMb2NhdGlvblR5cGUgbG9jYXRpb25UeXBlLCBTdHJpbmcgbG9jYXRpb25OYW1lLCBMb2NhdGlvbiBwYXJlbnRMb2NhdGlvbikgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>action Git.Branches</text>
