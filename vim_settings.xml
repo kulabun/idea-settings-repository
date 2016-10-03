@@ -94,8 +94,8 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1474533537910">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475483512958">
+        <mark key="[" line="30" column="61" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="47" />
@@ -511,11 +511,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475481456055">
-        <mark key="[" line="81" column="71" />
-        <mark key="]" line="78" column="67" />
-        <mark key="^" line="78" column="67" />
-        <mark key="." line="78" column="67" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475482957531">
+        <mark key="[" line="98" column="17" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="16" />
+        <mark key="^" line="98" column="16" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -612,7 +612,7 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" timestamp="1475480636168">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" timestamp="1475482839533">
         <mark key="'" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1474556157788">
@@ -836,6 +836,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainerSimpleEntity.java" timestamp="1475483492538">
+        <mark key="[" line="119" column="2" />
+        <mark key="]" line="119" column="1" />
+        <mark key="." line="119" column="1" />
+        <mark key="^" line="119" column="1" />
+      </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473906383271">
         <mark key="[" line="94" column="71" />
         <mark key="]" line="98" column="0" />
@@ -1028,53 +1034,53 @@
       <jump line="40" column="26" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ViAgIHB1YmxpYyBTaW1wbGVFbnRpdHkgaGlyaW5nQ29udGFpbmVyTG9jYXRpb24oKSB7CiAgICAgICAgcmV0dXJuIDsKICAgIH0KCiAgICBwdWJsaWMgSGlyaW5nQ29udGFpbmVyU2ltcGxlRW50aXR5IGhpcmluZ0NvbnRhaW5lckxvY2F0aW9uKFNpbXBsZUVudGl0eSBoaXJpbmdDb250YWluZXJMb2NhdGlvbikgewogICAgICAgIHRoaXMuID0gaGlyaW5nQ29udGFpbmVyTG9jYXRpb247CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>resultLocations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4KICAgIDxvcmRlckVudHJ5IHR5cGU9InNvdXJjZUZvbGRlciIgZm9yVGVzdHM9ImZhbHNlIiAvPgogIDwvY29tcG9uZW50Pgo8L21vZHVsZT4K</text>
+        <text encoding="base64">ICAgIEBFbWJlZGRlZAogICAgQEF0dHJpYnV0ZU92ZXJyaWRlcyh7CiAgICAgICAgICAgIEBBdHRyaWJ1dGVPdmVycmlkZShuYW1lID0gImlkIiwgY29sdW1uID0gQENvbHVtbihuYW1lID0gImhpcmluZ19jb250YWluZXJfb3duZXJfaWQiKSksCiAgICAgICAgICAgIEBBdHRyaWJ1dGVPdmVycmlkZShuYW1lID0gIm5hbWUiLCBjb2x1bW4gPSBAQ29sdW1uKG5hbWUgPSAiaGlyaW5nX2NvbnRhaW5lcl9vd25lcl9uYW1lIikpCiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki5pbWwK</text>
+        <text encoding="base64">ViAgIHB1YmxpYyBTaW1wbGVFbnRpdHkgaGlyaW5nQ29udGFpbmVyTG9jYXRpb24oKSB7CiAgICAgICAgcmV0dXJuIDsKICAgIH0KCiAgICBwdWJsaWMgSGlyaW5nQ29udGFpbmVyU2ltcGxlRW50aXR5IGhpcmluZ0NvbnRhaW5lckxvY2F0aW9uKFNpbXBsZUVudGl0eSBoaXJpbmdDb250YWluZXJMb2NhdGlvbikgewogICAgICAgIHRoaXMuID0gaGlyaW5nQ29udGFpbmVyTG9jYXRpb247CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KjphY3Rpb24gSGlkZVNpZGVXaW5kb3dzCg==</text>
+        <text encoding="base64">ICAgIEBFbWJlZGRlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IGRkICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gcmVjdXJzaXZlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFNpbXBsZUVudGl0eT4gcmVzdWx0TG9jYXRpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChTdHJpbmcgbG9jYXRpb25JZCA6IGxvY2F0aW9uSWRzKSB7CiAgICAgICAgICAgIFNpbXBsZUVudGl0eSBsb2NhdGlvbiA9IGxvY2F0aW9uU2VydmljZS5nZXRMb2NhdGlvbihsb2NhdGlvbklkKS50b1NpbXBsZUVudGl0eSgpOwogICAgICAgICAgICBMaXN0PFNpbXBsZUVudGl0eT4gY2hpbGRyZW5zID0gbG9jYXRpb25TZXJ2aWNlLmdldENoaWxkcmVuTG9jYXRpb25zKGxvY2F0aW9uKTsKICAgICAgICAgICAgcmVzdWx0TG9jYXRpb25zLmFkZEFsbChjaGlsZHJlbnMpOwogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIHB1dEtleU1hcHBpbmcoQE5vdE51bGwgU2V0PE1hcHBpbmdNb2RlPiBtb2RlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOb3ROdWxsIExpc3Q8S2V5U3Ryb2tlPiBmcm9tS2V5cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBOdWxsYWJsZSBMaXN0PEtleVN0cm9rZT4gdG9LZXlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE51bGxhYmxlIFZpbUV4dGVuc2lvbkhhbmRsZXIgZXh0ZW5zaW9uSGFuZGxlciw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TG9jYXRpb25zLmZvckVhY2gobG9jYXRpb24gLT4gbG9jYSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25JZHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFWaW1TaG9ydGN1dEtleUFjdGlvbi5WSU1fT05MWV9FRElUT1JfS0VZUy5jb250YWlucyhrZXlTdHJva2UpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGxvY2F0aW9uSWRzID0gbmV3IEFycmF5TGlzdDw+KGxvY2F0aW9ucyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFR1cm4gb24gaW5zZXJ0IG1vZGUgaWYgZWRpdG9yIGRvZXNuJ3QgaGF2ZSBhbnkgZmlsZQogICAgICAgICAgLyoKICAgICAgICAgIGlmICghRWRpdG9yRGF0YS5pc0ZpbGVFZGl0b3IoZWRpdG9yKSAmJiBlZGl0b3IuZ2V0RG9jdW1lbnQoKS5pc1dyaXRhYmxlKCkgJiYKICAgICAgICAgICAgICAhQ29tbWFuZFN0YXRlLmluSW5zZXJ0TW9kZShlZGl0b3IpKSB7CiAgICAgICAgICAgIEtleUhhbmRsZXIuZ2V0SW5zdGFuY2UoKS5oYW5kbGVLZXkoZWRpdG9yLCBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCdpJyksIG5ldyBFZGl0b3JEYXRhQ29udGV4dChlZGl0b3IpKTsKICAgICAgICAgIH0KICAgICAgICAgICovCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8U2ltcGxlRW50aXR5PiBnZXRXaXRoQ2hpbGRyZW5Mb2NhdGlvbihTaW1wbGVFbnRpdHkgbG9jYXRpb24pIHsKICAgICAgICBMaXN0PFNpbXBsZUVudGl0eT4gY2hpbGRyZW4gPSBsb2NhdGlvblNlcnZpY2UuZ2V0Q2hpbGRyZW5Mb2NhdGlvbnMobG9jYXRpb24pOwogICAgICAgIEFycmF5TGlzdDxTaW1wbGVFbnRpdHk+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHJlc3VsdC5hZGQobG9jYXRpb24pOwogICAgICAgIHJlc3VsdC5hZGRBbGwoY2hpbGRyZW4pOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVklNX09OTFlfRURJVE9SX0tFWVMuY29udGFpbnMoa2V5U3Ryb2tlKSkgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKExpc3Q6OnN0cmVhbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAodGhpczo6Z2V0V2l0aENoaWxkcmVuTG9jYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action GenerateGetterAndSetter</text>
       </register>
     </registers>
     <search>
@@ -1111,7 +1117,6 @@
       </history-search>
       <history-cmd>
         <entry>action FindWordAtCaret</entry>
-        <entry>action GenerateGetterAndSetter</entry>
         <entry>action Compare.SameVersion</entry>
         <entry>actionlist compare</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -1130,6 +1135,7 @@
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action GenerateGetterAndSetter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1237,7 +1243,7 @@
       <shortcut-conflict owner="vim">
         <text>pressed F9</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1308,6 +1314,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed INSERT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed UP</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
