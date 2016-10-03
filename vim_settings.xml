@@ -493,6 +493,13 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1475480271704">
+        <mark key="'" line="37" column="42" />
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="5" />
+        <mark key="^" line="40" column="5" />
+        <mark key="." line="40" column="5" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -503,12 +510,6 @@
         <mark key="[" line="21" column="69" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1473081818257">
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="56" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -916,7 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="18" column="8" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="27" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -1016,6 +1016,7 @@
       <jump line="291" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="653" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
+      <jump line="37" column="42" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1064,7 +1065,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
@@ -1118,8 +1119,8 @@
         <entry>buffer</entry>
         <entry>b</entry>
         <entry>action ReformatCode</entry>
-        <entry>action HideSideWindows</entry>
         <entry>w</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1271,6 +1272,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed PAGE_DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed PAGE_UP</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
