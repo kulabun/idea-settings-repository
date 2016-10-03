@@ -94,11 +94,10 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475504094451">
-        <mark key="[" line="35" column="68" />
-        <mark key="]" line="35" column="111" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="32" column="47" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475505682057">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/project/meta4linux/resources/META-INF/plugin.xml" timestamp="1475252098182">
         <mark key="[" line="10" column="25" />
@@ -523,10 +522,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475505091366">
-        <mark key="[" line="74" column="5" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475506094742">
+        <mark key="[" line="96" column="26" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -1074,49 +1073,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24uc2V0SWQoQU5ZX0xPQ0FUSU9OX0lEKTsK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IC8vIExldCBCeV9DaXR5IGdyb3VwcyBzZWUgYnkgY2l0eSByZXF1aXNpdGlvbnM=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgcXVlcnlBbmQoQ2hhclNlcXVlbmNlLi4uIHF1ZXJpZXMpIHsKICAgICAgICByZXR1cm4gQXJyYXlzLnN0cmVhbShxdWVyaWVzKS5maWx0ZXIocSAtPiBxICE9IG51bGwpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCIgYW5kICIsICIoIiwgIikiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5SWRJblF1ZXJ5KGF0dHJpYnV0ZVBhdGgsIGxvY2F0aW9uSWRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24uc2V0SWQoQU5ZX0xPQ0FUSU9OX0lEKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdyb3VwRmlsdGVyLmFwcGx5KGJ5TG9jYXRpb25Vc2VyR3JvdXBzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYXRpb24gbG9jYXRpb24gPSBuZXcgTG9jYXRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1bmN0aW9uPFNldDxHcm91cD4sIFNldDxHcm91cD4+IGdyb3VwRmlsdGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoU2ltcGxlRW50aXR5OjpnZXRJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHcm91cExvY2F0aW9uIGdyb3VwTG9jYXRpb247IExvY2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoTG9jYXRpb246OnRvU2ltcGxlRW50aXR5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAobG9jYXRpb25TZXJ2aWNlOjpnZXRMb2NhdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoU2ltcGxlRW50aXR5OjpnZXRJZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoTG9jYXRpb246OnRvU2ltcGxlRW50aXR5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nIHByZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QElnbm9yZSgiRVBNU1RBRi0xMzQzNiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5QW5kKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -1359,6 +1358,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed UP</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift pressed RIGHT</text>
