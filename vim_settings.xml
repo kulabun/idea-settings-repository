@@ -94,7 +94,7 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475486964474">
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475488416376">
         <mark key="[" line="33" column="148" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -127,6 +127,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/integration/RequisitionIntegrationTest.java" timestamp="1475489145604">
+        <mark key="[" line="185" column="82" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
         <mark key="[" line="246" column="113" />
@@ -192,6 +197,12 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_282__add_location_to_hiring_container_simple_entity.sql" timestamp="1475490196353">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_rejected.sql" timestamp="1473860259210">
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
@@ -215,10 +226,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/AbstractHiringContainerTest.java" timestamp="1474556751122">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/AbstractHiringContainerTest.java" timestamp="1475489063438">
+        <mark key="[" line="221" column="5" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
+        <mark key="^" line="238" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringControllerFtsTest.java" timestamp="1473072410830">
         <mark key="[" line="79" column="41" />
@@ -493,12 +505,12 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1475480271704">
-        <mark key="'" line="37" column="42" />
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="40" column="5" />
-        <mark key="^" line="40" column="5" />
-        <mark key="." line="40" column="5" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" timestamp="1475489053833">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="101" column="4" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
         <mark key="[" line="0" column="0" />
@@ -810,11 +822,11 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475487804966">
-        <mark key="[" line="143" column="25" />
-        <mark key="]" line="143" column="25" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="142" column="9" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475489923445">
+        <mark key="[" line="143" column="17" />
+        <mark key="]" line="260" column="3" />
+        <mark key="." line="260" column="3" />
+        <mark key="^" line="260" column="3" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app/src/main/resources/dataSet/195-groups-dev.json" timestamp="1473676904887">
         <mark key="[" line="225" column="7" />
@@ -837,10 +849,10 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainerSimpleEntity.java" timestamp="1475483492538">
-        <mark key="[" line="119" column="2" />
-        <mark key="]" line="119" column="1" />
-        <mark key="." line="119" column="1" />
-        <mark key="^" line="119" column="1" />
+        <mark key="[" line="118" column="2" />
+        <mark key="]" line="118" column="1" />
+        <mark key="." line="118" column="1" />
+        <mark key="^" line="118" column="1" />
       </file>
       <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" timestamp="1473906383271">
         <mark key="[" line="94" column="71" />
@@ -912,11 +924,11 @@
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/CheckPrerequirementsConfiguration.java" timestamp="1474460900695">
         <mark key="[" line="12" column="79" />
       </file>
-      <file name="/fragment.java" timestamp="1475486993621">
+      <file name="/fragment.java" timestamp="1475488451644">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="132" />
+        <mark key="]" line="0" column="140" />
         <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="132" />
+        <mark key="." line="0" column="140" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/constant/ExternalRelocation.java" timestamp="1474549705308">
         <mark key="[" line="16" column="18" />
@@ -1035,52 +1047,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICBBREQgQ09MVU1OIGhpcmluZ19jb250YWluZXJfbG9jYXRpb25faWQgVEVYVCwgCiAgQUREIENPTFVNTiBoaXJpbmdfY29udGFpbmVyX2xvY2F0aW9uX25hbWUgVEVYVDsK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgcXVlcnlCeUxvY2F0aW9uR3JvdXBzKExpc3Q8R3JvdXA+IHVzZXJHcm91cHMsIFNpbmd1bGFyQXR0cmlidXRlPD8sID8+IGxvY2F0aW9uQXR0cmlidXRlLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNJbmNsdWRlQ2hpbGRMb2NhdGlvbnMpIHsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgbV9yZXF1aXNpdGlvbiAKICBBREQgQ09MVU1OIGhpcmluZ19jb250YWluZXJfbG9jYXRpb25faWQgVEVYVCwgCiAgQUREIENPTFVNTiBoaXJpbmdfY29udGFpbmVyX2xvY2F0aW9uX25hbWUgVEVYVDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3YWl0UHJvamVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWl0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25JZHMuYWRkKGRkKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKEFycmF5cy5hc0xpc3Qoc2F2ZWRSZXF1aXNpdGlvbi5nZXRTZWN1cml0eU1ldGEoKSkuY29udGFpbnMoSGlyaW5nQ29udGFpbmVyU2VjdXJpdHlDb25zdGFudHMuTCArICI6IiArIGxvY2F0aW9uLmdldElkKCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aEJ1aWxkZXIuYXBwZW5kKGF0dHIuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlIGxvY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2F0aW9uTmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICBMb2NhdGlvbiBsb2NhdGlvbiA9IG5ldyBMb2NhdGlvbigpOwogICAgICAgIGxvY2F0aW9uLnNldElkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwogICAgICAgIGxvY2F0aW9uLnNldE5hbWUobG9jYXRpb25OYW1lKTsKICAgICAgICBsb2NhdGlvbi5zZXRUeXBlKGxvY2F0aW9uVHlwZSk7CiAgICAgICAgbG9jYXRpb24uc2V0QWN0aXZlKHRydWUpOwogICAgICAgIGlmKHBhcmVudExvY2F0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbG9jYXRpb24uc2V0UGFyZW50SWQocGFyZW50TG9jYXRpb24uZ2V0SWQoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvblJlcG9zaXRvcnkuc2F2ZShsb2NhdGlvbik7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHBhdGhCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVMb2NhdGlvbihMb2NhdGlvblR5cGUgbG9jYXRpb25UeXBlLCBTdHJpbmcgbG9jYXRpb25OYW1lLCBMb2NhdGlvbiBwYXJlbnRMb2NhdGlvbikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNpbmd1bGFyQXR0cmlidXRlSW1wbDxULCBYPihvaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ViAgIHB1YmxpYyBTaW1wbGVFbnRpdHkgaGlyaW5nQ29udGFpbmVyTG9jYXRpb24oKSB7CiAgICAgICAgcmV0dXJuIDsKICAgIH0KCiAgICBwdWJsaWMgSGlyaW5nQ29udGFpbmVyU2ltcGxlRW50aXR5IGhpcmluZ0NvbnRhaW5lckxvY2F0aW9uKFNpbXBsZUVudGl0eSBoaXJpbmdDb250YWluZXJMb2NhdGlvbikgewogICAgICAgIHRoaXMuID0gaGlyaW5nQ29udGFpbmVyTG9jYXRpb247CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBFbWJlZGRlZAo=</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlIGxvY2F0aW9uVHlwZSwgU3RyaW5nIGxvY2F0aW9uTmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICBMb2NhdGlvbiBsb2NhdGlvbiA9IG5ldyBMb2NhdGlvbigpOwogICAgICAgIGxvY2F0aW9uLnNldElkKFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpOwogICAgICAgIGxvY2F0aW9uLnNldE5hbWUobG9jYXRpb25OYW1lKTsKICAgICAgICBsb2NhdGlvbi5zZXRUeXBlKGxvY2F0aW9uVHlwZSk7CiAgICAgICAgbG9jYXRpb24uc2V0QWN0aXZlKHRydWUpOwogICAgICAgIGlmKHBhcmVudExvY2F0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbG9jYXRpb24uc2V0UGFyZW50SWQocGFyZW50TG9jYXRpb24uZ2V0SWQoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBsb2NhdGlvblJlcG9zaXRvcnkuc2F2ZShsb2NhdGlvbik7CiAgICB9CiAgICAKICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVDaXR5KFN0cmluZyBjaXR5TmFtZSwgTG9jYXRpb24gcGFyZW50TG9jYXRpb24pIHsKICAgICAgICByZXR1cm4gIGNyZWF0ZUxvY2F0aW9uKExvY2F0aW9uVHlwZS5DaXR5LCBjaXR5TmFtZSwgcGFyZW50TG9jYXRpb24pOwogICAgfQoKICAgIHByb3RlY3RlZCBMb2NhdGlvbiBjcmVhdGVDb3VudHJ5KFN0cmluZyBjb3VudHJ5TmFtZSwgTG9jYXRpb24gdW5pb25Mb2NhdGlvbikgewogICAgICAgIHJldHVybiBjcmVhdGVMb2NhdGlvbihMb2NhdGlvblR5cGUuQ2l0eSwgY291bnRyeU5hbWUsIHVuaW9uTG9jYXRpb24pOwogICAgfQogICAgCiAgICBwcm90ZWN0ZWQgTG9jYXRpb24gY3JlYXRlQ291bnRyeShTdHJpbmcgY291bnRyeU5hbWUpIHsKICAgICAgICByZXR1cm4gY3JlYXRlTG9jYXRpb24oTG9jYXRpb25UeXBlLkNpdHksIGNvdW50cnlOYW1lLCBudWxsKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFNpbXBsZUVudGl0eT4gcmVzdWx0TG9jYXRpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChTdHJpbmcgbG9jYXRpb25JZCA6IGxvY2F0aW9uSWRzKSB7CiAgICAgICAgICAgIFNpbXBsZUVudGl0eSBsb2NhdGlvbiA9IGxvY2F0aW9uU2VydmljZS5nZXRMb2NhdGlvbihsb2NhdGlvbklkKS50b1NpbXBsZUVudGl0eSgpOwogICAgICAgICAgICBMaXN0PFNpbXBsZUVudGl0eT4gY2hpbGRyZW5zID0gbG9jYXRpb25TZXJ2aWNlLmdldENoaWxkcmVuTG9jYXRpb25zKGxvY2F0aW9uKTsKICAgICAgICAgICAgcmVzdWx0TG9jYXRpb25zLmFkZEFsbChjaGlsZHJlbnMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TG9jYXRpb25zLmZvckVhY2gobG9jYXRpb24gLT4gbG9jYSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1131,11 +1143,11 @@
         <entry>buffer</entry>
         <entry>b</entry>
         <entry>w</entry>
-        <entry>action HideSideWindows</entry>
         <entry>action GenerateGetterAndSetter</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action HideSideWindows</entry>
         <entry>action Find</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1314,6 +1326,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed DOWN</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed INSERT</text>
