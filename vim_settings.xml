@@ -79,8 +79,8 @@
         <mark key="^" line="0" column="26321" />
         <mark key="." line="0" column="26321" />
       </file>
-      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1474123009025">
-        <mark key="[" line="97" column="24" />
+      <file name="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1475468797867">
+        <mark key="[" line="821" column="19" />
         <mark key="]" line="97" column="24" />
         <mark key="." line="97" column="24" />
       </file>
@@ -1281,6 +1281,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed ENTER</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
