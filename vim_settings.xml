@@ -94,11 +94,10 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475507990116">
-        <mark key="[" line="90" column="79" />
-        <mark key="]" line="90" column="68" />
-        <mark key="." line="90" column="68" />
-        <mark key="^" line="90" column="68" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475508546766">
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/project/meta4linux/resources/META-INF/plugin.xml" timestamp="1475252098182">
         <mark key="[" line="10" column="25" />
@@ -1081,7 +1080,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1096,34 +1095,34 @@
         <text encoding="base64">ICAgICAgICBTZXQ8TG9jYXRpb24+IGNvdW50cnlMb2NhdGlvbnMgPSBncm91cExvY2F0aW9ucy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihsb2NhdGlvbiAtPiBMb2NhdGlvblR5cGUuQ291bnRyeS5lcXVhbHMobG9jYXRpb24uZ2V0VHlwZSgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBpZiAoaXNJbmNsdWRlQ2hpbGRMb2NhdGlvbnMpIHsKICAgICAgICAgICAgbG9jYXRpb25zLmFkZEFsbChnZXRDaGlsZHJlbkxvY2F0aW9ucyhsb2NhdGlvbnMpKTsKICAgICAgICB9CiAgICAgICAgaWYgKGlzSW5jbHVkZUFueUxvY2F0aW9uKSB7CiAgICAgICAgICAgIGxvY2F0aW9ucy5hZGQobG9jYXRpb25TZXJ2aWNlLmdldExvY2F0aW9uKEFOWV9MT0NBVElPTl9JRCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyR3JvdXBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobG9jYXRpb24gLT4gTG9jYXRpb25UeXBlLkNvdW50cnkuZXF1YWxzKGxvY2F0aW9uLmdldFR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBpZiAoaXNJbmNsdWRlQ2hpbGRMb2NhdGlvbnMpIHsKICAgICAgICAgICAgbG9jYXRpb25zLmFkZEFsbChnZXRDaGlsZHJlbkxvY2F0aW9ucyhsb2NhdGlvbnMpKTsKICAgICAgICB9CiAgICAgICAgaWYgKGlzSW5jbHVkZUFueUxvY2F0aW9uKSB7CiAgICAgICAgICAgIGxvY2F0aW9ucy5hZGQobG9jYXRpb25TZXJ2aWNlLmdldExvY2F0aW9uKEFOWV9MT0NBVElPTl9JRCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gcmV0dXJucyBhIGZpbHRlcmVkCiAgICAgKi8KICAgIENvbGxlY3Rpb248TG9jYXRpb24+IGZpbHRlckJ5VHlwZShDb2xsZWN0aW9uPExvY2F0aW9uPiBsb2NhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobG9jYXRpb24gLT4gTG9jYXRpb25UeXBlLkNvdW50cnkuZXF1YWxzKGxvY2F0aW9uLmdldFR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBsb2NhdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gcmV0dXJucyBhIGZpbHRlcmVkCiAgICAgKi8KICAgIENvbGxlY3Rpb248TG9jYXRpb24+IGZpbHRlckJ5VHlwZShDb2xsZWN0aW9uPExvY2F0aW9uPiBsb2NhdGlvbnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TG9jYXRpb24+IGxvY2F0aW9ucyA9IGdldEdyb3VwTG9jYXRpb25zKGJ5TG9jYXRpb25Vc2VyKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBsb2NhdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdyb3VwPiBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdldEJ5TG9jYXRpb25Vc2VyR3JvdXBzKHVzZXJHcm91cHMpOwogICAgICAgIGlmIChieUxvY2F0aW9uVXNlckdyb3Vwcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
