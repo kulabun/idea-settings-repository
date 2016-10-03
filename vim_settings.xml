@@ -12,8 +12,8 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475501970588">
-        <mark key="[" line="0" column="19" />
+      <file name="/a.dummy" timestamp="1475507761912">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -94,10 +94,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475506677080">
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProvider.java" timestamp="1475507990116">
+        <mark key="[" line="90" column="79" />
+        <mark key="]" line="90" column="68" />
+        <mark key="." line="90" column="68" />
+        <mark key="^" line="90" column="68" />
       </file>
       <file name="$USER_HOME$/project/meta4linux/resources/META-INF/plugin.xml" timestamp="1475252098182">
         <mark key="[" line="10" column="25" />
@@ -523,10 +524,10 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475506731367">
-        <mark key="[" line="108" column="66" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="96" column="3" />
+        <mark key="[" line="112" column="66" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="100" column="3" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
@@ -638,6 +639,12 @@
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" timestamp="1475507361746">
+        <mark key="'" line="41" column="26" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1474556157788">
         <mark key="[" line="167" column="0" />
@@ -1074,52 +1081,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdyb3VwPiBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdldEJ5TG9jYXRpb25Vc2VyR3JvdXBzKHVzZXJHcm91cHMpOwogICAgICAgIGlmIChieUxvY2F0aW9uVXNlckdyb3Vwcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIExldCBCeV9DaXR5IGdyb3VwcyBzZWUgYnkgY2l0eSByZXF1aXNpdGlvbnM=</text>
+        <text>groupLocations.stream()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5SWRJblF1ZXJ5KGF0dHJpYnV0ZVBhdGgsIGxvY2F0aW9uSWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TG9jYXRpb24+IGNvdW50cnlMb2NhdGlvbnMgPSBncm91cExvY2F0aW9ucy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihsb2NhdGlvbiAtPiBMb2NhdGlvblR5cGUuQ291bnRyeS5lcXVhbHMobG9jYXRpb24uZ2V0VHlwZSgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdyb3VwPiBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdldEJ5TG9jYXRpb25Vc2VyR3JvdXBzKHVzZXJHcm91cHMpOwogICAgICAgIGlmIChieUxvY2F0aW9uVXNlckdyb3Vwcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBpZiAoaXNJbmNsdWRlQ2hpbGRMb2NhdGlvbnMpIHsKICAgICAgICAgICAgbG9jYXRpb25zLmFkZEFsbChnZXRDaGlsZHJlbkxvY2F0aW9ucyhsb2NhdGlvbnMpKTsKICAgICAgICB9CiAgICAgICAgaWYgKGlzSW5jbHVkZUFueUxvY2F0aW9uKSB7CiAgICAgICAgICAgIGxvY2F0aW9ucy5hZGQobG9jYXRpb25TZXJ2aWNlLmdldExvY2F0aW9uKEFOWV9MT0NBVElPTl9JRCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24uc2V0SWQoQU5ZX0xPQ0FUSU9OX0lEKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobG9jYXRpb24gLT4gTG9jYXRpb25UeXBlLkNvdW50cnkuZXF1YWxzKGxvY2F0aW9uLmdldFR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYXRpb24gbG9jYXRpb24gPSBuZXcgTG9jYXRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoU2ltcGxlRW50aXR5OjpnZXRJZCkK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gcmV0dXJucyBhIGZpbHRlcmVkCiAgICAgKi8KICAgIENvbGxlY3Rpb248TG9jYXRpb24+IGZpbHRlckJ5VHlwZShDb2xsZWN0aW9uPExvY2F0aW9uPiBsb2NhdGlvbnMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoTG9jYXRpb246OnRvU2ltcGxlRW50aXR5KQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBsb2NhdGlvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAobG9jYXRpb25TZXJ2aWNlOjpnZXRMb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoU2ltcGxlRW50aXR5OjpnZXRJZCkK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TG9jYXRpb24+IGxvY2F0aW9ucyA9IGdldEdyb3VwTG9jYXRpb25zKGJ5TG9jYXRpb25Vc2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoTG9jYXRpb246OnRvU2ltcGxlRW50aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEdyb3VwPiBieUxvY2F0aW9uVXNlckdyb3VwcyA9IGdldEJ5TG9jYXRpb25Vc2VyR3JvdXBzKHVzZXJHcm91cHMpOwogICAgICAgIGlmIChieUxvY2F0aW9uVXNlckdyb3Vwcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action HideSideWindows</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1171,10 +1178,10 @@
         <entry>w</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Git.Branches</entry>
         <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
