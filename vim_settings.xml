@@ -12,8 +12,8 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475312937997">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1475481037822">
+        <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
@@ -511,6 +511,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" timestamp="1475481456055">
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="78" column="67" />
+        <mark key="^" line="78" column="67" />
+        <mark key="." line="78" column="67" />
+      </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/Main.java" timestamp="1471847992952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -605,6 +611,9 @@
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" timestamp="1475480636168">
+        <mark key="'" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/HiringContainerControllerQuickFiltersTest.java" timestamp="1474556157788">
         <mark key="[" line="167" column="0" />
@@ -917,7 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="19" column="205" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="27" column="59" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
       <jump line="37" column="17" filename="$USER_HOME$/project/Moncon/src/main/java/Main.java" />
@@ -1017,16 +1025,17 @@
       <jump line="653" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
       <jump line="37" column="42" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
+      <jump line="40" column="26" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4KICAgIDxvcmRlckVudHJ5IHR5cGU9InNvdXJjZUZvbGRlciIgZm9yVGVzdHM9ImZhbHNlIiAvPgogIDwvY29tcG9uZW50Pgo8L21vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(EditorImpl) editor).isEmbeddedIntoDialogWrapper()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">CQ==</text>
@@ -1281,6 +1290,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed PAGE_UP</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed BACK_SPACE</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed DELETE</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed DOWN</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
