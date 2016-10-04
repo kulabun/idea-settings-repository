@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
@@ -166,7 +166,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationNodeService.java" timestamp="1475567469171">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationNodeService.java" timestamp="1475568354611">
         <mark key="[" line="82" column="107" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1475487030751">
@@ -1133,7 +1133,7 @@ it.getId()</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1184,11 +1184,11 @@ it.getId()</text>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action AceJumpAction</entry>
         <entry>action Git.Branches</entry>
-        <entry>action Find</entry>
         <entry>action HideSideWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action Annotate</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
