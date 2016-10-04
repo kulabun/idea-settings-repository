@@ -166,8 +166,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationNodeService.java" timestamp="1475567307972">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/service/LocationNodeService.java" timestamp="1475567469171">
+        <mark key="[" line="82" column="107" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/HiringContainer.java" timestamp="1475487030751">
         <mark key="[" line="397" column="70" />
@@ -877,8 +877,8 @@
         <mark key="]" line="225" column="7" />
         <mark key="." line="225" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475491454825">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1475567745989">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="47" />
@@ -1133,7 +1133,7 @@ it.getId()</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Vcs.UpdateProject</text>
+        <text>action Annotate</text>
       </register>
     </registers>
     <search>
@@ -1171,7 +1171,6 @@ it.getId()</text>
       <history-cmd>
         <entry>actionlist compare</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Annotate</entry>
         <entry>action FindNext</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSGlkZVNpZGVXaW5kb3dz</entry>
         <entry>actionlist Escape</entry>
@@ -1189,6 +1188,7 @@ it.getId()</text>
         <entry>action HideSideWindows</entry>
         <entry>action ReformatCode</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
