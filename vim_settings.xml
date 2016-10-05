@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
@@ -357,7 +357,7 @@
         <mark key="." line="170" column="47" />
         <mark key="^" line="170" column="47" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_resourceplan_obsolete.sql" timestamp="1475662334547">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_resourceplan_obsolete.sql" timestamp="1475662781898">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="18" />
         <mark key="." line="78" column="18" />
@@ -613,7 +613,7 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_resourceplan_obsolete_reiteration.sql" timestamp="1475662380660">
+      <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_resourceplan_obsolete_reiteration.sql" timestamp="1475662771500">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="18" />
         <mark key="." line="79" column="18" />
