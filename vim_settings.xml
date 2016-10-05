@@ -528,6 +528,7 @@
         <mark key="^" line="33" column="5" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/epam/staf/nm-core-app/1.0.11/nm-core-app-1.0.11-sources.jar!/com/epam/notifications/transport/SMTPTransportService.java" timestamp="1475669609339" />
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
