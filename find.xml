@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'TradeAnalytics'" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,10 +18,10 @@
       <mask>*.yml</mask>
       <mask>*.xm</mask>
       <mask>*.java</mask>
-      <mask>*.json</mask>
       <mask>*.xml</mask>
       <mask>*.groovy</mask>
       <mask>*.sql</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
