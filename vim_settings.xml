@@ -1,19 +1,22 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" timestamp="1477641745943">
-        <mark key="'" line="69" column="2" />
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" timestamp="1477643234202">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
         <mark key="[" line="87" column="58" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" timestamp="1477641842365">
-        <mark key="'" line="0" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" timestamp="1477643147853">
+        <mark key="'" line="0" column="88" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/TestApplicationContextInitializer.java" timestamp="1474464524014">
         <mark key="[" line="28" column="49" />
@@ -63,8 +66,10 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/100-security-groups.json" timestamp="1477403598433">
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/100-security-groups.json" timestamp="1477642460520">
         <mark key="'" line="876" column="4" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
@@ -477,11 +482,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1474020230176">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="9" />
-        <mark key="^" line="55" column="9" />
-        <mark key="." line="55" column="9" />
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupConstants.java" timestamp="1477643305863">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="149" />
+        <mark key="^" line="55" column="149" />
+        <mark key="." line="55" column="149" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
         <mark key="[" line="14" column="0" />
@@ -960,6 +965,9 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/constant/GroupCategoryConstants.java" timestamp="1477643338439">
+        <mark key="[" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/Unit.java" timestamp="1473252236364">
         <mark key="[" line="50" column="74" />
         <mark key="]" line="49" column="0" />
@@ -1015,7 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/EmployeeRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/EmployeeRepository.java" />
       <jump line="9" column="226" filename="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" />
       <jump line="29" column="0" filename="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/prodDataUpdates/V1_0_231__update_applicant_comment_permissions.sql" />
@@ -1114,35 +1121,464 @@
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
       <jump line="69" column="2" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="0" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
+      <jump line="16" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
+      <jump line="0" column="88" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICB7CiAgICAiY2F0ZWdvcnlfaWQiOiAiUkVDUlVJVEVSU19ETCIsCiAgICAibmFtZV90ZW1wbGF0ZSI6ICJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE9mZmljZSAiLAogICAgImdyb3VwX2NhdGVnb3J5X2lkIjogImU2MGZlNjZjLTljZTYtMTFlNi1iMDg1LWM0MzQ2YjRlYTg4YSIKICB9LAogIHsKICAgICJjYXRlZ29yeV9pZCI6ICJSRUNSVUlURVJTX0RMIiwKICAgICJuYW1lX3RlbXBsYXRlIjogIldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQW5hbHl0aWNhbCBDZW50ZXIgIiwKICAgICJncm91cF9jYXRlZ29yeV9pZCI6ICJlNjNiZDlkZS05Y2U2LTExZTYtYmNhNS1jNDM0NmI0ZWE4OGEiCiAgfSw=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
       </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="49" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>group.getGroupCategories()).isEmpty();</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>^\(.*\)$</text>
+        <text>TA_DL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TG9jYXRpb24+IGZpbmRCeVBhcmVudElkQW5kVXBzYUxvY2F0aW9uKFN0cmluZyBpZCwgQm9vbGVhbiB1cHNhTG9jYXRpb24pOwo=</text>
+        <text encoding="base64">W3siY2F0ZWdvcnlfaWQiOiJSRUNSVUlURVJTX0RMIiwibmFtZV90ZW1wbGF0ZSI6IldGQSBUYWxlbnQgQWNxdWlzaXRpb24gWFggIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNDNkOTRkOC05Y2U2LTExZTYtOTgzNi1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBDdXN0b20gWFggIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNDY1ZGZjZS05Y2U2LTExZTYtODhkMC1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBieSBSb2xlIFhYICIsImdyb3VwX2NhdGVnb3J5X2lkIjoiZTQ5MWQwN2EtOWNlNi0xMWU2LWEzMGYtYzQzNDZiNGVhODhhIn0sCnsiY2F0ZWdvcnlfaWQiOiJSRUNSVUlURVJTX0RMIiwibmFtZV90ZW1wbGF0ZSI6IldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQ2FtcHVzIEhpcmluZyBYWCAiLCJncm91cF9jYXRlZ29yeV9pZCI6ImU0YjY3YWE2LTljZTYtMTFlNi1hNjFiLWM0MzQ2YjRlYTg4YSJ9LAp7ImNhdGVnb3J5X2lkIjoiUkVDUlVJVEVSU19ETCIsIm5hbWVfdGVtcGxhdGUiOiJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIExlYWRlcnNoaXAgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNGRlYmJiYS05Y2U2LTExZTYtOGQzMC1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBMZWFkZXJzaGlwIFhYICIsImdyb3VwX2NhdGVnb3J5X2lkIjoiZTUwNDkxNjQtOWNlNi0xMWU2LWE3OWQtYzQzNDZiNGVhODhhIn0sCnsiY2F0ZWdvcnlfaWQiOiJSRUNSVUlURVJTX0RMIiwibmFtZV90ZW1wbGF0ZSI6IldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQWRkcyBCRyAiLCJncm91cF9jYXRlZ29yeV9pZCI6ImU1MmUxNWU4LTljZTYtMTFlNi1iZWFkLWM0MzQ2YjRlYTg4YSJ9LAp7ImNhdGVnb3J5X2lkIjoiUkVDUlVJVEVSU19ETCIsIm5hbWVfdGVtcGxhdGUiOiJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE1pbnNrIFRlc3RpbmcgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNTUyYjVjZS05Y2U2LTExZTYtYjE2Mi1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBEaXZPbmUgQnVkYXBlc3QgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNTc4OTk4OC05Y2U2LTExZTYtODJlMS1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBVQSBSZWxvY2F0aW9uICIsImdyb3VwX2NhdGVnb3J5X2lkIjoiZTU5ZDM1Y2MtOWNlNi0xMWU2LWJhYzItYzQzNDZiNGVhODhhIn0sCnsiY2F0ZWdvcnlfaWQiOiJSRUNSVUlURVJTX0RMIiwibmFtZV90ZW1wbGF0ZSI6IldGQSBUYWxlbnQgQWNxdWlzaXRpb24gVUEgRXh0ZXJuYWwgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNWM3ZGRkNi05Y2U2LTExZTYtYTlhMC1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBNYW5hZ2VycyBVQlMgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNWVhMTEwOC05Y2U2LTExZTYtYTI5My1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBPZmZpY2UgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNjBmZTY2Yy05Y2U2LTExZTYtYjA4NS1jNDM0NmI0ZWE4OGEifSwKeyJjYXRlZ29yeV9pZCI6IlJFQ1JVSVRFUlNfREwiLCJuYW1lX3RlbXBsYXRlIjoiV0ZBIFRhbGVudCBBY3F1aXNpdGlvbiBBbmFseXRpY2FsIENlbnRlciAiLCJncm91cF9jYXRlZ29yeV9pZCI6ImU2M2JkOWRlLTljZTYtMTFlNi1iY2E1LWM0MzQ2YjRlYTg4YSJ9LAp7ImNhdGVnb3J5X2lkIjoiUkVDUlVJVEVSU19ETCIsIm5hbWVfdGVtcGxhdGUiOiJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIFNwZWNpYWwgUHJvamVjdHMgIiwiZ3JvdXBfY2F0ZWdvcnlfaWQiOiJlNjYxYjg1Yy05Y2U2LTExZTYtYTFiOC1jNDM0NmI0ZWE4OGEifQpdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB7CiAgICAiY2F0ZWdvcnlfaWQiOiAiUkVDUlVJVEVSU19ETCIsCiAgICAibmFtZV90ZW1wbGF0ZSI6ICJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE9mZmljZSAiLAogICAgImdyb3VwX2NhdGVnb3J5X2lkIjogImU2MGZlNjZjLTljZTYtMTFlNi1iMDg1LWM0MzQ2YjRlYTg4YSIKICB9LAogIHsKICAgICJjYXRlZ29yeV9pZCI6ICJSRUNSVUlURVJTX0RMIiwKICAgICJuYW1lX3RlbXBsYXRlIjogIldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQW5hbHl0aWNhbCBDZW50ZXIgIiwKICAgICJncm91cF9jYXRlZ29yeV9pZCI6ICJlNjNiZDlkZS05Y2U2LTExZTYtYmNhNS1jNDM0NmI0ZWE4OGEiCiAgfSw=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="49" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
@@ -1156,29 +1592,125 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
       </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAogICAgMDc2NWVjZDItOWNlNS0xMWU2LWJkMWMtYzQzNDZiNGVhODhhCg==</text>
+        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
-      <last-search>^\(.*\)$</last-search>
+      <last-search>TA_DL</last-search>
       <last-offset />
-      <last-pattern>^\(.*\)$</last-pattern>
-      <last-replace>{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:&quot;\1 &quot;,&quot;group_category_id&quot;:</last-replace>
-      <last-substitute>^\(.*\)$</last-substitute>
+      <last-pattern>TA_DL</last-pattern>
+      <last-replace>RECRUITERS_DL</last-replace>
+      <last-substitute>TA_DL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\^\(.*\)\$</entry>
-        <entry>^\(.*\)\$</entry>
         <entry>(.*\)\$</entry>
         <entry>\(.*\)\$</entry>
         <entry>\(\.*\)\$</entry>
@@ -1197,14 +1729,10 @@
         <entry>^\(.+\)</entry>
         <entry>^\(.*\)</entry>
         <entry>^\(.*\)$</entry>
+        <entry>},&quot;</entry>
+        <entry>TA_DL</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\(\.\*\)\$/111/g</entry>
-        <entry>%s/\^\(\.\*\)\$/111/g</entry>
-        <entry>%s/XX\$/111/g</entry>
-        <entry>%s/XX$/111/g</entry>
-        <entry>%s/^\(\.\*\)$/111/g</entry>
-        <entry>%s/\(\.\*\)$/111/g</entry>
         <entry>%s/\^\(\.\*\)$/111/g</entry>
         <entry>%s/\^WFA/111/g</entry>
         <entry>%s/^WFA/111/g</entry>
@@ -1218,6 +1746,12 @@
         <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:\1,&quot;group_category_id&quot;:/g</entry>
         <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:&quot;\1&quot;,&quot;group_category_id&quot;:/g</entry>
         <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:&quot;\1 &quot;,&quot;group_category_id&quot;:/g</entry>
+        <entry>%s/},&quot;/&quot;},</entry>
+        <entry>%s/TA_DL/RECRUITERS_DL/g</entry>
+        <entry>buffers</entry>
+        <entry>b</entry>
+        <entry>registers</entry>
+        <entry>action HideSideWindowsaction HideSideWindows</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
