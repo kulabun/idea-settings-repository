@@ -11,9 +11,6 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseJSImports" value="false" />
     <option name="collapseTSImports" value="false" />
