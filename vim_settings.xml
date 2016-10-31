@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
@@ -271,7 +271,6 @@
         <mark key="." line="19" column="171" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/populator/CustomJackson2ResourceReader.java" timestamp="1477645429690" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
         <mark key="[" line="411" column="33" />
         <mark key="]" line="411" column="58" />
@@ -523,7 +522,6 @@
         <mark key="^" line="316" column="0" />
         <mark key="." line="308" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/AuditDiffReader.java" timestamp="1477645777485" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/quartz/job/ObsoleteResourcePlansJob.java" timestamp="1475494969881">
         <mark key="[" line="216" column="55" />
       </file>
@@ -862,7 +860,6 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/Proposal.java" timestamp="1477645625565" />
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="31" />
@@ -941,6 +938,12 @@
       </file>
       <file name="vim_settings.xml" timestamp="1475253130185">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1477885718031">
+        <mark key="[" line="153" column="95" />
+        <mark key="]" line="153" column="3" />
+        <mark key="^" line="153" column="3" />
+        <mark key="." line="153" column="3" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
         <mark key="[" line="225" column="0" />
