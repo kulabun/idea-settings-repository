@@ -271,7 +271,6 @@
         <mark key="." line="19" column="171" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/populator/CustomJackson2ResourceReader.java" timestamp="1477645429690" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
         <mark key="[" line="411" column="33" />
         <mark key="]" line="411" column="58" />
@@ -314,6 +313,13 @@
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" timestamp="1478254053447">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="2" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="55" column="2" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsHiringApproverUpdateEvent.java" timestamp="1474022300252">
         <mark key="[" line="21" column="69" />
@@ -523,7 +529,6 @@
         <mark key="^" line="316" column="0" />
         <mark key="." line="308" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-common/src/main/java/com/epam/staf/repository/support/AuditDiffReader.java" timestamp="1477645777485" />
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/quartz/job/ObsoleteResourcePlansJob.java" timestamp="1475494969881">
         <mark key="[" line="216" column="55" />
       </file>
@@ -862,7 +867,6 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/data/Proposal.java" timestamp="1477645625565" />
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/failing/TestUnwrappedWithUnknown650.java" timestamp="1473914650245">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="31" />
@@ -1027,10 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/es/RequisitionFtsRepository.java" />
-      <jump line="24" column="57" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" />
-      <jump line="185" column="4" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" />
       <jump line="317" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" />
       <jump line="39" column="4" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
       <jump line="88" column="4" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
@@ -1127,10 +1127,14 @@
       <jump line="233" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
       <jump line="234" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
       <jump line="210" column="61" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
+      <jump line="313" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
+      <jump line="54" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
+      <jump line="65" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIn0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1352,10 +1356,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>group_categoryId</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIiwgImFjdGlvbiI6ICJkcm9wQWZ0ZXIifSwK</text>
@@ -1705,26 +1709,16 @@
       </register>
     </registers>
     <search>
-      <last-search>group_categoryId</last-search>
+      <last-search>&quot;&quot;</last-search>
       <last-offset />
-      <last-pattern>group_categoryId</last-pattern>
-      <last-replace>id</last-replace>
-      <last-substitute>group_categoryId</last-substitute>
+      <last-pattern>&quot;&quot;</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>&quot;&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\(\.\*\)$</entry>
-        <entry>\^\(\.\*\)$</entry>
-        <entry>\^WFA</entry>
-        <entry>^WFA</entry>
-        <entry>^\(.\*\)$</entry>
-        <entry>^\(WFA\)$</entry>
-        <entry>^\(WFA\)</entry>
-        <entry>^\(.+\)</entry>
-        <entry>^\(.*\)</entry>
-        <entry>^\(.*\)$</entry>
         <entry>},&quot;</entry>
         <entry>TA_DL</entry>
         <entry>{</entry>
@@ -1735,18 +1729,18 @@
         <entry>name_template</entry>
         <entry>id</entry>
         <entry>group_categoryId</entry>
+        <entry>([,&quot;])\n</entry>
+        <entry>\([,&quot;]\)\n\s+</entry>
+        <entry>\([,&quot;]\)\s+\n\s+</entry>
+        <entry>\([,&quot;]\)\n</entry>
+        <entry>\([,&quot;]\)\s+\n</entry>
+        <entry>\([,&quot;]\)\s*\n</entry>
+        <entry>\([,&quot;]\)\s*\n\s*</entry>
+        <entry>&quot;_</entry>
+        <entry>},{</entry>
+        <entry>&quot;&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/^\(.*\)$/\1/g</entry>
-        <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:\1,&quot;group_category_id&quot;:/g</entry>
-        <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:&quot;\1&quot;,&quot;group_category_id&quot;:/g</entry>
-        <entry>%s/^\(.*\)$/{&quot;category_id&quot;:&quot;TA_DL&quot;,&quot;name_template&quot;:&quot;\1 &quot;,&quot;group_category_id&quot;:/g</entry>
-        <entry>%s/},&quot;/&quot;},</entry>
-        <entry>%s/TA_DL/RECRUITERS_DL/g</entry>
-        <entry>buffers</entry>
-        <entry>b</entry>
-        <entry>registers</entry>
-        <entry>action HideSideWindowsaction HideSideWindows</entry>
         <entry>%s/{/{&quot;_class&quot;:&quot;com.epam.staf.data.GroupCategory&quot;,/g</entry>
         <entry>%s/com.epam/com.epamx/g</entry>
         <entry>%s/com.epamx.staf.data/com.epamx.staf.security.data/g</entry>
@@ -1756,6 +1750,16 @@
         <entry>%s/id/categoryId/g</entry>
         <entry>%s/group_categoryId/nameTemplate/g</entry>
         <entry>%s/group_categoryId/id/g</entry>
+        <entry>%s/([,&quot;])\n/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\n\s+/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\s+\n\s+/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\n/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\s+\n/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\s*\n/\1/g</entry>
+        <entry>%s/\([,&quot;]\)\s*\n\s*/\1/g</entry>
+        <entry>%s/&quot;_/{&quot;_/g</entry>
+        <entry>%s/},{/},/g</entry>
+        <entry>%s/&quot;&quot;/&quot;/g</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
