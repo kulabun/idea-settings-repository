@@ -1,0 +1,8 @@
+<templateSet group="Java Custom">
+  <template name="prctr" value="private $CLASS_NAME$(){&#10;}" description="Private Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
