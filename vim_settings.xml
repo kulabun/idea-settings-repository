@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
@@ -945,6 +945,12 @@
       </file>
       <file name="vim_settings.xml" timestamp="1475253130185">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1477885718031">
+        <mark key="[" line="153" column="95" />
+        <mark key="]" line="153" column="3" />
+        <mark key="^" line="153" column="3" />
+        <mark key="." line="153" column="3" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/position_project_status_changed_onhold.sql" timestamp="1473860718237">
         <mark key="[" line="225" column="0" />
