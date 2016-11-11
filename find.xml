@@ -18,9 +18,9 @@
       <mask>*.xm</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
-      <mask>*.groovy</mask>
       <mask>*.sql</mask>
       <mask>*.json</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
