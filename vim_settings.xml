@@ -141,6 +141,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/migration/V1_0_365_add_offering_dictionaries.sql" timestamp="1482848409157">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="35" />
@@ -239,6 +245,12 @@
       <file name="/a.sql" timestamp="1474360778996">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" timestamp="1482848154870">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlFileApplicationContextInitializer.java" timestamp="1473691180012">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="68" />
@@ -283,7 +295,6 @@
         <mark key="^" line="55" column="149" />
         <mark key="." line="55" column="149" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-interview/src/main/java/com/epam/staf/interview/remote/taleo/TaleoRemoteServiceImpl.java" timestamp="1480672377108" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/application.yml" timestamp="1473255978183">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -582,6 +593,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/resources/db/migration/V1_0_159__applicant_init.sql" timestamp="1482848398416" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/specification/HiringContainerSpecifications.java" timestamp="1474554587863">
         <mark key="[" line="76" column="15" />
         <mark key="]" line="75" column="85" />
@@ -839,6 +851,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/resources/dataPopulator/applicant/900-add-all-applicant-catalogs.json" timestamp="1482848215306">
+        <mark key="[" line="2336" column="0" />
+        <mark key="]" line="2336" column="0" />
+        <mark key="." line="2336" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/resources/dataSet/200-dataset-dev.json" timestamp="1473695079349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1049,10 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProviderTest.java" />
-      <jump line="39" column="4" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
-      <jump line="88" column="4" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
       <jump line="62" column="0" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/controller/AbstractDashboardTest.java" />
       <jump line="273" column="36" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/generator/RequisitionGenerator.java" />
       <jump line="37" column="8" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/AbstractBucketProvider.java" />
@@ -1149,10 +1162,14 @@
       <jump line="313" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
       <jump line="54" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
       <jump line="65" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
+      <jump line="46" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
+      <jump line="48" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIA==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1374,33 +1391,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;&quot;</text>
+        <text>\(.*\),</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIiwgImFjdGlvbiI6ICJkcm9wQWZ0ZXIifSwK</text>
+      <register name="0" type="4">
+        <text>{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIn0sCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="49" code="0" mods="0" />
-          <key char="55" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="55" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="58" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
@@ -1448,8 +1451,6 @@
           <key char="119" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="58" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
@@ -1497,60 +1498,6 @@
           <key char="119" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="58" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
@@ -1600,146 +1547,54 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMSIsIm5hbWUiOiAiVmVyYmFsIEFncmVlbWVudCJ9LAogIHsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxIiwibmFtZSI6ICJWZXJiYWwgQWdyZWVtZW50In0sCiAgeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEiLCJuYW1lIjogIlZlcmJhbCBBZ3JlZW1lbnQifSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB7CiAgICAiY2F0ZWdvcnlfaWQiOiAiUkVDUlVJVEVSU19ETCIsCiAgICAibmFtZV90ZW1wbGF0ZSI6ICJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE9mZmljZSAiLAogICAgImdyb3VwX2NhdGVnb3J5X2lkIjogImU2MGZlNjZjLTljZTYtMTFlNi1iMDg1LWM0MzQ2YjRlYTg4YSIKICB9LAogIHsKICAgICJjYXRlZ29yeV9pZCI6ICJSRUNSVUlURVJTX0RMIiwKICAgICJuYW1lX3RlbXBsYXRlIjogIldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQW5hbHl0aWNhbCBDZW50ZXIgIiwKICAgICJncm91cF9jYXRlZ29yeV9pZCI6ICJlNjNiZDlkZS05Y2U2LTExZTYtYmNhNS1jNDM0NmI0ZWE4OGEiCiAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">eyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEiLCJuYW1lIjoiUHJvamVjdCBNYW5hZ2VyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMiIsIm5hbWUiOiJQcm9qZWN0IE1hbmFnZXIgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMiLCJuYW1lIjoiUHJvamVjdCBNYW5hZ2VyIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0IiwibmFtZSI6IlBNTyBBbmFseXN0IEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNSIsIm5hbWUiOiJQTU8gQW5hbHlzdCBTZW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjYiLCJuYW1lIjoiVGVjaG5pY2FsIEFyY2hpdGVjdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjciLCJuYW1lIjoiVGVjaG5pY2FsIEFyY2hpdGVjdCA1KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiOCIsIm5hbWUiOiJUZWNobmljYWwgQXJjaGl0ZWN0IDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI5IiwibmFtZSI6IlF1YWxpdHkgRW5naW5lZXIifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEwIiwibmFtZSI6IlRlc3QvUUEgQXV0b21hdG9yIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTEiLCJuYW1lIjoiVGVzdC9RQSBBdXRvbWF0b3IgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEyIiwibmFtZSI6IlRlc3QvUUEgTGVhZCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEzIiwibmFtZSI6IlRlc3QvUUEgTGVhZCA0KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTQiLCJuYW1lIjoiVGVzdC9RQSBMZWFkIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxNSIsIm5hbWUiOiJUZXN0L1FBIEFuYWx5c3QgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxNiIsIm5hbWUiOiJUZXN0L1FBIEFuYWx5c3QgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjE3IiwibmFtZSI6IkRldmVsb3BtZW50IFRlYW0gTGVhZGVyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTgiLCJuYW1lIjoiRGV2ZWxvcG1lbnQgVGVhbSBMZWFkZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjE5IiwibmFtZSI6IkRldmVsb3BtZW50IFRlYW0gTGVhZGVyIDEwKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjAiLCJuYW1lIjoiSmF2YSBEZXZlbG9wZXIgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIyMSIsIm5hbWUiOiJKYXZhIERldmVsb3BlciAyKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjIiLCJuYW1lIjoiSmF2YSBEZXZlbG9wZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjIzIiwibmFtZSI6IkMjIERldmVsb3BlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI0IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIyNSIsIm5hbWUiOiJDIyBEZXZlbG9wZXIgMisifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI2IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgMisifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI3IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI4IiwibmFtZSI6IkMjIERldmVsb3BlciA1KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjkiLCJuYW1lIjoiQnVzaW5lc3MgQW5hbHlzdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMwIiwibmFtZSI6IkJ1c2luZXNzIEFuYWx5c3QgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMxIiwibmFtZSI6IkJ1c2luZXNzIEFuYWx5c3QgOCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMyIiwibmFtZSI6IkRhdGFiYXNlIERldmVsb3BlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMzIiwibmFtZSI6IkRhdGFiYXNlIERldmVsb3BlciAyKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMzQiLCJuYW1lIjoiRGF0YWJhc2UgRGV2ZWxvcGVyIDUrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzNSIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgQW5hbHlzdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjM2IiwibmFtZSI6IlNlcnZpY2UgT3BlcmF0aW9ucyBBbmFseXN0IDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzNyIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgTWFuYWdlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjM4IiwibmFtZSI6IlNlcnZpY2UgT3BlcmF0aW9ucyBNYW5hZ2VyIDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzOSIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgTWFuYWdlciA4KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDAiLCJuYW1lIjoiU2VydmljZSBNYW5hZ2VyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDEiLCJuYW1lIjoiU2VydmljZSBNYW5hZ2VyIDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0MiIsIm5hbWUiOiJTZXJ2aWNlIE1hbmFnZXIgIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0MyIsIm5hbWUiOiJQZXJzb25hbCBBc3Npc3RhbnQgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0NCIsIm5hbWUiOiJQZXJzb25hbCBBc3Npc3RhbnQgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjQ1IiwibmFtZSI6IlNpdGUgRGVsaXZlcnkgTWFuYWdlciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDYiLCJuYW1lIjoiUUEgQXV0b21hdG9yIDYrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0NyIsIm5hbWUiOiJUZXN0L1FBIExlYWQgNisifQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIn0sCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICB7CiAgICAiY2F0ZWdvcnlfaWQiOiAiUkVDUlVJVEVSU19ETCIsCiAgICAibmFtZV90ZW1wbGF0ZSI6ICJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE9mZmljZSAiLAogICAgImdyb3VwX2NhdGVnb3J5X2lkIjogImU2MGZlNjZjLTljZTYtMTFlNi1iMDg1LWM0MzQ2YjRlYTg4YSIKICB9LAogIHsKICAgICJjYXRlZ29yeV9pZCI6ICJSRUNSVUlURVJTX0RMIiwKICAgICJuYW1lX3RlbXBsYXRlIjogIldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQW5hbHl0aWNhbCBDZW50ZXIgIiwKICAgICJncm91cF9jYXRlZ29yeV9pZCI6ICJlNjNiZDlkZS05Y2U2LTExZTYtYmNhNS1jNDM0NmI0ZWE4OGEiCiAgfSw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOKdryAgfiAgdXVpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;&quot;</last-search>
+      <last-search>\(.*\),</last-search>
       <last-offset />
-      <last-pattern>&quot;&quot;</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>&quot;&quot;</last-substitute>
+      <last-pattern>\(.*\),</last-pattern>
+      <last-replace>{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:\1}</last-replace>
+      <last-substitute>\(.*\),</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>},&quot;</entry>
-        <entry>TA_DL</entry>
-        <entry>{</entry>
         <entry>com.epam</entry>
         <entry>com.epamx.staf.data</entry>
         <entry>com.epamx.staf.security.data</entry>
@@ -1757,27 +1612,30 @@
         <entry>&quot;_</entry>
         <entry>},{</entry>
         <entry>&quot;&quot;</entry>
+        <entry>\(.*\),?</entry>
+        <entry>\(.*\),\?</entry>
+        <entry>\(.*\),</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/com.epam/com.epamx/g</entry>
-        <entry>%s/com.epamx.staf.data/com.epamx.staf.security.data/g</entry>
-        <entry>%s/com.epamx.staf.security.data/com.epam.staf.security.data/g</entry>
-        <entry>%s/category_id/id/g</entry>
-        <entry>%s/name_template/nameTemplate/g</entry>
-        <entry>%s/id/categoryId/g</entry>
-        <entry>%s/group_categoryId/nameTemplate/g</entry>
-        <entry>%s/group_categoryId/id/g</entry>
-        <entry>%s/([,&quot;])\n/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\n\s+/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\s+\n\s+/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\n/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\s+\n/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\s*\n/\1/g</entry>
-        <entry>%s/\([,&quot;]\)\s*\n\s*/\1/g</entry>
-        <entry>%s/&quot;_/{&quot;_/g</entry>
-        <entry>%s/},{/},/g</entry>
-        <entry>%s/&quot;&quot;/&quot;/g</entry>
-        <entry>w</entry>
+        <entry>action NextSplitter</entry>
+        <entry>%s/\(.*\),?/{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:\1}/g</entry>
+        <entry>%s/\(.*\),\?/{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:\1}/g</entry>
+        <entry>%s/\(.*\),/{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:\1}/g</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action HideSideWindowsaction HideSideWindows</entry>
+        <entry>a</entry>
+        <entry>actionlist increment</entry>
+        <entry>map + :action IncrementValue</entry>
+        <entry>map + :action IncrementValue;</entry>
+        <entry encoding="base64">bWFwICsgOmFjdGlvbiBJbmNyZW1lbnRWYWx1ZTxDUj4=</entry>
+        <entry>action IncrementValue</entry>
+        <entry>actionlist</entry>
+        <entry encoding="base64">bWFwICsgOmFjdGlvbiBWaW0uQ2hhbmdlTnVtYmVySW5jPENSPg==</entry>
+        <entry>actionlist Number</entry>
+        <entry>action Vim.ChangeNumberInc</entry>
+        <entry encoding="base64">bWFwICsgOmFjdGlvbiBWaW1DaGFuZ2VOdW1iZXJJbmM8Q1I+</entry>
+        <entry>action VimChangeNumberIncaction VimChangeNumberInc</entry>
+        <entry>action VimChangeNumberInc</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
