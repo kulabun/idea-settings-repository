@@ -717,6 +717,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/JobFunctionAllowedTitlesController.java" timestamp="1484313506288">
+        <mark key="[" line="97" column="51" />
+        <mark key="]" line="97" column="51" />
+        <mark key="." line="97" column="51" />
+        <mark key="^" line="97" column="51" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/db/migration/V1_0_259__add_manager_to_unit.sql" timestamp="1473258500645">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1174,8 +1180,8 @@
       <jump line="3223" column="13" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIA==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1397,7 +1403,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</text>
@@ -1641,8 +1647,8 @@
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\s+}//g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {S+}//g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {//g</entry>
-        <entry>action HideSideWindows</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
+        <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
       <history-input />
