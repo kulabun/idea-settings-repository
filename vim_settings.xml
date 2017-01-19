@@ -147,6 +147,13 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" timestamp="1484749201431">
+        <mark key="'" line="29" column="96" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_268__update_unit_simple_entity.sql" timestamp="1474038941797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="35" />
@@ -1078,26 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="53841" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_90.json" />
-      <jump line="235" column="30" filename="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/workflow/servicetask/WorkflowScriptUtil.java" />
-      <jump line="376" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
-      <jump line="368" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
-      <jump line="364" column="22" filename="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/ChangeRequisitionRequest.java" />
-      <jump line="128" column="36" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/java/com/epamx/staf/security/ApplicantPositionRolesResolverTest.java" />
-      <jump line="148" column="458" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="3223" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="9" column="223" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="3225" column="0" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="51" column="3991" filename="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" />
-      <jump line="3611" column="505" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="3224" column="282" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="3230" column="95" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/100-units.json" />
-      <jump line="42" column="4" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" />
-      <jump line="1275" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/main/resources/application.yml" />
-      <jump line="10" column="28" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/OverridingProfileValueSource.java" />
       <jump line="1254" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
       <jump line="96" column="53" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
@@ -1178,10 +1165,30 @@
       <jump line="3228" column="2" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" />
       <jump line="3231" column="4" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" />
       <jump line="3223" column="13" filename="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="47" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="73" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="46" column="229" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="42" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="32" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="31" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="41" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="40" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="39" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="38" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="37" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="36" column="100" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="35" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="34" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="33" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="43" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1403,191 +1410,66 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>f49e5190-dd88-11e6-9252-c4346b4ea88a</text>
       </register>
       <register name="/" type="4">
         <text>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;_class&quot;: &quot;com.epam.staf.applicant.data.ClientCandidateLevel&quot;,&quot;id&quot;: &quot;1&quot;,&quot;name&quot;:</text>
+      <register name="0" type="2">
+        <text encoding="base64">eyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGY2M2RlLWRkODgtMTFlNi1hZDgzLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGY4MWEyLWRkODgtMTFlNi04YWUzLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlJlcXVpc2l0aW9uIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFkZjlkYzItZGQ4OC0xMWU2LWE4ZDItYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1VQREFURS1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWRmYmFmYS1kZDg4LTExZTYtYjE2YS1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGZkOWVhLWRkODgtMTFlNi04NjgyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGZmNjY0LWRkODgtMTFlNi1iMjQ1LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUFUVEFDSE1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTAxMmFjLWRkODgtMTFlNi1iZDlkLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDI6T2ZmZXIiLCAiSVRFTV9UWVBFX0wyOlJlcXVpc2l0aW9uIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMDMwNjYtZGQ4OC0xMWU2LWFjZmUtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0RFTEVURS1BVFRBQ0hNRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwNGRjNi1kZDg4LTExZTYtODBhNi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfU1VCTUlULU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTA2YjU4LWRkODgtMTFlNi04MTZjLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9SRVNVQk1JVC1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwODllZS1kZDg4LTExZTYtYjAxMS1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfTUFSSy1PRkZFUi1BUy1NQUlEIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBhNzk0LWRkODgtMTFlNi1iNTJkLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9BQ0NFUFQtT0ZGRVItQlktQ0FORElEQVRFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBjNDY4LWRkODgtMTFlNi04MTcyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9SRUpFQ1QtT0ZGRVItQlktQ0FORElEQVRFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBlMDljLWRkODgtMTFlNi1iYTlmLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNBTkNFTCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwZmI4Ni1kZDg4LTExZTYtYWRlMi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQlBNLUdMT0JBTC1DTE9TRSJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxMTgwYS1kZDg4LTExZTYtOGMzZi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVklFVy1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTEzM2Y4LWRkODgtMTFlNi1hMDVmLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxNGY1MC1kZDg4LTExZTYtOTE2Mi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVVBEQVRFLU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMTZiYWMtZGQ4OC0xMWU2LWE2YTEtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0NSRUFURS1DT01NRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTE4OTBjLWRkODgtMTFlNi1hMzMyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMWE1MmMtZGQ4OC0xMWU2LWExYTItYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1ZJRVctQVRUQUNITUVOVCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDI6T2ZmZXIiLCAiSVRFTV9UWVBFX0wyOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxYzFiMC1kZDg4LTExZTYtOTI3Yi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUFUVEFDSE1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMWRlNTItZGQ4OC0xMWU2LWFlNDEtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0RFTEVURS1BVFRBQ0hNRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTFmYTkwLWRkODgtMTFlNi1hY2Q5LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9TVUJNSVQtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyMTc4Yy1kZDg4LTExZTYtODE2Mi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfUkVTVUJNSVQtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyMzU3OC1kZDg4LTExZTYtOTkyYi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfTUFSSy1PRkZFUi1BUy1NQUlEIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMjUxNjYtZGQ4OC0xMWU2LTliNGMtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0FDQ0VQVC1PRkZFUi1CWS1DQU5ESURBVEUifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyNmQ3Yy1kZDg4LTExZTYtYTVjNy1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfUkVKRUNULU9GRkVSLUJZLUNBTkRJREFURSJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTI4YTc4LWRkODgtMTFlNi05MTA4LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNBTkNFTCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTJhNWU0LWRkODgtMTFlNi1hYWUyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNMT1NFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
+          <key char="34" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMSIsIm5hbWUiOiAiVmVyYmFsIEFncmVlbWVudCJ9LAogIHsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxIiwibmFtZSI6ICJWZXJiYWwgQWdyZWVtZW50In0sCiAgeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEiLCJuYW1lIjogIlZlcmJhbCBBZ3JlZW1lbnQifSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEiLCJuYW1lIjoiUHJvamVjdCBNYW5hZ2VyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMiIsIm5hbWUiOiJQcm9qZWN0IE1hbmFnZXIgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMiLCJuYW1lIjoiUHJvamVjdCBNYW5hZ2VyIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0IiwibmFtZSI6IlBNTyBBbmFseXN0IEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNSIsIm5hbWUiOiJQTU8gQW5hbHlzdCBTZW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjYiLCJuYW1lIjoiVGVjaG5pY2FsIEFyY2hpdGVjdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjciLCJuYW1lIjoiVGVjaG5pY2FsIEFyY2hpdGVjdCA1KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiOCIsIm5hbWUiOiJUZWNobmljYWwgQXJjaGl0ZWN0IDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI5IiwibmFtZSI6IlF1YWxpdHkgRW5naW5lZXIifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEwIiwibmFtZSI6IlRlc3QvUUEgQXV0b21hdG9yIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTEiLCJuYW1lIjoiVGVzdC9RQSBBdXRvbWF0b3IgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEyIiwibmFtZSI6IlRlc3QvUUEgTGVhZCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjEzIiwibmFtZSI6IlRlc3QvUUEgTGVhZCA0KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTQiLCJuYW1lIjoiVGVzdC9RQSBMZWFkIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxNSIsIm5hbWUiOiJUZXN0L1FBIEFuYWx5c3QgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIxNiIsIm5hbWUiOiJUZXN0L1FBIEFuYWx5c3QgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjE3IiwibmFtZSI6IkRldmVsb3BtZW50IFRlYW0gTGVhZGVyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMTgiLCJuYW1lIjoiRGV2ZWxvcG1lbnQgVGVhbSBMZWFkZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjE5IiwibmFtZSI6IkRldmVsb3BtZW50IFRlYW0gTGVhZGVyIDEwKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjAiLCJuYW1lIjoiSmF2YSBEZXZlbG9wZXIgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIyMSIsIm5hbWUiOiJKYXZhIERldmVsb3BlciAyKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjIiLCJuYW1lIjoiSmF2YSBEZXZlbG9wZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjIzIiwibmFtZSI6IkMjIERldmVsb3BlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI0IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIyNSIsIm5hbWUiOiJDIyBEZXZlbG9wZXIgMisifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI2IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgMisifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI3IiwibmFtZSI6IkMrKyBEZXZlbG9wZXIgNSsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjI4IiwibmFtZSI6IkMjIERldmVsb3BlciA1KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMjkiLCJuYW1lIjoiQnVzaW5lc3MgQW5hbHlzdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMwIiwibmFtZSI6IkJ1c2luZXNzIEFuYWx5c3QgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMxIiwibmFtZSI6IkJ1c2luZXNzIEFuYWx5c3QgOCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMyIiwibmFtZSI6IkRhdGFiYXNlIERldmVsb3BlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjMzIiwibmFtZSI6IkRhdGFiYXNlIERldmVsb3BlciAyKyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiMzQiLCJuYW1lIjoiRGF0YWJhc2UgRGV2ZWxvcGVyIDUrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzNSIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgQW5hbHlzdCBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjM2IiwibmFtZSI6IlNlcnZpY2UgT3BlcmF0aW9ucyBBbmFseXN0IDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzNyIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgTWFuYWdlciBKdW5pb3IifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjM4IiwibmFtZSI6IlNlcnZpY2UgT3BlcmF0aW9ucyBNYW5hZ2VyIDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICIzOSIsIm5hbWUiOiJTZXJ2aWNlIE9wZXJhdGlvbnMgTWFuYWdlciA4KyJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDAiLCJuYW1lIjoiU2VydmljZSBNYW5hZ2VyIEp1bmlvciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDEiLCJuYW1lIjoiU2VydmljZSBNYW5hZ2VyIDQrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0MiIsIm5hbWUiOiJTZXJ2aWNlIE1hbmFnZXIgIDgrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0MyIsIm5hbWUiOiJQZXJzb25hbCBBc3Npc3RhbnQgSnVuaW9yIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0NCIsIm5hbWUiOiJQZXJzb25hbCBBc3Npc3RhbnQgNCsifSwKeyJfY2xhc3MiOiAiY29tLmVwYW0uc3RhZi5hcHBsaWNhbnQuZGF0YS5DbGllbnRDYW5kaWRhdGVMZXZlbCIsImlkIjogIjQ1IiwibmFtZSI6IlNpdGUgRGVsaXZlcnkgTWFuYWdlciJ9LAp7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLmFwcGxpY2FudC5kYXRhLkNsaWVudENhbmRpZGF0ZUxldmVsIiwiaWQiOiAiNDYiLCJuYW1lIjoiUUEgQXV0b21hdG9yIDYrIn0sCnsiX2NsYXNzIjogImNvbS5lcGFtLnN0YWYuYXBwbGljYW50LmRhdGEuQ2xpZW50Q2FuZGlkYXRlTGV2ZWwiLCJpZCI6ICI0NyIsIm5hbWUiOiJUZXN0L1FBIExlYWQgNisifQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7Il9jbGFzcyI6ICJjb20uZXBhbS5zdGFmLnBvcHVsYXRvci5Qb3B1bGF0b3JNZXRhIn0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
-        <keys>
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>071b075a-dd89-11e6-889e-c4346b4ea88a</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICB7CiAgICAiY2F0ZWdvcnlfaWQiOiAiUkVDUlVJVEVSU19ETCIsCiAgICAibmFtZV90ZW1wbGF0ZSI6ICJXRkEgVGFsZW50IEFjcXVpc2l0aW9uIE9mZmljZSAiLAogICAgImdyb3VwX2NhdGVnb3J5X2lkIjogImU2MGZlNjZjLTljZTYtMTFlNi1iMDg1LWM0MzQ2YjRlYTg4YSIKICB9LAogIHsKICAgICJjYXRlZ29yeV9pZCI6ICJSRUNSVUlURVJTX0RMIiwKICAgICJuYW1lX3RlbXBsYXRlIjogIldGQSBUYWxlbnQgQWNxdWlzaXRpb24gQW5hbHl0aWNhbCBDZW50ZXIgIiwKICAgICJncm91cF9jYXRlZ29yeV9pZCI6ICJlNjNiZDlkZS05Y2U2LTExZTYtYmNhNS1jNDM0NmI0ZWE4OGEiCiAgfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1629,8 +1511,6 @@
         <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[a-zA-A\&quot;\,\:\n]})//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[^}]})//g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[^\}]})//g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: //g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: \({[^\}]}\)//g</entry>
@@ -1648,6 +1528,8 @@
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {S+}//g</entry>
         <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {//g</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action HideSideWindowsaction HideSideWindows</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
