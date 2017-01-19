@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1475313011751">
@@ -18,6 +18,7 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/200-role-permissions.json" timestamp="1484817395174" />
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/bucket/HiringContainerBucketProvider.java" timestamp="1475486391883">
         <mark key="[" line="60" column="35" />
         <mark key="]" line="31" column="0" />
@@ -357,7 +358,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" timestamp="1484230858631">
+      <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/resources/dataPopulator/101-jobFunctionAllowedTitle.json" timestamp="1484817277092">
         <mark key="'" line="3223" column="13" />
         <mark key="[" line="3224" column="22" />
         <mark key="]" line="3224" column="13" />
@@ -633,6 +634,12 @@
         <mark key="]" line="38" column="53" />
         <mark key="^" line="38" column="53" />
         <mark key="." line="38" column="53" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" timestamp="1484817385714">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="3" column="189" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" timestamp="1477647933340">
         <mark key="'" line="210" column="61" />
@@ -1085,11 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1254" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
-      <jump line="96" column="53" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
-      <jump line="68" column="42" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/introspect/AnnotatedMember.java" />
-      <jump line="91" column="39" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/std/FactoryBasedEnumDeserializer.java" />
       <jump line="17" column="33" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/ContextualDeserializer.java" />
       <jump line="1472" column="68" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
       <jump line="61" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
@@ -1185,10 +1187,15 @@
       <jump line="34" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
       <jump line="33" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
       <jump line="43" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" />
+      <jump line="8" column="214" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" />
+      <jump line="107" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" />
+      <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" />
+      <jump line="108" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjVjNzY2NjRlLWRkODAtMTFlNi05NDJjLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJSRVFVSVNJVElPTl9SRUNSVUlURVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUNPTU1FTlQifSwiaXRlbXMiOltdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjYyNDE4NjA4LWRkODAtMTFlNi04MzQ3LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJSRVFVSVNJVElPTl9SRUNSVUlURVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVklFVy1DT01NRU5UIn0sIml0ZW1zIjpbXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiI2Nzk1MGQ2ZS1kZDgwLTExZTYtOTRjYy1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiUkVRVUlTSVRJT05fUkVDUlVJVEVSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1ZJRVctQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiZTYyZGU3NWUtZGQ4MC0xMWU2LThhOWMtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IlJFUVVJU0lUSU9OX1JFQ1JVSVRFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiZWQ3NzExMDItZGQ4MC0xMWU2LWE3MWQtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IlJFUVVJU0lUSU9OX1JFQ1JVSVRFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9ERUxFVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1413,13 +1420,13 @@
         <text>f49e5190-dd88-11e6-9252-c4346b4ea88a</text>
       </register>
       <register name="/" type="4">
-        <text>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</text>
+        <text>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGY2M2RlLWRkODgtMTFlNi1hZDgzLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGY4MWEyLWRkODgtMTFlNi04YWUzLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlJlcXVpc2l0aW9uIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFkZjlkYzItZGQ4OC0xMWU2LWE4ZDItYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1VQREFURS1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWRmYmFmYS1kZDg4LTExZTYtYjE2YS1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGZkOWVhLWRkODgtMTFlNi04NjgyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZGZmNjY0LWRkODgtMTFlNi1iMjQ1LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUFUVEFDSE1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTAxMmFjLWRkODgtMTFlNi1iZDlkLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDI6T2ZmZXIiLCAiSVRFTV9UWVBFX0wyOlJlcXVpc2l0aW9uIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMDMwNjYtZGQ4OC0xMWU2LWFjZmUtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0RFTEVURS1BVFRBQ0hNRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwNGRjNi1kZDg4LTExZTYtODBhNi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfU1VCTUlULU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTA2YjU4LWRkODgtMTFlNi04MTZjLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9SRVNVQk1JVC1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwODllZS1kZDg4LTExZTYtYjAxMS1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfTUFSSy1PRkZFUi1BUy1NQUlEIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBhNzk0LWRkODgtMTFlNi1iNTJkLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9BQ0NFUFQtT0ZGRVItQlktQ0FORElEQVRFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBjNDY4LWRkODgtMTFlNi04MTcyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9SRUpFQ1QtT0ZGRVItQlktQ0FORElEQVRFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpSZXF1aXNpdGlvbiJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTBlMDljLWRkODgtMTFlNi1iYTlmLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNBTkNFTCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUwZmI4Ni1kZDg4LTExZTYtYWRlMi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQlBNLUdMT0JBTC1DTE9TRSJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UmVxdWlzaXRpb24iXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxMTgwYS1kZDg4LTExZTYtOGMzZi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVklFVy1PRkZFUiJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTEzM2Y4LWRkODgtMTFlNi1hMDVmLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxNGY1MC1kZDg4LTExZTYtOTE2Mi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVVBEQVRFLU9GRkVSIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMTZiYWMtZGQ4OC0xMWU2LWE2YTEtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0NSRUFURS1DT01NRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTE4OTBjLWRkODgtMTFlNi1hMzMyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9WSUVXLUNPTU1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMWE1MmMtZGQ4OC0xMWU2LWExYTItYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1ZJRVctQVRUQUNITUVOVCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDI6T2ZmZXIiLCAiSVRFTV9UWVBFX0wyOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUxYzFiMC1kZDg4LTExZTYtOTI3Yi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUFUVEFDSE1FTlQifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wyOk9mZmVyIiwgIklURU1fVFlQRV9MMjpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMWRlNTItZGQ4OC0xMWU2LWFlNDEtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0RFTEVURS1BVFRBQ0hNRU5UIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMjpPZmZlciIsICJJVEVNX1RZUEVfTDI6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTFmYTkwLWRkODgtMTFlNi1hY2Q5LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9TVUJNSVQtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyMTc4Yy1kZDg4LTExZTYtODE2Mi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfUkVTVUJNSVQtT0ZGRVIifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyMzU3OC1kZDg4LTExZTYtOTkyYi1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfTUFSSy1PRkZFUi1BUy1NQUlEIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiMjFlMjUxNjYtZGQ4OC0xMWU2LTliNGMtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IkhJUklOR19NQU5BR0VSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX0FDQ0VQVC1PRkZFUi1CWS1DQU5ESURBVEUifSwiaXRlbXMiOlsiSVRFTV9UWVBFX0wxOlBvb2xDb250YWluZXIiXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiIyMWUyNmQ3Yy1kZDg4LTExZTYtYTVjNy1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiSElSSU5HX01BTkFHRVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfUkVKRUNULU9GRkVSLUJZLUNBTkRJREFURSJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTI4YTc4LWRkODgtMTFlNi05MTA4LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNBTkNFTCJ9LCJpdGVtcyI6WyJJVEVNX1RZUEVfTDE6UG9vbENvbnRhaW5lciJdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjIxZTJhNWU0LWRkODgtMTFlNi1hYWUyLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJISVJJTkdfTUFOQUdFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9CUE0tR0xPQkFMLUNMT1NFIn0sIml0ZW1zIjpbIklURU1fVFlQRV9MMTpQb29sQ29udGFpbmVyIl19LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjVjNzY2NjRlLWRkODAtMTFlNi05NDJjLWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJSRVFVSVNJVElPTl9SRUNSVUlURVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfQ1JFQVRFLUNPTU1FTlQifSwiaXRlbXMiOltdfSwKeyJfY2xhc3MiOiJjb20uZXBhbS5zdGFmLnNlY3VyaXR5LmRhdGEuUm9sZVBlcm1pc3Npb24iLCJpZCI6IjYyNDE4NjA4LWRkODAtMTFlNi04MzQ3LWM0MzQ2YjRlYTg4YSIsInJvbGUiOnsiaWQiOiJSRVFVSVNJVElPTl9SRUNSVUlURVIifSwiYXV0aG9yaXR5Ijp7ImlkIjoiQkZfU0VfVklFVy1DT01NRU5UIn0sIml0ZW1zIjpbXX0sCnsiX2NsYXNzIjoiY29tLmVwYW0uc3RhZi5zZWN1cml0eS5kYXRhLlJvbGVQZXJtaXNzaW9uIiwiaWQiOiI2Nzk1MGQ2ZS1kZDgwLTExZTYtOTRjYy1jNDM0NmI0ZWE4OGEiLCJyb2xlIjp7ImlkIjoiUkVRVUlTSVRJT05fUkVDUlVJVEVSIn0sImF1dGhvcml0eSI6eyJpZCI6IkJGX1NFX1ZJRVctQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiZTYyZGU3NWUtZGQ4MC0xMWU2LThhOWMtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IlJFUVVJU0lUSU9OX1JFQ1JVSVRFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9DUkVBVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAp7Il9jbGFzcyI6ImNvbS5lcGFtLnN0YWYuc2VjdXJpdHkuZGF0YS5Sb2xlUGVybWlzc2lvbiIsImlkIjoiZWQ3NzExMDItZGQ4MC0xMWU2LWE3MWQtYzQzNDZiNGVhODhhIiwicm9sZSI6eyJpZCI6IlJFUVVJU0lUSU9OX1JFQ1JVSVRFUiJ9LCJhdXRob3JpdHkiOnsiaWQiOiJCRl9TRV9ERUxFVEUtQVRUQUNITUVOVCJ9LCJpdGVtcyI6W119LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1479,57 +1486,57 @@
       </register>
     </registers>
     <search>
-      <last-search>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</last-search>
+      <last-search>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</last-search>
       <last-offset />
-      <last-pattern>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</last-pattern>
-      <last-replace />
-      <last-substitute>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</last-substitute>
+      <last-pattern>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</last-pattern>
+      <last-replace>&quot;items&quot;:[]</last-replace>
+      <last-substitute>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[a-zA-A\&quot;\,\:\n]})</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[^}]})</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[^\}]})</entry>
-        <entry encoding="base64">e1xuXHMqImtleSI6ICJcZFwrX1xkXCsiLFxuXHMqXCJ2YWx1ZSI6IA==</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: \({[^\}]}\)</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[^\}]}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[^}]}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[a-zA-Z\n&quot;:,]}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[a-zA-Z\n&quot;:,\]}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[]+}//g</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\s+]\+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\S+]\+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\S]\+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[\n\S\]\+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[a-zA-Z\n\S\]\+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\s+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {S+}</entry>
-        <entry>{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {</entry>
+        <entry>&quot;items&quot;:\S\+\n</entry>
+        <entry>&quot;items&quot;:[\S ]\+</entry>
+        <entry>&quot;items&quot;:\[\S \]\+</entry>
+        <entry>&quot;items&quot;:\[\S]\+</entry>
+        <entry>&quot;items&quot;:\[\S\s]\+</entry>
+        <entry>&quot;items&quot;:[a-zA-Z&quot;]\+</entry>
+        <entry>&quot;items&quot;:[\[a-zA-Z&quot;\]\+/&quot;items&quot;:[]},</entry>
+        <entry>&quot;items&quot;:\S\+</entry>
+        <entry>&quot;items&quot;:\[\S\s\]\+</entry>
+        <entry>&quot;items&quot;:\\[\S\s\\]\+</entry>
+        <entry>&quot;items&quot;:[\S\s]\+</entry>
+        <entry>&quot;items&quot;:\[[]\]\+/&quot;items&quot;:[]},</entry>
+        <entry>&quot;items&quot;:[\[\]]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z A-Z]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z A-Z&quot;]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a\-z\ A\-Z&quot;]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z\ A-Z&quot;]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9]\+</entry>
+        <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: ({[^\}]})//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: //g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: \({[^\}]}\)//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[^\}]}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[^}]}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[a-zA-Z\n&quot;:,]}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[a-zA-Z\n&quot;:,\]}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[]+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\s+]\+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\S+]\+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {[\n\S]\+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[\n\S\]\+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\[a-zA-Z\n\S\]\+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {\s+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {S+}//g</entry>
-        <entry>%s/{\n\s*&quot;key&quot;: &quot;\d\+_\d\+&quot;,\n\s*\&quot;value&quot;: {//g</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry>action AceJumpAction</entry>
-        <entry>action HideSideWindowsaction HideSideWindows</entry>
+        <entry>%s/&quot;items&quot;:\[\S \]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\[\S]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\[\S\s]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[a-zA-Z&quot;]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[a-zA-Z&quot;\]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\S\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\[\S\s\]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\\[\S\s\\]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\S\s]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:\[[]\]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z A-Z]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z A-Z&quot;]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a\-z\ A\-Z&quot;]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z\ A-Z&quot;]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z\ A-Z_&quot;]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+/&quot;items&quot;:[]},/g</entry>
+        <entry>%s/&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+/&quot;items&quot;:[]/g</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
