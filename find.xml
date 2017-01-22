@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'epm-staf'" />
     <option name="defaultScopeName" value="Project 'epm-staf'" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'epm-staf'" />
     <recentFileMasks>
       <mask>*.properties</mask>
