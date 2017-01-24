@@ -21,7 +21,4 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="VimChangeNumberInc">
-    <keyboard-shortcut first-keystroke="equals" />
-  </action>
 </keymap>
