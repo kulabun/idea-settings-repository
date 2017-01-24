@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="alt p" />
@@ -17,5 +20,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="VimChangeNumberInc">
+    <keyboard-shortcut first-keystroke="equals" />
   </action>
 </keymap>
