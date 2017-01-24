@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/filter/TestJsonIgnoreForCollections.java" timestamp="1474005985406">
@@ -393,12 +393,12 @@
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
       </file>
-      <file name="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" timestamp="1485242701868">
-        <mark key="'" line="37" column="12" />
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="21" />
-        <mark key="." line="75" column="21" />
-        <mark key="^" line="75" column="19" />
+      <file name="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" timestamp="1485244252828">
+        <mark key="'" line="35" column="132" />
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="1" column="72" />
+        <mark key="." line="1" column="72" />
+        <mark key="^" line="1" column="72" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_cancelled.sql" timestamp="1473860243368">
         <mark key="[" line="286" column="0" />
@@ -428,12 +428,12 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="25" />
       </file>
-      <file name="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" timestamp="1485240753952">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" timestamp="1485243793535">
+        <mark key="'" line="46" column="2" />
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="46" column="1" />
       </file>
       <file name="$USER_HOME$/project/meta4linux/resources/META-INF/plugin.xml" timestamp="1475252098182">
         <mark key="[" line="10" column="25" />
@@ -1056,59 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="34" column="9" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="52" column="7" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/project/jackson-databind/src/test/java/com/fasterxml/jackson/databind/creators/EnumCreatorTest.java" />
-      <jump line="294" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
-      <jump line="283" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
-      <jump line="52" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/Assert.java" />
-      <jump line="75" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
-      <jump line="78" column="19" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BasicDeserializerFactory.java" />
-      <jump line="306" column="20" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
-      <jump line="102" column="22" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="21" column="24" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/impl/UnwrappedPropertyHandler.java" />
-      <jump line="1478" column="79" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="12" column="56" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/UnknownPropertyHandler.java" />
-      <jump line="1436" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="1636" column="0" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="265" column="14" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="88" column="45" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
-      <jump line="181" column="40" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerBase.java" />
-      <jump line="291" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
-      <jump line="653" column="29" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
-      <jump line="592" column="36" filename="$USER_HOME$/project/jackson-databind/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java" />
-      <jump line="115" column="12" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/100-security-groups.json" />
-      <jump line="7" column="5" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/resources/ldap/101-ldap-groups.json" />
-      <jump line="36009" column="4" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/resources/ldap/101-ldap-groups.json" />
-      <jump line="34062" column="8" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/resources/ldap/101-ldap-groups.json" />
-      <jump line="35964" column="4" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/resources/ldap/101-ldap-groups.json" />
-      <jump line="876" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/100-security-groups.json" />
-      <jump line="13" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="69" column="2" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="16" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="0" column="88" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" />
-      <jump line="6" column="0" filename="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/data/GroupCategory.java" />
-      <jump line="6" column="3" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="204" column="62" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="230" column="2" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="236" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="208" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="231" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="233" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="234" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="210" column="61" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/101-group-category.json" />
-      <jump line="22" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
-      <jump line="313" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
-      <jump line="54" column="4" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
       <jump line="65" column="0" filename="$USER_HOME$/project/epm-staf/staf-security/src/main/resources/dictionaryPopulator/99-group-category.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
       <jump line="46" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" />
@@ -1150,19 +1097,72 @@
       <jump line="1" column="55" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" />
       <jump line="41" column="2" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" />
       <jump line="24" column="2" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" />
+      <jump line="34" column="245" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="33" column="341" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="32" column="187" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="31" column="117" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="30" column="384" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="29" column="637" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="28" column="236" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="27" column="202" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="26" column="204" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="25" column="793" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="24" column="1410" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="23" column="2539" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="22" column="4712" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="21" column="9053" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="20" column="17799" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="19" column="35301" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="18" column="70230" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="17" column="140312" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="39" column="123" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="40" column="169" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="1" column="24" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
       <jump line="76" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
-      <jump line="39" column="112" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
-      <jump line="38" column="164" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="75" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="74" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
       <jump line="73" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
-      <jump line="75" column="2" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
-      <jump line="36" column="12" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="72" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="71" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="70" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="69" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="68" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="67" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="66" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="65" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="64" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="63" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="62" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="61" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="60" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="59" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="58" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="57" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="56" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="55" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="54" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="37" column="134" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="36" column="210" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="35" column="205" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="53" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="52" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="51" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="50" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="49" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="47" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="46" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="45" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="44" column="0" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
+      <jump line="38" column="132" filename="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/11-role-permission.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>v$&quot;qddd34jv$&quot;wyhpj4^jt1xxhplt1lt1xxh&quot;qpgg</text>
+        <text>v$&quot;qdddGv$&quot;wy=gg37j^jt1xxh&quot;wplt1lt1xxh&quot;qpgg^</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1384,10 +1384,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n</text>
+        <text encoding="base64">XDxVU0VSX0RFTEVURVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cl0K</text>
@@ -1396,19 +1396,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <text>&quot;USER_DELETE&quot;</text>
+        <text>&quot;CLIENT_FINANCIAL_REVIEW_VIEW&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;USER_DELETE&quot;</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2JCJxZDM0anYkInd5NF5qdDF4eGhwbHQxbHQxeHhoInFwMzdrCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">IkNMSUVOVF9GSU5BTkNJQUxfUkVWSUVXX0RFTEVURSIK</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;USER_DELETE&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">NAo=</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">IlVTRVJfVklFVyIKIlVTRVJfRURJVCIKIlVTRVJfRURJVCIK</text>
@@ -1516,34 +1516,33 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>&quot;USER_DELETE&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAKICB2JCJxZGRkR3YkInd5PWdnMzdqXmp0MXh4aCJ3cGx0MWx0MXh4aCJxcGdnXgo=</text>
       </register>
       <register name="w" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">OmFjdGlvbiBIaWRlU2lkZVdpbmRvd3MK</text>
+      <register name="9" type="4">
+        <text>&quot;CLIENT_FINANCIAL_REVIEW_VIEW&quot;</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
       </register>
     </registers>
     <search>
-      <last-search>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n</last-search>
+      <last-search encoding="base64">XDxVU0VSX0RFTEVURVw+</last-search>
       <last-offset />
-      <last-pattern>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n</last-pattern>
+      <last-pattern encoding="base64">XDxVU0VSX0RFTEVURVw+</last-pattern>
       <last-replace>\1,</last-replace>
       <last-substitute>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;]\+</entry>
         <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9]\+</entry>
         <entry>&quot;items&quot;:[\[\]a-z\ A-Z_&quot;1-9:,]\+</entry>
         <entry>[a-zA-Z _]= (&quot;[a-zA-Z_]&quot;)</entry>
@@ -1563,14 +1562,9 @@
         <entry>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;([a-zA-Z_]\+)&quot;</entry>
         <entry>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;</entry>
         <entry>{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n</entry>
+        <entry encoding="base64">XDxVU0VSX0RFTEVURVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKS8vZyA=</entry>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsvXHQvZyA=</entry>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsvXDEvZyA=</entry>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsveyJpZCI6XDEsIm5hbWUiOlwxfS9nIA==</entry>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsveyJpZCI6XDEsIm5hbWUiOlwxfSwvZyA=</entry>
-        <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsveyJfY2xhc3MiOiIiLCJpZCI6XDEsIm5hbWUiOlwxfSwvZyA=</entry>
         <entry encoding="base64">JXMvW2EtekEtWiBfXVwrPSBcKCJbQS1aX11cKyJcKTsveyJfY2xhc3MiOiJjb20uaGVzLmZ1c2lvbmFtLnNlY3VyaXR5LmRhdGEuQXV0aG9yaXR5IiwiaWQiOlwxLCJuYW1lIjpcMX0sL2cg</entry>
         <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;//g</entry>
         <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;[a-zA-Z_]\+&quot;.*\n//g</entry>
@@ -1584,6 +1578,12 @@
         <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n/\1\n/g</entry>
         <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n/\1,/g</entry>
         <entry>registers</entry>
+        <entry>actionlist</entry>
+        <entry>action Find</entry>
+        <entry>actionlist Increment</entry>
+        <entry>actionlist inc</entry>
+        <entry encoding="base64">bWFwID0gOmFjdGlvbiBWaW1DaGFuZ2VOdW1iZXJJbmM8Q1I+</entry>
+        <entry>action VimChangeNumberInc</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
