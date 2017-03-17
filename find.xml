@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fusion-am'" />
-    <option name="defaultScopeName" value="Project 'fusion-am'" />
+    <option name="customScope" value="Directory '[backoffice] - .../backoffice'" />
+    <option name="defaultScopeName" value="Directory '[backoffice] - .../backoffice'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'fusion-am'" />
+    <option name="SEARCH_SCOPE" value="Directory '[backoffice] - .../backoffice'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
