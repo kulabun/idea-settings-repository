@@ -20,15 +20,34 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" timestamp="1477643147853">
+        <mark key="'" line="0" column="88" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1477402714120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="114" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/test/resources/application.yml" timestamp="1474029063250">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="34" column="38" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="101" />
+        <mark key="." line="38" column="101" />
+        <mark key="^" line="38" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/ideavim/src/com/maddyhome/idea/vim/VimPlugin.java" timestamp="1480647529602">
         <mark key="[" line="156" column="25" />
@@ -57,12 +76,6 @@
         <mark key="]" line="28" column="5" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/container_opportunity_converted.sql" timestamp="1473867780914">
         <mark key="[" line="219" column="45" />
         <mark key="]" line="225" column="2" />
@@ -79,6 +92,12 @@
         <mark key="]" line="37" column="126" />
         <mark key="." line="37" column="112" />
         <mark key="^" line="37" column="111" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475671895024">
+        <mark key="[" line="30" column="139" />
+        <mark key="]" line="104" column="1" />
+        <mark key="^" line="111" column="5" />
+        <mark key="." line="111" column="29" />
       </file>
       <file name="$USER_HOME$/project/fusion-am/web/src/main/java/com/hes/fusionam/web/backoffice/user/BackOfficeUserRoleController.java" timestamp="1485238208014">
         <mark key="[" line="82" column="0" />
@@ -147,6 +166,12 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473416054925">
+        <mark key="[" line="802" column="0" />
+        <mark key="]" line="802" column="99" />
+        <mark key="^" line="802" column="1" />
+        <mark key="." line="802" column="38" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/resources/dataSet/901-applicants-dev.json" timestamp="1474039978877">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="4" column="4" />
@@ -199,25 +224,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" timestamp="1484749201431">
-        <mark key="'" line="29" column="96" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="29" column="60" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/data/fts/FtsRequisitionRecruiterBatchUpdateEvent.java" timestamp="1474022664108">
         <mark key="[" line="18" column="14" />
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_116.json" timestamp="1477643147853">
-        <mark key="'" line="0" column="88" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/resources/db/migration/V1_0_272__add_requisition_fields.sql" timestamp="1474551338775">
         <mark key="[" line="4" column="26" />
@@ -230,6 +241,12 @@
         <mark key="]" line="38" column="49" />
         <mark key="^" line="38" column="49" />
         <mark key="." line="38" column="49" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_91.json" timestamp="1473256919817">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_assigned.sql" timestamp="1473868091735">
         <mark key="[" line="271" column="12" />
@@ -253,11 +270,12 @@
         <mark key="." line="170" column="47" />
         <mark key="^" line="170" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="13" column="160" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="13" column="80" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_159.json" timestamp="1484749201431">
+        <mark key="'" line="29" column="96" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/ideavim/src/com/maddyhome/idea/vim/ui/ExKeyBindings.java" timestamp="1475216809280">
         <mark key="[" line="38" column="49" />
@@ -293,22 +311,11 @@
         <mark key="^" line="14" column="178" />
         <mark key="." line="14" column="179" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" timestamp="1482848154870">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/service/bucket/PositionBucketProvider.java" timestamp="1477404231897">
         <mark key="[" line="91" column="45" />
         <mark key="]" line="134" column="48" />
         <mark key="^" line="134" column="48" />
         <mark key="." line="134" column="48" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_99.json" timestamp="1474295322194">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/ideavim/.gitignore" timestamp="1475314232483">
         <mark key="[" line="0" column="0" />
@@ -320,12 +327,6 @@
         <mark key="[" line="22" column="8" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="192" column="0" />
-        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/DevStaffingProfileTest.java" timestamp="1474463946992">
         <mark key="[" line="6" column="0" />
@@ -362,12 +363,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05763c4e-4c84-4402-88a6-db844beecf07/console.sql" timestamp="1473416054925">
-        <mark key="[" line="802" column="0" />
-        <mark key="]" line="802" column="99" />
-        <mark key="^" line="802" column="1" />
-        <mark key="." line="802" column="38" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ui/src/test/java/com/epam/staf/test/profiles/support/YamlProfileLoader.java" timestamp="1473691097381">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -381,6 +376,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.json" timestamp="1482848154870">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/data/x/UnitSimpleEntity.java" timestamp="1474037096791">
         <mark key="[" line="52" column="69" />
@@ -421,12 +422,6 @@
         <mark key="[" line="397" column="70" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="93" />
-        <mark key="^" line="0" column="93" />
-        <mark key="." line="0" column="93" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/bucket/RequisitionBucketProviderTest.java" timestamp="1475511220273">
         <mark key="[" line="124" column="45" />
@@ -478,6 +473,18 @@
         <mark key="]" line="119" column="105" />
         <mark key="." line="119" column="105" />
         <mark key="^" line="119" column="105" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_96.json" timestamp="1473861613772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26321" />
+        <mark key="^" line="0" column="26321" />
+        <mark key="." line="0" column="26321" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.json" timestamp="1473769255692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="192" column="0" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf-notifications/nm-db/src/main/resources/notification_template_scripts/proposal_opportunity_status_changed_proposed.sql" timestamp="1473860707973">
         <mark key="[" line="292" column="0" />
@@ -598,12 +605,6 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_96.json" timestamp="1473861613772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26321" />
-        <mark key="^" line="0" column="26321" />
-        <mark key="." line="0" column="26321" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/FtsEntityFtsIntegration.java" timestamp="1474026130054">
         <mark key="[" line="61" column="45" />
         <mark key="]" line="32" column="0" />
@@ -632,17 +633,22 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_98.json" timestamp="1474295230117">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4998" />
+        <mark key="." line="0" column="4998" />
+        <mark key="^" line="0" column="4998" />
+      </file>
+      <file name="$USER_HOME$/project/fusion-am/fusionam-web/src/main/resources/dataPopulator/dictionary/10-country.json" timestamp="1492171236828">
+        <mark key="[" line="1441" column="20" />
+        <mark key="]" line="1442" column="0" />
+        <mark key="." line="1442" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant-api/src/main/java/com/epam/staf/applicant/test/util/generator/ApplicantDataSetSaverImpl.java" timestamp="1474041038699">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="75" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_97.json" timestamp="1473952335974">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/EmployeeIntegrationHandlers.java" timestamp="1473865455528">
         <mark key="[" line="411" column="33" />
@@ -667,6 +673,11 @@
         <mark key="^" line="46" column="15" />
         <mark key="." line="46" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_99.json" timestamp="1474295322194">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-applicant/src/main/java/com/epam/staf/applicant/bucket/ApplicantBucketProvider.java" timestamp="1477403881370">
         <mark key="[" line="82" column="29" />
         <mark key="]" line="83" column="23" />
@@ -677,6 +688,12 @@
         <mark key="[" line="225" column="0" />
         <mark key="]" line="225" column="57" />
         <mark key="." line="225" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
+        <mark key="[" line="246" column="113" />
+        <mark key="]" line="252" column="143" />
+        <mark key="^" line="252" column="59" />
+        <mark key="." line="252" column="99" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/controller/RequisitionDictionaryController.java" timestamp="1473954074957">
         <mark key="[" line="34" column="0" />
@@ -723,23 +740,29 @@
         <mark key="^" line="75" column="85" />
         <mark key="." line="75" column="85" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console_14.sql" timestamp="1473152127600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="93" />
+        <mark key="^" line="0" column="93" />
+        <mark key="." line="0" column="93" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/JobFunctionAllowedTitlesController.java" timestamp="1484313506288">
         <mark key="[" line="97" column="51" />
         <mark key="]" line="97" column="51" />
         <mark key="." line="97" column="51" />
         <mark key="^" line="97" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/645de644-71eb-454f-8d36-da7d46c862ff/console.sql" timestamp="1475671895024">
-        <mark key="[" line="30" column="139" />
-        <mark key="]" line="104" column="1" />
-        <mark key="^" line="111" column="5" />
-        <mark key="." line="111" column="29" />
-      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/test/java/com/epam/staf/hiringcontainer/AbstractHiringContainerTest.java" timestamp="1475489063438">
         <mark key="[" line="221" column="5" />
         <mark key="]" line="238" column="0" />
         <mark key="." line="238" column="0" />
         <mark key="^" line="238" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_97.json" timestamp="1473952335974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-dictionary/src/main/java/com/epam/staf/dictionary/rest/ProductionCategoryController.java" timestamp="1473257689479">
         <mark key="[" line="40" column="48" />
@@ -770,6 +793,12 @@
         <mark key="]" line="118" column="1" />
         <mark key="." line="118" column="1" />
         <mark key="^" line="118" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4632" column="15" />
+        <mark key="." line="4632" column="15" />
+        <mark key="^" line="4632" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/rest/PositionExtController.java" timestamp="1473418312993">
         <mark key="[" line="100" column="0" />
@@ -816,6 +845,12 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" timestamp="1484817385714">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="3" column="189" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/ideavim/resources/META-INF/plugin.xml" timestamp="1475313642860">
         <mark key="[" line="24" column="10" />
@@ -888,12 +923,6 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30457fdd-86e8-43ac-96ef-bbb4c2811b10/console.sql" timestamp="1473416097830">
-        <mark key="[" line="246" column="113" />
-        <mark key="]" line="252" column="143" />
-        <mark key="^" line="252" column="59" />
-        <mark key="." line="252" column="99" />
-      </file>
       <file name="$USER_HOME$/project/fusion-am/web/src/main/resources/dataPopulator/10-authority.json" timestamp="1485243793535">
         <mark key="'" line="46" column="2" />
         <mark key="[" line="46" column="2" />
@@ -910,12 +939,6 @@
         <mark key="[" line="10" column="25" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1473159114089">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4632" column="15" />
-        <mark key="." line="4632" column="15" />
-        <mark key="^" line="4632" column="15" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-ext/src/main/java/com/epamx/staf/integration/notifications/ContainerNotificationHandlers.java" timestamp="1473862443639">
         <mark key="[" line="310" column="8" />
@@ -952,17 +975,17 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1d5b1b-08bb-408d-95f9-e100c4b4f162/console.sql" timestamp="1473323390040">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="13" column="160" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="13" column="80" />
+      </file>
       <file name="$USER_HOME$/project/epm-staf/staf-hiring-container/src/main/java/com/epam/staf/hiringcontainer/repository/HiringContainerEmployeeRepository.java" timestamp="1473418954896">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_92.json" timestamp="1473407938841">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="114" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-epam-bpm/src/main/java/com/epamx/staf/bpm/integration/action/ActionType.java" timestamp="1473162922045">
         <mark key="[" line="3" column="31" />
@@ -974,12 +997,6 @@
         <mark key="[" line="58" column="33" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" timestamp="1472820673805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="101" />
-        <mark key="." line="38" column="101" />
-        <mark key="^" line="38" column="101" />
       </file>
       <file name="$USER_HOME$/project/Moncon/src/main/java/pw/labun/controller/InvoiceController.java" timestamp="1471845684306">
         <mark key="[" line="28" column="7" />
@@ -1003,12 +1020,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_98.json" timestamp="1474295230117">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4998" />
-        <mark key="." line="0" column="4998" />
-        <mark key="^" line="0" column="4998" />
       </file>
       <file name="$USER_HOME$/project/epm-staf/staf-app-api/src/main/java/com/epam/staf/test/util/generator/StafAppDataSetSaverImpl.java" timestamp="1474041135945">
         <mark key="[" line="38" column="137" />
@@ -1037,12 +1048,6 @@
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="42" />
         <mark key="." line="56" column="42" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_160.json" timestamp="1484817385714">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="3" column="189" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1477645423080">
         <mark key="[" line="0" column="0" />
@@ -1164,7 +1169,7 @@
         <text>v$&quot;qdddGv$&quot;wy=gg37j^jt1xxh&quot;wplt1lt1xxh&quot;qpgg^</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIiIsCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyB7Cg==</text>
@@ -1395,28 +1400,28 @@
         <text encoding="base64">Cl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIiIsCg==</text>
       </register>
       <register name="q" type="4">
         <text>&quot;CLIENT_FINANCIAL_REVIEW_VIEW&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IkNMSUVOVF9GSU5BTkNJQUxfUkVWSUVXX0RFTEVURSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NAo=</text>
+        <text encoding="base64">IkNMSUVOVF9GSU5BTkNJQUxfUkVWSUVXX0RFTEVURSIK</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">IlVTRVJfVklFVyIKIlVTRVJfRURJVCIKIlVTRVJfRURJVCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1519,7 +1524,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICB2JCJxZGRkR3YkInd5PWdnMzdqXmp0MXh4aCJ3cGx0MWx0MXh4aCJxcGdnXgo=</text>
+        <text encoding="base64">NAo=</text>
       </register>
       <register name="w" type="4">
         <text>4</text>
@@ -1527,8 +1532,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;CLIENT_FINANCIAL_REVIEW_VIEW&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAKICB2JCJxZGRkR3YkInd5PWdnMzdqXmp0MXh4aCJ3cGx0MWx0MXh4aCJxcGdnXgo=</text>
       </register>
       <register name=":" type="4">
         <text>action HideSideWindows</text>
@@ -1567,25 +1572,25 @@
         <entry>\([A-Z_]\+\)_\([A-Z]\+\)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;[a-zA-Z_]\+&quot;.*\n/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;[a-zA-Z_]\+&quot;\s\+\n/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;[a-zA-Z_]\+&quot;\\s\+\n/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;([a-zA-Z_]\+)&quot;,.*\n/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;([a-zA-Z_]\+)&quot;.*\n/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;([a-zA-Z_]\+)&quot;/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;/\1/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n/\1\n/g</entry>
-        <entry>%s/{&quot;_class&quot;:&quot;com.hes.fusionam.security.data.Authority&quot;,&quot;id&quot;:&quot;\([a-zA-Z_]\+\)&quot;.*\n/\1,/g</entry>
-        <entry>registers</entry>
-        <entry>actionlist</entry>
-        <entry>action Find</entry>
-        <entry>actionlist Increment</entry>
-        <entry>actionlist inc</entry>
-        <entry encoding="base64">bWFwID0gOmFjdGlvbiBWaW1DaGFuZ2VOdW1iZXJJbmM8Q1I+</entry>
-        <entry>action VimChangeNumberInc</entry>
         <entry>%s/\([A-Z_]\+\)_\([A-Z]\)/\2_\1/g</entry>
         <entry>%s/\([A-Z_]\+\)_\([A-Z]\)\+/\2_\1/g</entry>
         <entry>%s/\([A-Z_]\+\)_\([A-Z]\+\)/\2_\1/g</entry>
+        <entry>s/\b(&quot;id&quot;: \d+)\b(?{ $count++ }) /#$count=$1/gx;</entry>
+        <entry>s/\b(&quot;id&quot;: \d+)(?{ $count++ })/#$count=$1/gx;</entry>
+        <entry>action NextSplitter</entry>
+        <entry>let</entry>
+        <entry>let a</entry>
+        <entry>let a 1</entry>
+        <entry>let a='1'</entry>
+        <entry>a++</entry>
+        <entry>$a++</entry>
+        <entry>let a=a+1</entry>
+        <entry>let a=\a+1'</entry>
+        <entry>let a='a+1'</entry>
+        <entry>let a=1</entry>
+        <entry>let a = 1</entry>
+        <entry>let a = a + 1</entry>
+        <entry>echo a</entry>
         <entry>action HideSideWindows</entry>
       </history-cmd>
       <history-expr />
