@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -14,6 +15,7 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <option name="WRAP_COMMENTS" value="true" />
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
   </JavaCodeStyleSettings>
