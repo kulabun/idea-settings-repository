@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="HesApplication.java" type="JAVA" />
       <mapping pattern="tests.txt" type="PLAIN_TEXT" />
-      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="jspn" type="PLAIN_TEXT" />
       <mapping ext="immutable" type="PLAIN_TEXT" />
     </extensionMap>
