@@ -1,7 +1,0 @@
-<list display="Rafactor - Extract">
-  <action id="IntroduceVariable" />
-  <action id="IntroduceField" />
-  <action id="IntroduceConstant" />
-  <action id="IntroduceParameter" />
-  <action id="ExtractMethod" />
-</list>
